@@ -1,988 +1,991 @@
 sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_desc,incident_zip,incident_closed_date
-1,313416,['Open Burning'],2024-11-27,2024-11-26,Wicomico,Under Investigation,21801,2024-11-26
-2,313413,['Other'],2024-11-14,2024-11-14,Allegany,Incident Closed - No further action,21502,2024-11-14
-3,313411,['Odor'],2024-11-08,2024-11-08,Allegany,Referred to Outside Agency,21501,2024-11-08
-4,303409,['Air'],2024-11-21,2024-11-21,Baltimore,Incident Closed-No Violation Observed,,2024-11-21
-5,303408,['Air'],2024-11-21,2024-11-19,Anne Arundel,Under Investigation,,2024-11-19
-6,303399,['Air'],2024-11-19,2024-11-19,Anne Arundel,Under Investigation,21226,2024-11-19
-7,303398,['Air'],2024-11-18,2024-11-18,Anne Arundel,Under Investigation,21226,2024-11-18
-8,303395,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-13,2024-11-13,Montgomery,Incident Closed-Managed,20837,2024-11-13
-9,303394,"['Air', 'Fugitive Dust/Particulate Matter', 'Odor']",2024-11-14,2024-11-04,Montgomery,Referred to Outside Agency,20850,2024-11-04
-10,303394,"['Air', 'Fugitive Dust/Particulate Matter', 'Odor']",2024-11-14,2024-11-04,Montgomery,Referred to Outside Agency,20850,2024-11-04
-11,303393,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-14,2024-11-06,Montgomery,Referred to Outside Agency,20850,2024-11-06
-12,303393,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-14,2024-11-06,Montgomery,Referred to Outside Agency,20850,2024-11-06
-13,303390,['Odor'],2024-11-19,2024-11-15,Cecil,Incident Closed - No further action,21921,2024-11-15
-14,303389,['Smoke'],2024-11-15,2024-11-15,Cecil,Incident Closed-Managed,21921,2024-11-15
-15,303384,['Other'],2024-11-13,2024-11-13,Prince George's,Incident Closed-Managed,,2024-11-13
-16,303373,['Air'],2024-11-04,2024-11-04,Anne Arundel,Incident Closed - No further action,21146,2024-11-04
-17,303372,['Air'],2024-11-04,2024-11-04,Anne Arundel,Incident Closed-Managed,21226,2024-11-04
-18,303371,['Air'],2024-11-07,2024-11-07,Anne Arundel,Incident Closed-Managed,21226,2024-11-07
-19,303370,['Air'],2024-11-08,2024-11-08,Anne Arundel,Incident Closed-Managed,21226,2024-11-08
-20,303369,['Odor'],2024-11-11,2024-11-12,Baltimore City,Incident Closed-Managed,21226,2024-11-12
-21,303366,"['Air', 'Other']",2024-10-29,2024-10-29,Montgomery,Incident Closed-Managed,20877,2024-10-29
-22,303365,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-06,2024-11-06,Montgomery,Referred to Outside Agency,20874,2024-11-06
-23,303364,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-08,2024-11-03,Montgomery,Referred to Outside Agency,20896,2024-11-03
-24,303363,"['Air', 'Open Burning']",2024-11-01,2024-10-31,Carroll,Referred to Outside Agency,21784,2024-10-31
-26,303361,"['Air', 'Other']",2024-10-30,2024-10-30,Anne Arundel,Referred to Outside Agency,21061,2024-10-30
-27,303353,['Other'],2024-10-21,2024-10-21,Washington,Incident Closed-No Violation Observed,21742,2024-10-21
-28,303337,['Air'],2024-10-31,2024-10-31,Anne Arundel,Incident Closed - No further action,,2024-10-31
-29,303320,['Air'],2024-10-27,2024-10-27,Frederick,Incident Closed-Managed,21769,2024-10-27
-30,303318,['Air'],2024-10-29,2024-10-29,Frederick,Under Investigation,21783,2024-10-29
-31,303314,['Air'],2024-10-28,2024-10-28,Anne Arundel,Under Investigation,21037,2024-10-28
-32,303302,['Other'],2024-10-22,2024-10-22,Prince George's,Incident Closed-Managed,,2024-10-22
-33,303298,['Air'],2024-10-23,2024-10-23,Frederick,Incident Closed-Managed,21769,2024-10-23
-34,303297,['Air'],2024-10-22,2024-10-22,Frederick,Incident Closed - No further action,21701,2024-10-22
-35,303295,['Air'],2024-10-21,2024-10-21,Anne Arundel,Incident Closed-No Violation Observed,,2024-10-21
-36,303293,['Air'],2024-10-21,2024-10-21,Frederick,Incident Closed-Managed,21769,2024-10-21
-37,303292,['Air'],2024-10-21,2024-10-21,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-10-21
-38,303289,['Other'],2024-10-18,2024-10-18,Prince George's,Incident Closed-Managed,,2024-10-18
-39,303288,['Fugitive Dust/Particulate Matter'],2024-10-17,2024-10-17,Talbot,Incident Closed-No Violation Observed,21601,2024-10-17
-40,293289,['Air'],2024-10-16,2024-10-16,Frederick,Incident Closed-Managed,21769,2024-10-16
-41,293288,['Other'],2024-10-16,2024-08-21,Worcester,Incident Closed-Managed,21811,2024-08-21
-42,293283,['Air'],2024-10-15,2024-10-15,Baltimore,Incident Closed-Managed,21220,2024-10-15
-43,293282,['Air'],2024-10-15,2024-10-15,Anne Arundel,Incident Closed-Managed,21144,2024-10-15
-44,293276,['Air'],2024-10-11,2024-10-11,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-10-11
-45,293274,['Odor'],2024-10-15,2024-10-08,Howard,Incident Closed - No further action,,2024-10-08
-46,293265,['Other'],2024-10-09,2024-10-09,Allegany,Incident Closed - No further action,21502,2024-10-09
-47,293262,['Fugitive Dust/Particulate Matter'],2024-10-11,2024-10-10,Talbot,Incident Closed-Managed,21601,2024-10-10
-48,293260,['Other'],2024-10-07,2024-10-07,Prince George's,Incident Closed-Managed,,2024-10-07
-49,293252,['Air'],2024-10-07,2024-10-07,Anne Arundel,Incident Closed - No further action,21076,2024-10-07
-50,293250,['Other'],2024-10-05,2024-10-05,Prince George's,Incident Closed-Managed,,2024-10-05
-51,293249,['Other'],2024-10-03,2024-10-03,Prince George's,Incident Closed-Managed,,2024-10-03
-52,293247,['Odor'],2024-09-26,2024-09-26,Dorchester,Incident Closed - No further action,21835,2024-09-26
-53,293246,['Odor'],2024-09-13,2024-09-13,Dorchester,Incident Closed - No further action,21835,2024-09-13
-54,293245,['Odor'],2024-08-22,2024-08-22,Dorchester,Incident Closed - No further action,21835,2024-08-22
-55,293239,['Air'],2024-10-03,2024-10-03,Anne Arundel,Incident Closed-No Violation Observed,21701,2024-10-03
-56,293238,['Air'],2024-10-03,2024-10-03,Anne Arundel,Incident Closed-Managed,21060,2024-10-03
-57,293237,['Air'],2024-09-12,2024-09-12,Harford,Incident Closed-Managed,,2024-09-12
-58,293231,['Odor'],2024-09-30,2024-09-30,Baltimore City,Incident Closed-Managed,,2024-09-30
-59,293230,['ARA AQCP non-regulated entity'],2024-09-26,2024-09-26,Baltimore,Incident Closed-Managed,,2024-09-26
-60,293229,['Fugitive Dust/Particulate Matter'],2024-09-24,2024-09-24,Baltimore City,Incident Closed-Managed,,2024-09-24
-61,293228,['Fugitive Dust/Particulate Matter'],2024-09-23,2024-09-23,Baltimore,Incident Closed-Managed,,2024-09-23
-62,293227,['Odor'],2024-09-23,2024-09-23,Baltimore City,Incident Closed-Managed,,2024-09-23
-63,293226,['Odor'],2024-09-20,2024-09-20,Baltimore City,Incident Closed-Managed,,2024-09-20
-64,293225,['Fugitive Dust/Particulate Matter'],2024-09-17,2024-09-17,Baltimore,Incident Closed-Managed,,2024-09-17
-65,293224,['Fugitive Dust/Particulate Matter'],2024-09-16,2024-09-16,Baltimore,Incident Closed-Managed,,2024-09-16
-66,293220,['Odor'],2024-09-15,2024-09-15,Baltimore City,Incident Closed-Managed,,2024-09-15
-67,293219,['Odor'],2024-09-14,2024-09-14,Baltimore City,Incident Closed-Managed,,2024-09-14
-68,293218,['Fugitive Dust/Particulate Matter'],2024-09-12,2024-09-12,Baltimore,Incident Closed-Managed,,2024-09-12
-69,293217,['Other'],2024-09-12,2024-09-12,Baltimore,Incident Closed - No further action,,2024-09-12
-70,293216,['Odor'],2024-09-10,2024-09-10,Baltimore City,Incident Closed-Managed,,2024-09-10
-71,293215,['Other'],2024-09-09,2024-09-09,Baltimore,Incident Closed - No further action,,2024-09-09
-72,293214,['ARA AQCP non-regulated entity'],2024-09-09,2024-09-09,Baltimore,Incident Closed - No further action,,2024-09-09
-73,293213,['Odor'],2024-08-30,2024-08-30,Baltimore City,Incident Closed-Managed,,2024-08-30
-74,293212,['Odor'],2024-08-29,2024-08-29,Baltimore City,Incident Closed-Managed,,2024-08-29
-75,293210,['Odor'],2024-08-15,2024-08-15,Anne Arundel,Incident Closed-Managed,,2024-08-15
-76,293209,['Odor'],2024-08-15,2024-08-15,Anne Arundel,Incident Closed-Managed,,2024-08-15
-77,293208,['Odor'],2024-08-15,2024-08-15,Anne Arundel,Incident Closed-Managed,,2024-08-15
-78,293207,['Odor'],2024-08-06,2024-08-06,Baltimore City,Incident Closed - No further action,,2024-08-06
-79,293205,['Odor'],2024-07-26,2024-07-26,Baltimore City,Incident Closed-Managed,,2024-07-26
-80,293204,['Odor'],2024-07-23,2024-07-23,Baltimore City,Incident Closed-Managed,,2024-07-23
-81,293203,['Odor'],2024-07-22,2024-07-22,Baltimore City,Incident Closed-Managed,,2024-07-22
-82,293182,['Air'],2024-09-19,2024-09-19,Anne Arundel,Incident Closed-No Violation Observed,,2024-09-19
-83,293179,['Odor'],2024-09-20,2024-09-20,Caroline,Incident Not Applicable to MDE,21636,2024-09-20
-84,293176,['Other'],2024-09-18,2024-09-18,Prince George's,Incident Closed-Managed,,2024-09-18
-85,293175,['Fugitive Dust/Particulate Matter'],2024-09-12,2024-09-12,Baltimore,Incident Closed-Managed,,2024-09-12
-86,293174,['Open Burning'],2024-09-13,2024-09-12,Allegany,Referred to Outside Agency,21545,2024-09-12
-87,283166,['Other'],2024-09-13,2024-09-13,Prince George's,Incident Closed-Managed,,2024-09-13
-88,283164,['Air'],2024-09-16,2024-09-16,Anne Arundel,Incident Closed-No Violation Observed,21037,2024-09-16
-89,283162,['Fugitive Dust/Particulate Matter'],2024-09-06,2024-09-06,Washington,Incident Closed-Managed,21740,2024-09-06
-90,283161,['Fugitive Dust/Particulate Matter'],2024-09-05,2024-08-29,Washington,Incident Closed-Managed,21740,2024-08-29
-91,283159,['Fugitive Dust/Particulate Matter'],2024-09-05,2024-09-05,Washington,Incident Closed-Managed,21740,2024-09-05
-93,283157,['Air'],2024-09-16,2024-09-16,Prince George's,Incident Closed-Managed,20740,2024-09-16
-94,283156,['Fugitive Dust/Particulate Matter'],2024-09-17,2024-09-16,Caroline,Incident Closed-No Violation Observed,21632,2024-09-16
-95,283151,['Air'],2024-09-12,,Harford,Incident Closed-Managed,,
-96,283150,['Odor'],2024-09-12,2024-09-12,Baltimore City,Incident Closed-Managed,,2024-09-12
-97,283149,"['Air', 'Asbestos Complaint', 'Fugitive Dust/Particulate Matter']",2024-09-03,2024-07-30,Montgomery,Incident Closed-Managed,20837,2024-07-30
-98,283148,"['Air', 'Odor']",2024-09-05,2024-08-22,Montgomery,Referred to Outside Agency,20910,2024-08-22
-99,283147,"['Air', 'Odor', 'Other']",2024-09-04,2024-09-04,Montgomery,Referred to Outside Agency,20906,2024-09-04
-100,283141,['Air'],2024-09-16,2024-09-16,Baltimore City,Incident Closed-Managed,21226,2024-09-16
-101,283136,['Other'],2024-09-11,2024-09-11,Howard,Incident Closed-Managed,,2024-09-11
-102,283135,['Other'],2024-09-11,2024-09-11,Howard,Incident Closed-Managed,,2024-09-11
-103,283134,['Other'],2024-09-11,2024-09-11,Howard,Incident Closed-Managed,,2024-09-11
-104,283133,['Other'],2024-09-10,2024-09-10,Howard,Incident Closed-Managed,,2024-09-10
-105,283132,['Other'],2024-09-06,2024-09-06,Prince George's,Incident Closed-Managed,20722,2024-09-06
-106,283131,['Other'],2024-09-05,2024-09-05,Howard,Incident Closed-Managed,21075,2024-09-05
-107,283130,['Odor'],2024-09-13,2024-09-11,Howard,Incident Closed - No further action,21044,2024-09-11
-108,283129,['Odor'],2024-09-13,2024-09-11,Howard,Incident Closed - No further action,21044,2024-09-11
-109,283127,['Air'],2024-09-11,2024-09-11,Anne Arundel,Incident Closed-No Violation Observed,21401,2024-09-11
-110,283107,['Air'],2024-09-09,2024-09-09,Anne Arundel,Incident Closed - No further action,21037,2024-09-09
-111,283094,['Odor'],2024-09-05,2024-09-02,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-09-02
-112,283092,['Air'],2024-09-05,2024-09-05,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-09-05
-113,283080,['Air'],2024-09-03,2024-09-03,Anne Arundel,Incident Closed-No Violation Observed,,2024-09-03
-114,283079,['Air'],2024-09-03,2024-08-29,Frederick,Incident Closed - No further action,,2024-08-29
-115,283078,['Air'],2024-09-03,2024-08-30,Anne Arundel,Incident Closed-No Violation Observed,,2024-08-30
-116,283073,['Other'],2024-08-29,2024-08-29,Prince George's,Incident Closed-Managed,20781,2024-08-29
-117,283072,['Other'],2024-08-15,2024-08-15,Prince George's,Incident Closed-Managed,20737,2024-08-15
-119,283061,['Air'],2024-08-28,2024-08-28,Anne Arundel,Incident Closed-No Violation Observed,,2024-08-28
-120,283060,['Air'],2024-08-28,2024-08-28,Anne Arundel,Incident Closed - No further action,21061,2024-08-28
-121,283059,['Air'],2024-08-27,2024-08-27,Frederick,Incident Closed-No Violation Observed,,2024-08-27
-122,283056,['Smoke'],2024-08-27,2024-08-27,Allegany,Referred to Outside Agency,26753,2024-08-27
-123,283055,['Air'],2024-08-27,2024-08-27,Frederick,Incident Closed-Managed,21757,2024-08-27
-124,283053,['Oil Release/Spill (Surface)'],2024-08-26,2024-08-26,Allegany,Referred to LMA,21502,2024-08-26
-125,283052,['Odor'],2024-08-22,2024-08-22,Dorchester,Referred to ARA,21835,2024-08-22
-126,283051,['Air'],2024-08-23,2024-08-23,Anne Arundel,Incident Closed - No further action,21144,2024-08-23
-127,283050,['Air'],2024-08-23,2024-08-23,Anne Arundel,Incident Closed - No further action,,2024-08-23
-128,283041,['Air'],2024-08-12,2024-08-12,Harford,Referred to Outside Agency,,2024-08-12
-129,273030,['Air'],2024-08-21,2024-08-21,Frederick,Incident Closed-No Violation Observed,,2024-08-21
-130,273007,['Air'],2024-08-12,2024-08-12,Montgomery,Referred to Outside Agency,20910-484,2024-08-12
-131,272998,['Other'],2024-08-07,2024-08-07,Howard,Incident Closed-Managed,,2024-08-07
-132,272992,"['Air', 'Open Burning', 'Smoke']",2024-08-06,2024-08-06,Cecil,Referred to LMA,21921,2024-08-06
-133,272991,['Odor'],2024-08-02,2024-08-02,Baltimore,Incident Closed-Managed,,2024-08-02
-134,272989,['Smoke'],2024-07-30,2024-07-31,Baltimore,Incident Closed-Managed,21228,2024-07-31
-135,272987,['Air'],2024-08-08,2024-08-08,Frederick,Incident Closed-No Violation Observed,,2024-08-08
-136,272986,['Odor'],2024-08-07,2024-08-05,Baltimore City,Incident Closed - No further action,21226,2024-08-05
-137,272976,['Air'],2024-07-29,2024-07-29,Charles,Incident Closed-Managed,20695,2024-07-29
-138,272972,['Odor'],2024-07-27,2024-07-27,Dorchester,Incident Closed - No further action,21835,2024-07-27
-139,272971,['Odor'],2024-07-20,2024-07-20,Dorchester,Incident Closed - No further action,21835,2024-07-20
-140,272970,['Odor'],2024-07-20,2024-07-20,Dorchester,Incident Closed - No further action,21835,2024-07-20
-141,272969,['Other'],2024-08-02,2024-08-02,Howard,Incident Closed-Managed,,2024-08-02
-142,272966,['Other'],2024-07-30,2024-07-30,Allegany,Incident Closed-Managed,21542,2024-07-30
-143,272963,['Odor'],2024-08-01,2024-08-01,Allegany,Incident Closed-No Violation Observed,21502,2024-08-01
-144,272962,['Oil Release/Spill'],2024-07-24,2024-07-24,Garrett,Incident Closed - No further action,,2024-07-24
-145,272958,"['Air', 'Odor', 'Open Burning', 'Smoke']",2024-08-01,2024-08-01,Cecil,Referred to Outside Agency,21921,2024-08-01
-146,272954,['Other'],2024-08-02,2024-08-02,Prince George's,Incident Closed-Managed,20748,2024-08-02
-147,272943,"['Air', 'Odor']",2024-07-30,2024-07-30,Montgomery,Referred to Outside Agency,20910,2024-07-30
-148,272937,"['Air', 'Other']",2024-07-26,2024-07-15,Carroll,Referred to WMA,21158,2024-07-15
-149,272935,['Air'],2024-07-26,2024-07-11,Montgomery,Referred to Outside Agency,20850,2024-07-11
-150,272935,['Air'],2024-07-26,2024-07-11,Montgomery,Referred to Outside Agency,20850,2024-07-11
-151,272933,['Other'],2024-07-26,2024-07-24,Prince George's,Incident Closed-Managed,,2024-07-24
-152,272916,['Open Burning'],2024-07-12,2024-07-12,Allegany,Referred to Outside Agency,21545,2024-07-12
-153,272915,['Asbestos Complaint'],2024-07-11,2024-07-11,Allegany,Referred to ARA,21540-109,2024-07-11
-154,272913,['Odor'],2024-07-11,2024-07-11,St. Mary's,Incident Closed-Managed,,2024-07-11
-155,272901,"['Air', 'Fugitive Dust/Particulate Matter']",2024-07-10,2024-07-10,Cecil,Incident Closed-Managed,21918,2024-07-10
-156,272897,['Air'],2024-07-16,2024-07-16,Anne Arundel,Incident Closed - No further action,21037,2024-07-16
-157,272880,['Air'],2024-07-15,2024-06-19,Washington,Incident Closed - No further action,,2024-06-19
-158,262877,['Air'],2024-07-11,2024-07-11,St. Mary's,Incident Closed-Managed,,2024-07-11
-159,252880,"['Air', 'Other']",2024-07-09,2024-07-09,Montgomery,Referred to Outside Agency,20910-484,2024-07-09
-160,252879,"['Air', 'Odor']",2024-07-09,2024-07-09,Carroll,Referred to Outside Agency,21158,2024-07-09
-161,252877,['Air'],2024-07-09,2024-07-09,Anne Arundel,Incident Closed-No Violation Observed,20764,2024-07-09
-162,252874,['Odor'],2024-07-09,2024-07-09,Baltimore City,Incident Closed-Managed,,2024-07-09
-163,252873,['Odor'],2024-07-02,2024-07-02,Baltimore City,Incident Closed-Managed,,2024-07-02
-164,252872,['Odor'],2024-06-28,2024-06-28,Baltimore City,Incident Closed-Managed,,2024-06-28
-165,252871,['Air'],2024-06-25,2024-06-25,Baltimore,Incident Closed-Managed,,2024-06-25
-166,252870,['Odor'],2024-06-18,2024-06-18,Baltimore,Incident Closed-Managed,,2024-06-18
-167,252869,['Odor'],2024-06-16,2024-06-16,Baltimore City,Incident Closed-Managed,,2024-06-16
-168,252868,['ARA AQCP non-regulated entity'],2024-06-14,2024-06-14,Baltimore,Incident Closed - No further action,,2024-06-14
-169,252867,['Fugitive Dust/Particulate Matter'],2024-06-13,2024-06-13,Baltimore City,Incident Closed-Managed,,2024-06-13
-170,252866,['Odor'],2024-06-05,2024-06-05,Baltimore City,Incident Closed-Managed,,2024-06-05
-171,252864,['Fugitive Dust/Particulate Matter'],2024-07-08,2024-07-08,Allegany,Incident Closed-Managed,21540-109,2024-07-08
-172,252862,['Abandoned Drums/Tanks'],2024-07-08,2024-07-08,Allegany,Referred to LMA,21501,2024-07-08
-173,252861,['Air'],2024-07-02,2024-07-02,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-07-02
-174,252847,['Other'],2024-07-03,2024-07-03,Prince George's,Incident Closed-Managed,,2024-07-03
-175,252846,['Other'],2024-07-02,2024-07-02,Prince George's,Incident Closed-Managed,20785,2024-07-02
-176,252844,['Fugitive Dust/Particulate Matter'],2024-07-01,2024-06-29,Allegany,Incident Closed-Managed,21540-109,2024-06-29
-177,252842,"['Noise Complaint', 'Other']",2024-06-27,2024-06-27,Washington,Referred to Outside Agency,21783,2024-06-27
-178,252839,['Odor'],2024-06-04,2024-06-04,Baltimore City,Incident Closed-Managed,,2024-06-04
-179,252838,['Odor'],2024-06-01,2024-06-01,Baltimore City,Incident Closed-Managed,,2024-06-01
-180,252837,['Odor'],2024-05-26,2024-05-26,Baltimore City,Incident Closed-Managed,,2024-05-26
-181,252836,['Fugitive Dust/Particulate Matter'],2024-05-23,2024-05-23,Baltimore,Incident Closed-Managed,,2024-05-23
-182,252835,['Odor'],2024-05-22,2024-05-22,Baltimore,Incident Closed-Managed,,2024-05-22
-183,252834,['Odor'],2024-05-17,2024-05-17,Baltimore City,Incident Closed-Managed,,2024-05-17
-184,252833,['Odor'],2024-05-16,2024-05-16,Baltimore City,Incident Closed-Managed,,2024-05-16
-185,252823,['Air'],2024-06-28,2024-06-28,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-28
-186,252815,['Air'],2024-06-26,2024-06-25,Frederick,Referred to Outside Agency,21788,2024-06-25
-187,252814,['Air'],2024-06-19,2024-06-19,Anne Arundel,Incident Closed-No Violation Observed,,2024-06-19
-188,252810,['Fugitive Dust/Particulate Matter'],2024-06-25,2024-06-24,Talbot,Incident Closed-Managed,,2024-06-24
-189,252806,"['Groundwater Contamination', 'Oil Release/Spill (Surface)', 'Open Burning', 'Other']",2024-06-14,2024-06-14,Allegany,Referred to Outside Agency,21502,2024-06-14
-190,252804,['Air'],2024-06-20,2024-06-20,Carroll,Incident Closed - No further action,21771,2024-06-20
-191,252802,['Other'],2024-06-20,2024-06-20,Prince George's,Incident Closed-Managed,20737,2024-06-20
-192,252801,['Other'],2024-06-18,2024-06-18,Prince George's,Incident Closed-Managed,20781,2024-06-18
-193,252800,['Other'],2024-06-14,2024-06-14,Prince George's,Incident Closed-Managed,,2024-06-14
-194,252799,['Air'],2024-06-20,,Harford,Incident Closed-No Violation Observed,,
-195,252793,['Fugitive Dust/Particulate Matter'],2024-06-18,,Harford,Incident Closed-Managed,,
-196,252786,['Odor'],2024-06-17,2024-06-12,Prince George's,Incident Closed-Managed,,2024-06-12
-197,252772,['Noise Complaint'],2024-05-16,2024-05-16,Washington,Referred to Outside Agency,21783,2024-05-16
-198,252770,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
-199,252769,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
-200,252768,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
-201,252767,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
-202,252761,['Other'],2024-06-12,2024-06-12,Prince George's,Incident Closed-Managed,,2024-06-12
-203,252760,['Other'],2024-06-11,2024-06-11,Howard,Incident Closed-Managed,,2024-06-11
-204,252759,['Air'],2024-06-11,2024-06-11,Frederick,Referred to Attorney General's Office,21757,2024-06-11
-205,252758,"['Odor', 'Smoke']",2024-06-12,2024-05-26,Worcester,Referred to Outside Agency,21863,2024-05-26
-206,252757,"['Odor', 'Open Burning', 'Smoke']",2024-06-12,2024-05-29,Worcester,Referred to Outside Agency,21863,2024-05-29
-207,252756,"['Odor', 'Smoke']",2024-06-12,2024-05-28,Worcester,Referred to Outside Agency,21863,2024-05-28
-208,252752,['Air'],2024-06-11,2024-06-10,Frederick,Referred to Attorney General's Office,21757,2024-06-10
-209,252720,['Fugitive Dust/Particulate Matter'],2024-06-04,2024-06-04,Kent,Incident Closed-No Violation Observed,21620,2024-06-04
-210,252718,"['Odor', 'Smoke']",2024-06-03,2024-05-20,Worcester,Incident Closed-Managed,21863,2024-05-20
-211,252717,"['Fugitive Dust/Particulate Matter', 'Odor']",2024-06-03,2024-05-16,Worcester,Incident Closed - No further action,21863,2024-05-16
-212,252716,['Fumes'],2024-06-03,2024-05-21,Worcester,Incident Closed-Managed,21863,2024-05-21
-213,252712,['Air'],2024-05-31,2024-05-31,Frederick,Incident Closed-No Violation Observed,21788,2024-05-31
-214,252711,['Air'],2024-05-23,2024-05-23,Frederick,Referred to Attorney General's Office,21757,2024-05-23
-215,252711,['Air'],2024-05-23,2024-05-23,Frederick,Referred to Attorney General's Office,21757,2024-05-23
-216,252710,['Air'],2024-05-22,2024-05-22,Frederick,Referred to Attorney General's Office,21757,2024-05-22
-217,252710,['Air'],2024-05-22,2024-05-22,Frederick,Referred to Attorney General's Office,21757,2024-05-22
-218,252697,['Other'],2024-05-28,2024-05-29,Prince George's,Incident Closed-Managed,,2024-05-29
-219,252696,['Odor'],2024-05-28,2024-05-26,Worcester,Referred to Outside Agency,21863,2024-05-26
-220,252695,['Odor'],2024-05-20,2024-05-20,Dorchester,Incident Closed - No further action,21835,2024-05-20
-221,252691,"['Air', 'Odor']",2024-05-21,2024-05-21,Carroll,Referred to Outside Agency,21784,2024-05-21
-222,242688,['Odor'],2024-05-20,2024-05-17,Worcester,Incident Closed-No Violation Observed,21811,2024-05-17
-223,242682,['Other'],2024-05-20,2024-05-20,Prince George's,Incident Closed-Managed,,2024-05-20
-224,242681,['Other'],2024-05-15,2024-05-15,Prince George's,Incident Closed-Managed,,2024-05-15
-225,242675,['Odor'],2024-04-23,2024-04-22,Prince George's,Incident Closed-Managed,20743,2024-04-22
-226,242674,['Smoke'],2024-05-21,2024-04-19,Prince George's,Incident Closed-Managed,20743,2024-04-19
-227,242664,['Other'],2024-05-14,2024-05-14,Prince George's,Incident Closed-Managed,,2024-05-14
-228,242663,['Odor'],2024-05-16,2024-05-16,Worcester,Referred to Outside Agency,21863,2024-05-16
-229,242661,['Air'],2024-05-15,2024-05-15,Anne Arundel,Incident Closed - No further action,20724,2024-05-15
-230,242656,['Odor'],2024-05-10,2024-05-10,Baltimore City,Incident Closed-Managed,,2024-05-10
-231,242655,['Odor'],2024-05-06,2024-05-06,Baltimore City,Incident Closed-Managed,,2024-05-06
-232,242654,['Fugitive Dust/Particulate Matter'],2024-05-01,2024-05-01,Baltimore City,Incident Closed-Managed,,2024-05-01
-233,242653,['Fugitive Dust/Particulate Matter'],2024-04-30,2024-04-30,Baltimore City,Incident Closed-Managed,,2024-04-30
-234,242652,['Odor'],2024-04-26,2024-04-26,Baltimore City,Incident Closed-Managed,,2024-04-26
-235,242651,['Odor'],2024-04-24,2024-04-24,Baltimore City,Incident Closed-Managed,,2024-04-24
-236,242650,['Fugitive Dust/Particulate Matter'],2024-04-22,2024-04-22,Baltimore City,Incident Closed-Managed,,2024-04-22
-237,242648,['Odor'],2024-04-09,2024-04-09,Baltimore City,Incident Closed-Managed,,2024-04-09
-238,242647,['Odor'],2024-04-14,2024-04-14,Baltimore City,Incident Closed-Managed,,2024-04-14
-239,242640,"['Air', 'Odor']",2024-05-07,2024-05-07,Talbot,Incident Closed-Managed,21673,2024-05-07
-240,242639,['Asbestos Complaint'],2024-05-10,2024-05-10,Allegany,Referred to ARA,21502,2024-05-10
-241,242638,['Water Pollutant Release'],2024-05-08,2024-05-08,Washington,Referred to WMA,,2024-05-08
-242,242635,['Fugitive Dust/Particulate Matter'],2024-04-11,2024-04-11,Baltimore City,Incident Closed-Managed,,2024-04-11
-243,242634,['Odor'],2024-04-11,2024-04-11,Baltimore City,Incident Closed-Managed,,2024-04-11
-244,242633,['Fugitive Dust/Particulate Matter'],2024-05-07,2024-05-07,Talbot,Incident Closed-No Violation Observed,,2024-05-07
-245,242633,['Fugitive Dust/Particulate Matter'],2024-05-07,2024-05-07,Talbot,Incident Closed-No Violation Observed,21673,2024-05-07
-246,242629,['Air'],2024-05-07,2024-05-07,Anne Arundel,Incident Closed-No Violation Observed,,2024-05-07
-247,242626,['Odor'],2024-05-07,2024-05-07,Montgomery,Referred to WMA,20874,2024-05-07
-248,242622,['Odor'],2024-04-10,2024-04-10,Baltimore City,Incident Closed-Managed,,2024-04-10
-249,242621,['Odor'],2024-04-08,2024-04-08,Baltimore City,Incident Closed-Managed,,2024-04-08
-250,242620,['Smoke'],2024-04-04,2024-04-04,Baltimore City,Incident Closed-Managed,,2024-04-04
-251,242602,"['Air', 'Odor', 'Open Burning']",2024-05-01,2024-05-01,Cecil,Referred to Outside Agency,21901,2024-05-01
-252,242600,"['Air', 'Odor']",2024-05-03,2024-05-03,Cecil,Referred to LMA,21911,2024-05-03
-253,242595,['Possible Permit Violation'],2024-04-23,2024-04-23,Washington,Incident Closed - No further action,21783,2024-04-23
-254,242585,['Smoke'],2024-04-23,2024-04-23,Allegany,Incident Closed-No Violation Observed,21540-109,2024-04-23
-255,242580,['Other'],2024-05-01,2024-05-01,Prince George's,Incident Closed-Managed,,2024-05-01
-256,242579,['Other'],2024-04-29,,Prince George's,Incident Closed-Managed,,
-257,242578,['Other'],2024-04-25,2024-05-25,Howard,Incident Closed-Managed,,2024-05-25
-258,242556,['Air'],2024-04-26,2024-04-26,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-04-26
-259,242555,['Air'],2024-04-29,2024-04-29,Charles,Incident Closed - No further action,20695,2024-04-29
-260,242550,['Air'],2024-04-26,2024-04-26,Anne Arundel,Incident Closed-No Violation Observed,21037,2024-04-26
-261,242549,['Air'],2024-04-24,2024-04-24,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-04-24
-262,242546,['Air'],2024-04-24,2024-04-24,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-24
-263,242545,['Odor'],2024-04-24,2024-04-23,Worcester,Incident Closed-No Violation Observed,21811,2024-04-23
-264,242544,['Air'],2024-04-23,2024-04-23,Frederick,Incident Closed-No Violation Observed,21788,2024-04-23
-265,242543,['Air'],2024-04-19,2024-04-19,Frederick,Incident Closed-No Violation Observed,21788,2024-04-19
-266,242542,['Odor'],2024-04-23,2024-04-23,Dorchester,Incident Closed - No further action,21835,2024-04-23
-267,242533,['Air'],2024-04-19,2024-04-19,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-19
-268,242532,['Other'],2024-04-16,2024-04-16,Prince George's,Incident Closed-Managed,,2024-04-16
-269,242530,['Other'],2024-04-16,2024-04-16,Prince George's,Incident Closed-Managed,,2024-04-16
-270,242524,"['Air', 'Open Burning', 'Smoke']",2024-04-15,2024-04-15,Cecil,Referred to LMA,21921,2024-04-15
-271,242508,['Air'],2024-04-13,2024-04-13,Anne Arundel,Incident Closed-Managed,21403,2024-04-13
-272,242507,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
-273,242507,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
-274,242506,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
-275,242506,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
-276,242504,['Other'],2024-04-12,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
-277,242503,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
-278,242502,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
-279,242500,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
-280,242499,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
-281,242498,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,,2024-04-08
-282,242497,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-283,242496,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-284,242495,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-285,242494,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-286,242493,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-287,242492,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-288,242491,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-289,242490,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-290,242489,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-291,242488,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-292,242487,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-293,242486,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
-294,242484,['Fugitive Dust/Particulate Matter'],2024-04-11,2024-04-11,Worcester,Incident Closed-Managed,21851,2024-04-11
-295,242483,['Air'],2024-04-11,2024-04-11,Frederick,Referred to Attorney General's Office,21757,2024-04-11
-296,242482,['Air'],2024-04-10,2024-04-10,Charles,Referred to Outside Agency,20622,2024-04-10
-297,242479,['Air'],2024-03-28,2024-03-28,Baltimore,Incident Closed-Managed,21227,2024-03-28
-298,242478,['Air'],2024-04-10,2024-04-10,Baltimore,Incident Closed-Managed,21227,2024-04-10
-299,242477,['Air'],2024-04-03,2024-04-03,Baltimore,Incident Closed-Managed,21227,2024-04-03
-300,242476,['Odor'],2024-04-08,2024-04-09,Harford,Incident Closed-Managed,21040,2024-04-09
-301,242463,['Air'],2024-03-30,2024-03-30,Anne Arundel,Incident Closed - No further action,21146,2024-03-30
-302,242461,['Air'],2024-04-03,2024-04-03,Anne Arundel,Incident Closed-Managed,20711,2024-04-03
-303,242460,['Air'],2024-04-01,2024-04-01,Anne Arundel,Incident Closed-No Violation Observed,,2024-04-01
-304,242459,['Air'],2024-04-08,2024-04-01,Frederick,Referred to Attorney General's Office,21757,2024-04-01
-305,242458,['Air'],2024-04-04,2024-04-04,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-04
-306,242456,['Suspected Operation without Permit'],2024-03-28,2024-03-28,Washington,Referred to Outside Agency,21783,2024-03-28
-307,242455,['Open Burning'],2024-03-26,2024-03-26,Allegany,Referred to Outside Agency,21502,2024-03-26
-308,242454,['Open Burning'],2024-03-25,2024-03-25,Garrett,Referred to Outside Agency,,2024-03-25
-309,242436,['Odor'],2024-04-01,2024-04-01,Baltimore,Incident Closed-Managed,,2024-04-01
-310,242435,['Odor'],2024-03-30,2024-03-30,Baltimore,Incident Closed-Managed,,2024-03-30
-311,242434,['Fugitive Dust/Particulate Matter'],2024-03-28,2024-03-28,Baltimore,Incident Closed-Managed,,2024-03-28
-312,242433,['Odor'],2024-03-27,2024-03-27,Baltimore City,Incident Closed-Managed,,2024-03-27
-313,242432,['Odor'],2024-03-25,2024-03-25,Baltimore City,Incident Closed-Managed,,2024-03-25
-314,242428,['Other'],2024-03-30,2024-03-30,Prince George's,Incident Closed-Managed,,2024-03-30
-315,242424,"['Air', 'Fugitive Dust/Particulate Matter']",2024-03-29,2024-03-29,Montgomery,Referred to Outside Agency,20817,2024-03-29
-316,242405,['Other'],2024-03-25,2024-03-25,Prince George's,Incident Closed-Managed,,2024-03-25
-317,242404,['Other'],2024-03-25,2024-03-25,Prince George's,Incident Closed-Managed,,2024-03-25
-318,242392,['Air'],2024-03-21,2024-03-21,Frederick,Under Investigation,21703,2024-03-21
-319,242390,['Smoke'],2024-03-18,2024-03-18,Baltimore City,Incident Closed-Managed,,2024-03-18
-320,242389,['Fugitive Dust/Particulate Matter'],2024-02-23,2024-02-23,Baltimore,Incident Closed-Managed,,2024-02-23
-321,242388,['Odor'],2024-02-23,2024-02-23,Baltimore City,Incident Closed-Managed,,2024-02-23
-322,242386,['Odor'],2024-03-14,2024-03-14,Baltimore City,Incident Closed-Managed,,2024-03-14
-323,242385,['Odor'],2024-03-04,2024-03-04,Baltimore City,Incident Closed-Managed,,2024-03-04
-324,242384,['Odor'],2024-03-09,2024-03-09,Baltimore City,Incident Closed-Managed,,2024-03-09
-325,242383,['Odor'],2024-03-08,2024-03-08,Baltimore City,Incident Closed-Managed,,2024-03-08
-326,242382,['Odor'],2024-03-05,2024-03-05,Baltimore City,Incident Closed-Managed,,2024-03-05
-327,242381,['Odor'],2024-03-04,2024-03-04,Baltimore City,Incident Closed-Managed,,2024-03-04
-328,242380,['Odor'],2024-03-01,2024-03-01,Baltimore City,Incident Closed-Managed,,2024-03-01
-329,242379,['Odor'],2024-02-29,2024-02-29,Baltimore City,Incident Closed-Managed,,2024-02-29
-330,242378,['Fugitive Dust/Particulate Matter'],2024-02-28,2024-02-28,Baltimore City,Incident Closed-Managed,,2024-02-28
-331,232384,['Odor'],2024-02-28,2024-02-28,Baltimore City,Incident Closed-Managed,,2024-02-28
-332,232383,['Fugitive Dust/Particulate Matter'],2024-02-28,2024-02-28,Baltimore City,Incident Closed-Managed,,2024-02-28
-333,232382,['Odor'],2024-02-22,2024-02-22,Baltimore City,Incident Closed-Managed,,2024-02-22
-334,232374,['Air'],2024-03-21,2024-03-21,Charles,Under Investigation,20637,2024-03-21
-335,232372,['Odor'],2024-02-16,2024-02-16,Baltimore City,Incident Closed-Managed,,2024-02-16
-336,232371,['Odor'],2024-02-12,2024-02-12,Baltimore City,Incident Closed-Managed,,2024-02-12
-337,232369,['Air'],2024-03-19,2024-03-19,Anne Arundel,Incident Closed-No Violation Observed,21401,2024-03-19
-338,232365,"['Air', 'Open Burning', 'Smoke']",2024-03-19,2024-03-19,Carroll,Referred to Outside Agency,21776,2024-03-19
-339,232364,"['Air', 'Fumes', 'Odor', 'Smoke']",2024-03-14,2024-03-14,Cecil,Referred to Outside Agency,,2024-03-14
-340,232363,"['Air', 'Smoke', 'Vapor Release']",2024-03-19,2024-03-14,Montgomery,Incident Closed-Managed,20850,2024-03-14
-341,232361,['Air'],2024-03-17,2024-03-17,Anne Arundel,Incident Closed-Managed,,2024-03-17
-342,232360,['Air'],2024-03-17,2024-03-17,Anne Arundel,Under Investigation,,2024-03-17
-343,232359,"['Air', 'Fumes', 'Smoke']",2024-03-14,2024-03-14,Montgomery,Incident Closed-Managed,20850,2024-03-14
-344,232358,"['Air', 'Fumes', 'Smoke']",2024-03-14,2024-03-14,Montgomery,Incident Closed-Managed,20850,2024-03-14
-345,232354,['Other'],2024-03-16,2024-03-16,Prince George's,Incident Closed-Managed,,2024-03-16
-346,232353,['Other'],2024-03-16,2024-03-16,Prince George's,Incident Closed-Managed,,2024-03-16
-347,232351,['Other'],2024-03-13,2024-03-13,Prince George's,Incident Closed-Managed,,2024-03-13
-348,232342,['Air'],2024-03-14,2024-03-14,Frederick,Referred to Attorney General's Office,21757,2024-03-14
-349,232341,"['Air', 'Fumes', 'Odor']",2024-03-13,2024-03-13,Cecil,Referred to Outside Agency,21911,2024-03-13
-350,232340,"['Air', 'Open Burning', 'Smoke']",2024-03-13,2024-03-13,Cecil,Referred to Outside Agency,21921,2024-03-13
-351,232338,['Air'],2024-03-13,2024-03-13,Frederick,Referred to Attorney General's Office,21757,2024-03-13
-352,232338,['Air'],2024-03-13,2024-03-13,Frederick,Referred to Attorney General's Office,21757,2024-03-13
-353,232331,"['Air', 'Other']",2024-03-12,2024-03-12,Montgomery,Incident Closed-Managed,20879,2024-03-12
-354,232330,"['Air', 'Air Pollutant Release']",2024-03-13,2024-03-13,Carroll,Incident Closed-Managed,,2024-03-13
-355,232326,['Smoke'],2024-03-06,2023-12-10,Allegany,Incident Closed-No Violation Observed,21502,2023-12-10
-356,232325,['Air'],2024-03-12,2024-03-12,Frederick,Referred to Attorney General's Office,21757,2024-03-12
-357,232325,['Air'],2024-03-12,2024-03-12,Frederick,Referred to Attorney General's Office,21757,2024-03-12
-358,232324,['Air'],2024-03-11,2024-03-11,Frederick,Referred to Attorney General's Office,21757,2024-03-11
-359,232324,['Air'],2024-03-11,2024-03-11,Frederick,Referred to Attorney General's Office,21757,2024-03-11
-360,232323,['Air'],2024-03-11,2024-03-11,Anne Arundel,Incident Closed-Managed,21060,2024-03-11
-361,232322,['Air'],2024-03-11,2024-03-11,Anne Arundel,Incident Closed-Managed,21060,2024-03-11
-362,232321,['Air'],2024-03-11,2024-03-11,Anne Arundel,Incident Closed-Managed,21060,2024-03-11
-363,232320,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-Managed,21060,2024-03-08
-364,232319,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-Managed,21226,2024-03-08
-365,232316,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-Managed,21060,2024-03-08
-366,232315,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-No Violation Observed,21226,2024-03-08
-367,232314,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-368,232313,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-369,232312,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-370,232311,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-371,232309,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-372,232308,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-373,232307,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-374,232306,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-375,232305,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-376,232304,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-377,232303,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-378,232302,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-379,232301,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-380,232300,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
-381,232299,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-382,232298,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-383,232296,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-384,232295,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-385,232291,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
-386,232290,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
-387,232289,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
-388,232288,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-389,232287,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
-390,232286,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-Managed,,2024-03-06
-391,232285,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-Managed,,2024-03-06
-392,232284,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-Managed,,2024-03-06
-393,232281,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-03-08
-394,232280,['Air'],2024-03-08,2024-03-08,Frederick,Incident Closed-No Violation Observed,21701,2024-03-08
-395,232279,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-03-07
-396,232278,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-No Violation Observed,,2024-03-07
-397,232273,['Open Burning'],2024-03-11,2024-03-08,Caroline,Incident Closed-No Violation Observed,21629,2024-03-08
-398,232264,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-399,232263,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-400,232262,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-401,232261,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-402,232260,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-403,232259,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-404,232258,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-405,232257,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
-406,232253,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
-407,232252,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed - No further action,21061,2024-03-06
-408,232250,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-03-06
-409,232240,['Open Burning'],2024-03-04,2024-03-03,Wicomico,Incident Closed-No Violation Observed,21804,2024-03-03
-410,232216,['Odor'],2024-03-01,2024-03-01,Dorchester,Incident Closed - No further action,21835,2024-03-01
-411,232215,['Odor'],2024-03-01,2024-03-01,Dorchester,Incident Closed - No further action,21835,2024-03-01
-412,232214,['Odor'],2024-02-26,2024-02-26,Dorchester,Incident Closed - No further action,21835,2024-02-26
-413,232205,"['Air', 'Smoke']",2024-02-29,2024-02-29,Carroll,Referred to Outside Agency,,2024-02-29
-414,232204,['Other'],2024-02-28,2024-02-28,Prince George's,Incident Closed-Managed,,2024-02-28
-415,232203,['Air'],2024-03-01,2024-03-01,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-03-01
-416,232193,['Other'],2024-02-27,2024-02-27,Prince George's,Incident Closed-Managed,20735,2024-02-27
-417,232191,['Air'],2024-02-28,2024-02-28,Frederick,Referred to Attorney General's Office,21757,2024-02-28
-418,232191,['Air'],2024-02-28,2024-02-28,Frederick,Referred to Attorney General's Office,21757,2024-02-28
-419,232190,['Air'],2024-02-28,2024-02-28,Charles,Clean-up In Progress,,2024-02-28
-420,232188,['Smoke'],2024-02-27,2024-02-26,,Referred to Attorney General's Office,21226,2024-02-26
-421,232187,['Air'],2024-02-27,2024-02-27,Anne Arundel,Incident Closed-No Violation Observed,21403,2024-02-27
-422,232186,['Odor'],2024-02-26,2024-02-26,Anne Arundel,Incident Closed - No further action,21226,2024-02-26
-423,232176,['Air'],2024-02-26,2024-02-26,Anne Arundel,Incident Closed-Managed,21060,2024-02-26
-424,232175,['Air'],2024-02-23,2024-02-23,Anne Arundel,Incident Closed-No Violation Observed,,2024-02-23
-425,232169,['Air'],2024-02-22,2024-02-22,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-02-22
-426,222175,"['Air', 'Other']",2024-02-20,2024-02-20,Montgomery,Referred to Outside Agency,20788,2024-02-20
-427,222174,['Smoke'],2024-02-22,2024-02-21,,Referred to Attorney General's Office,21226,2024-02-21
-428,222158,['Fugitive Dust/Particulate Matter'],2024-02-20,2024-02-20,Worcester,Referred to Outside Agency,21842,2024-02-20
-429,222156,['Air'],2024-02-15,2024-02-15,Baltimore,Incident Closed-No Violation Observed,21223,2024-02-15
-430,222155,['Air'],2024-02-14,2024-02-14,Frederick,Referred to Attorney General's Office,21757,2024-02-14
-431,222150,"['Air', 'Open Burning']",2024-02-16,2024-02-09,Cecil,Referred to LMA,21921,2024-02-09
-432,222149,['Fugitive Dust/Particulate Matter'],2024-02-15,2024-02-15,Allegany,Incident Closed-Managed,21532,2024-02-15
-433,222148,['Odor'],2024-02-09,2024-02-09,Baltimore City,Incident Closed-Managed,,2024-02-09
-434,222147,['Odor'],2024-02-09,2024-02-09,Baltimore City,Incident Closed-Managed,,2024-02-09
-435,222146,['Odor'],2024-02-08,2024-02-08,Baltimore City,Incident Closed-Managed,,2024-02-08
-436,222145,['Odor'],2024-02-07,2024-02-07,Baltimore City,Incident Closed-Managed,,2024-02-07
-437,222144,['Odor'],2024-02-06,2024-02-06,Baltimore City,Incident Closed-Managed,,2024-02-06
-438,222143,['Smoke'],2024-02-02,2024-02-02,Baltimore City,Incident Closed-Managed,,2024-02-02
-439,222142,['Odor'],2024-02-05,2024-02-05,Baltimore,Incident Closed-Managed,,2024-02-05
-440,222141,['Odor'],2024-02-05,2024-02-05,Baltimore City,Incident Closed-Managed,,2024-02-05
-441,222140,['Odor'],2024-02-02,2024-02-02,Baltimore,Incident Closed-Managed,,2024-02-02
-442,222139,['Fugitive Dust/Particulate Matter'],2024-02-05,2024-02-03,Worcester,Incident Closed-Restored,21851,2024-02-03
-443,222138,"['Air', 'Open Burning']",2024-02-07,2024-02-07,Cecil,Referred to LMA,21921,2024-02-07
-444,222122,['Air'],2024-02-14,2024-02-14,Charles,Incident Closed-Managed,20601,2024-02-14
-445,222121,['Smoke'],2024-02-06,2024-02-06,,Referred to Attorney General's Office,21226,2024-02-06
-446,222116,['Odor'],2024-02-13,2024-02-08,Baltimore City,Incident Closed-Managed,21226,2024-02-08
-447,222114,['Fugitive Dust/Particulate Matter'],2024-02-12,2024-02-12,Allegany,Incident Closed - No further action,21532,2024-02-12
-448,222112,"['Air', 'Fumes']",2024-02-09,2023-12-22,Cecil,Referred to Outside Agency,21901,2023-12-22
-449,222111,['Other'],2024-02-03,2024-02-03,Prince George's,Incident Closed-Managed,20785,2024-02-03
-450,222110,['Other'],2024-02-10,2024-02-10,Prince George's,Incident Closed-Managed,,2024-02-10
-451,222109,['Other'],2024-02-09,2024-02-09,Prince George's,Incident Closed-Managed,,2024-02-09
-452,222108,['Air'],2024-02-09,2024-02-09,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-02-09
-453,222107,['Air'],2024-02-09,2024-02-09,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-02-09
-454,222106,['Odor'],2024-02-09,2023-12-26,Talbot,Referred to WMA,21652,2023-12-26
-455,222096,['Air'],2024-02-06,2024-02-06,Anne Arundel,Incident Closed-No Violation Observed,21113,2024-02-06
-456,222094,['Odor'],2024-01-27,2024-01-27,Baltimore City,Incident Closed-Managed,,2024-01-27
-457,222093,['Odor'],2024-02-26,2024-01-26,Baltimore City,Incident Closed-Managed,,2024-01-26
-458,222092,['Odor'],2024-01-26,2024-01-26,Baltimore City,Incident Closed-Managed,,2024-01-26
-459,222091,['Smoke'],2024-01-26,2024-01-26,Baltimore City,Incident Closed-Managed,,2024-01-26
-460,222090,['Odor'],2024-01-25,2024-01-25,Baltimore City,Incident Closed-Managed,,2024-01-25
-461,222089,['Odor'],2024-01-23,2024-01-23,Baltimore City,Incident Closed-Managed,,2024-01-23
-462,222088,['Odor'],2024-01-19,2024-01-19,Baltimore City,Incident Closed-Managed,,2024-01-19
-463,222087,['Odor'],2024-01-16,2024-01-16,Baltimore City,Incident Closed-Managed,,2024-01-16
-464,222086,['Odor'],2024-01-11,2024-01-11,Baltimore City,Incident Closed-Managed,,2024-01-11
-465,222085,['Smoke'],2024-02-06,2024-02-06,,Referred to Attorney General's Office,21226,2024-02-06
-466,222084,['Smoke'],2024-01-26,2024-01-26,,Referred to Attorney General's Office,21226,2024-01-26
-467,222071,"['Air', 'Odor', 'Smoke']",2024-02-01,2024-02-01,Cecil,Referred to Outside Agency,21903,2024-02-01
-468,222070,"['Air', 'Odor', 'Smoke']",2024-01-30,2024-01-30,Montgomery,Incident Closed-Managed,20852,2024-01-30
-470,222067,['Other'],2024-02-01,2024-02-01,Prince George's,Incident Closed-Managed,,2024-02-01
-471,222055,['Air'],2024-02-01,2024-02-01,Frederick,Referred to Attorney General's Office,21757,2024-02-01
-472,222054,['Air'],2024-02-01,2024-02-01,Frederick,Incident Closed - No further action,21701,2024-02-01
-473,222053,['Other'],2024-01-31,2024-01-31,Prince George's,Incident Closed-Managed,,2024-01-31
-474,222052,['Other'],2024-01-31,2024-01-31,Howard,Incident Closed-Managed,,2024-01-31
-475,222051,['Air'],2024-02-01,2024-02-01,Anne Arundel,Incident Closed-Managed,21122,2024-02-01
-476,222044,['Odor'],2024-01-25,2024-01-25,Anne Arundel,Incident Closed - No further action,21226,2024-01-25
-477,222043,['Odor'],2024-01-25,2024-01-25,Anne Arundel,Incident Closed - No further action,21226,2024-01-25
-478,222036,['Other'],2024-01-30,2024-01-30,Prince George's,Incident Closed-Managed,,2024-01-30
-479,222032,['Other'],2024-01-25,2024-01-25,Prince George's,Incident Closed-Managed,,2024-01-25
-480,222027,['Fugitive Dust/Particulate Matter'],2024-01-26,,Baltimore,Incident Closed-Managed,21227,
-481,222026,['Air'],2024-01-29,2024-01-29,Anne Arundel,Incident Closed-Managed,21054,2024-01-29
-482,222022,['Air'],2024-01-26,2024-01-26,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-01-26
-483,222019,['Air'],2024-01-25,2024-01-25,Anne Arundel,Incident Closed-Managed,21060,2024-01-25
-484,222016,['Fugitive Dust/Particulate Matter'],2024-01-24,,Baltimore,Incident Closed-Managed,21227,
-485,222015,['Fugitive Dust/Particulate Matter'],2024-01-24,,Baltimore,Incident Closed-Managed,21227,
-486,222014,['Air'],2024-01-25,2024-01-25,Anne Arundel,Under Investigation,,2024-01-25
-487,222012,['Air'],2024-01-24,2024-01-24,Anne Arundel,Incident Closed-Managed,,2024-01-24
-488,222010,['Smoke'],2024-01-03,2024-01-03,,Incident Closed-Managed,21230,2024-01-03
-489,222009,['Smoke'],2024-01-24,2024-01-24,,Referred to Attorney General's Office,21226,2024-01-24
-490,222008,"['Odor', 'Smoke']",2024-01-16,2024-01-13,,Referred to Attorney General's Office,21226,2024-01-13
-491,222007,['Smoke'],2024-01-05,2024-01-05,,Referred to Attorney General's Office,21226,2024-01-05
-492,222005,['Fugitive Dust/Particulate Matter'],2024-01-17,,Baltimore,Incident Closed-Managed,21227,
-493,222004,['Fumes'],2024-01-18,,Baltimore,Incident Closed-Managed,21228,
-494,222002,['Air'],2024-01-23,2024-01-23,Frederick,Incident Closed-No Violation Observed,21703,2024-01-23
-495,221998,['Air'],2024-01-12,2024-01-12,Montgomery,Incident Closed - No further action,20904,2024-01-12
-496,221996,['Other'],2024-01-18,2024-01-18,Prince George's,Incident Closed-Managed,20747,2024-01-18
-497,211996,"['Air', 'Odor']",2024-01-17,2024-01-17,Cecil,Referred to LMA,21911,2024-01-17
-498,211992,['Other'],2024-01-17,2024-01-17,Prince George's,Incident Closed-Managed,,2024-01-17
-499,211985,['Other'],2024-01-11,2024-01-11,Caroline,Referred to Outside Agency,21660,2024-01-11
-500,211984,['Other'],2024-01-10,2024-01-10,Caroline,Referred to WMA,21660,2024-01-10
-501,211983,['Odor'],2024-01-08,2024-01-08,Baltimore City,Incident Closed - No further action,,2024-01-08
-502,211973,['Other'],2024-01-11,2024-01-11,Prince George's,Incident Closed-Managed,,2024-01-11
-503,211968,['Other'],2024-01-04,2024-01-04,Washington,Incident Closed - No further action,,2024-01-04
-504,211967,['Smoke'],2023-12-27,2023-12-27,Allegany,Incident Closed - No further action,21502,2023-12-27
-505,211964,"['Air', 'Odor']",2024-01-02,2024-01-02,Cecil,Incident Closed - No further action,,2024-01-02
-506,211963,['Open Burning'],2024-01-03,2024-01-03,Wicomico,Incident Closed-No Violation Observed,21804,2024-01-03
-507,211961,['Odor'],2024-01-06,,Baltimore,Incident Closed-Managed,,
-508,211960,['Air'],2024-01-09,2024-01-08,Frederick,Referred to Attorney General's Office,21757,2024-01-08
-509,211959,['Air'],2024-01-05,2024-01-05,Anne Arundel,Incident Closed-No Violation Observed,,2024-01-05
-510,211956,['Other'],2024-01-05,2024-01-05,Prince George's,Incident Closed-Managed,,2024-01-05
-511,211955,['Other'],2024-01-03,2024-01-03,Prince George's,Incident Closed-Managed,,2024-01-03
-512,211949,['Odor'],2024-01-03,,Baltimore,Incident Not Applicable to MDE,,
-513,211948,['Odor'],2024-01-03,,Baltimore,Incident Closed-Managed,,
-514,211947,['Fumes'],2024-01-03,,Baltimore,Incident Closed - No further action,21222,
-515,211938,['Other'],2023-12-22,2023-12-22,Howard,Incident Closed-Managed,,2023-12-22
-516,211934,['Air'],2024-01-02,2024-01-02,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-01-02
-517,211932,['Air'],2023-12-27,2023-12-27,Anne Arundel,Incident Closed-Managed,,2023-12-27
-518,211930,['Odor'],2023-12-27,,Baltimore,Incident Closed-Managed,,
-519,211926,['Air'],2023-12-22,2023-12-22,Frederick,Incident Closed-No Violation Observed,21788,2023-12-22
-520,211907,['Air'],2023-12-21,2023-12-21,Anne Arundel,Incident Closed-No Violation Observed,21403,2023-12-21
-521,201907,['Air'],2023-12-20,2023-12-20,Queen Anne's,Incident Closed-Managed,21638,2023-12-20
-522,201905,['Fugitive Dust/Particulate Matter'],2023-12-20,2023-12-20,Allegany,Incident Closed-Managed,21536,2023-12-20
-523,201904,['Air'],2023-12-15,2023-12-15,Anne Arundel,Incident Closed-No Violation Observed,21054,2023-12-15
-524,201899,['Other'],2023-12-18,2023-12-18,Prince George's,Incident Closed-Managed,,2023-12-18
-525,201898,['Other'],2023-12-19,,Baltimore,Incident Closed - No further action,,
-526,201894,['Odor'],2023-12-18,,Harford,Incident Closed-Managed,21001,
-527,201889,['Fumes'],2023-12-13,,Baltimore,Referred to Outside Agency,,
-528,201885,['Other'],2023-12-15,2023-12-15,Prince George's,Incident Closed-Managed,,2023-12-15
-529,201883,['Other'],2023-12-14,2023-12-14,Howard,Incident Closed-Managed,,2023-12-14
-530,201873,['Odor'],2023-12-10,2023-12-10,Baltimore City,Incident Closed-Managed,,2023-12-10
-531,201872,['Odor'],2023-12-08,2023-12-08,Baltimore City,Incident Closed-Managed,,2023-12-08
-532,201871,['Smoke'],2023-12-07,2023-12-07,Baltimore City,Incident Closed-Managed,,2023-12-07
-533,201869,['Air'],2023-12-08,2023-12-08,Anne Arundel,Referred to WMA,21403,2023-12-08
-534,201868,"['Air', 'Odor']",2023-12-13,2023-12-13,Cecil,Referred to LMA,21911,2023-12-13
-535,201867,"['Air', 'Odor']",2023-12-12,2023-12-12,Cecil,Referred to LMA,21911,2023-12-12
-536,201866,['Air'],2023-12-11,2023-12-11,Frederick,Referred to Attorney General's Office,21757,2023-12-11
-537,201866,['Air'],2023-12-11,2023-12-11,Frederick,Referred to Attorney General's Office,21757,2023-12-11
-538,201865,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-539,201864,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-540,201863,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-541,201862,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-542,201861,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-543,201860,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-544,201859,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-545,201858,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-546,201857,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
-547,201856,['Other'],2023-12-08,2023-12-08,Prince George's,Incident Closed-Managed,,2023-12-08
-548,201855,['Smoke'],2023-12-06,2023-12-06,Garrett,Incident Closed - No further action,21520,2023-12-06
-549,201852,['Open Burning'],2023-12-05,2023-12-05,Washington,Incident Closed - No further action,21756,2023-12-05
-550,201845,"['Air', 'Odor', 'Open Burning']",2023-12-11,2023-12-03,Montgomery,Referred to Outside Agency,20902,2023-12-03
-551,201843,['Air'],2023-12-08,2023-12-08,Charles,Incident Closed - No further action,20601,2023-12-08
-552,201842,['Air'],2023-12-05,2023-12-05,Anne Arundel,Referred to WMA,21403,2023-12-05
-553,201841,['Air'],2023-12-07,2023-12-07,Charles,Incident Closed - No further action,20646,2023-12-07
-554,201831,['Air'],2023-12-07,2023-12-07,Anne Arundel,Incident Closed - No further action,,2023-12-07
-555,201830,['Air'],2023-12-04,2023-12-04,Frederick,Incident Closed-Managed,21788,2023-12-04
-556,201829,['Air'],2023-12-07,2023-12-06,Charles,Incident Closed - No further action,20601,2023-12-06
-557,201828,['Air'],2023-12-04,2023-12-04,Frederick,Incident Closed-No Violation Observed,21701,2023-12-04
-558,201827,['Air'],2023-12-04,2023-12-04,Frederick,Referred to Attorney General's Office,21757,2023-12-04
-559,201825,['Open Burning'],2023-12-01,2023-12-01,Wicomico,Incident Closed-Managed,21801,2023-12-01
-560,201823,['Smoke'],2023-12-04,,Baltimore,Incident Closed - No further action,,
-561,201822,['Odor'],2023-11-30,2023-11-30,Baltimore City,Incident Closed-Managed,,2023-11-30
-562,201821,['Odor'],2023-11-25,2023-11-25,Baltimore City,Incident Closed-Managed,,2023-11-25
-563,201820,['Odor'],2023-11-17,2023-11-17,Baltimore City,Incident Closed-Managed,,2023-11-17
-564,201819,['Odor'],2023-11-15,2023-11-15,Baltimore City,Incident Closed-Managed,,2023-11-15
-565,201818,['Odor'],2023-11-04,2023-11-04,Baltimore City,Incident Closed-Managed,,2023-11-04
-566,201814,['Other'],2023-12-04,2023-11-29,Prince George's,Incident Closed-Managed,20781,2023-11-29
-567,201810,"['Air', 'Fugitive Dust/Particulate Matter', 'Smoke']",2023-12-01,2023-12-01,Montgomery,Referred to Outside Agency,20902,2023-12-01
-568,201809,['Air'],2023-12-01,2023-11-28,Anne Arundel,Incident Closed-Managed,21403,2023-11-28
-569,191816,"['Air', 'Odor']",2023-11-30,2023-11-30,Cecil,Referred to LMA,21911,2023-11-30
-570,191809,['Fumes'],2023-11-28,,Baltimore,Incident Not Applicable to MDE,,
-571,191804,['Air Pollutant Release'],2023-11-28,2023-10-02,Montgomery,Incident Closed - No further action,20877,2023-10-02
-572,191802,['Air'],2023-11-28,2023-11-27,Anne Arundel,Incident Closed - No further action,21114,2023-11-27
-573,191794,['Air'],2023-11-27,2023-11-27,Frederick,Referred to Attorney General's Office,,2023-11-27
-574,191793,"['Air', 'Odor']",2023-11-22,2023-11-22,Cecil,Referred to LMA,21911,2023-11-22
-575,191783,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-576,191782,['Other'],2023-11-22,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-577,191781,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-578,191780,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-579,191779,['Other'],2023-11-20,2023-11-20,Prince George's,Incident Closed-Managed,,2023-11-20
-580,191778,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-581,191777,['Other'],2023-11-20,2023-11-20,Prince George's,Incident Closed-Managed,,2023-11-20
-582,191776,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-583,191775,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
-584,191774,"['Air', 'Fugitive Dust/Particulate Matter']",2023-10-19,2023-10-19,Cecil,Incident Closed-Managed,21919,2023-10-19
-585,191773,"['Air', 'Odor']",2023-11-16,2023-11-16,Cecil,Referred to Outside Agency,21911,2023-11-16
-586,191772,['Odor'],2023-11-21,,St. Mary's,Referred to Outside Agency,,
-587,191769,['Fugitive Dust/Particulate Matter'],2023-11-21,2023-11-21,Washington,Incident Closed-Managed,21742,2023-11-21
-588,191766,['Air'],2023-11-21,2023-11-21,Anne Arundel,Referred to Attorney General's Office,,2023-11-21
-589,191760,['Odor'],2023-11-17,,Baltimore,Incident Closed-Managed,,
-590,191759,['Other'],2023-11-17,2023-11-17,Prince George's,Incident Closed-Managed,,2023-11-17
-591,191758,['Other'],2023-11-18,2023-11-18,Prince George's,Incident Closed-Managed,,2023-11-18
-592,191757,['Other'],2023-11-19,2023-11-19,Prince George's,Incident Closed-Managed,,2023-11-19
-593,191756,['Other'],2023-11-19,2023-11-19,Prince George's,Incident Closed-Managed,,2023-11-19
-594,191754,['Other'],2023-11-19,2023-11-19,Prince George's,Incident Closed-Managed,,2023-11-19
-595,191748,"['Air', 'Smoke']",2023-11-16,2023-11-16,Carroll,Incident Closed-Managed,,2023-11-16
-596,191747,"['Air', 'Odor']",2023-11-15,2023-11-13,Cecil,Referred to Outside Agency,21911,2023-11-13
-597,191746,['Air'],2023-11-16,2023-11-16,Anne Arundel,Referred to WMA,21403,2023-11-16
-598,191741,['Fumes'],2023-11-13,,Harford,Incident Closed-No Violation Observed,21017,
-599,191739,['Air'],2023-11-13,2023-11-13,Anne Arundel,Incident Not Applicable to MDE,21225,2023-11-13
-600,191738,['Air'],2023-11-14,2023-11-12,Anne Arundel,Under Investigation,,2023-11-12
-601,191737,['Air'],2023-11-11,2023-11-11,Frederick,Incident Closed-Managed,21701,2023-11-11
-602,191736,"['Fugitive Dust/Particulate Matter', 'Smoke']",2023-11-07,2023-11-07,Washington,Incident Closed-Managed,21740,2023-11-07
-603,191735,['Air'],2023-11-08,2023-11-08,Anne Arundel,Incident Closed - No further action,21122,2023-11-08
-604,191731,['Air'],2023-11-13,2023-11-10,Anne Arundel,Under Investigation,,2023-11-10
-605,191730,['Air'],2023-11-13,2023-11-10,Anne Arundel,Under Investigation,,2023-11-10
-606,191729,['Air'],2023-11-10,2023-11-10,Anne Arundel,Under Investigation,21060,2023-11-10
-607,191726,['Air'],2023-11-10,2023-11-10,Frederick,Referred to Attorney General's Office,,2023-11-10
-608,191720,['Other'],2023-11-07,2023-11-07,Prince George's,Incident Closed-Managed,20784,2023-11-07
-609,191718,['Other'],2023-11-03,2023-11-03,Prince George's,Incident Closed-Managed,20746,2023-11-03
-610,191715,"['Air', 'Open Burning']",2023-11-06,2023-11-06,Carroll,Referred to Outside Agency,21158,2023-11-06
-611,191713,['Odor'],2023-11-03,,Baltimore,Incident Not Applicable to MDE,,
-612,191712,['Odor'],2023-11-02,,Baltimore,Referred to Outside Agency,,
-613,191711,['Other'],2023-11-03,2023-11-03,Prince George's,Incident Closed-Managed,,2023-11-03
-614,191710,['Other'],2023-10-30,2023-10-30,Prince George's,Incident Closed-Managed,,2023-10-30
-615,191707,['Air'],2023-11-02,2023-11-02,Frederick,Incident Closed - No further action,21769,2023-11-02
-616,191706,['Air'],2023-11-03,2023-11-02,Anne Arundel,Under Investigation,,2023-11-02
-617,191705,['Air'],2023-11-03,2023-10-31,Charles,Incident Closed - No further action,,2023-10-31
-618,191704,['Odor'],2023-10-30,2023-10-30,Baltimore City,Incident Closed-Managed,,2023-10-30
-619,191703,['Odor'],2023-10-29,2023-10-29,Baltimore City,Incident Closed-Managed,,2023-10-29
-620,191702,['Odor'],2023-11-28,2023-10-28,Baltimore City,Incident Closed-Managed,,2023-10-28
-621,191700,['Odor'],2023-10-27,2023-10-27,Baltimore City,Incident Closed-Managed,,2023-10-27
-622,191699,['Odor'],2023-11-01,2023-11-01,Washington,Incident Closed - No further action,21740,2023-11-01
-623,191697,['Fugitive Dust/Particulate Matter'],2023-10-26,2023-10-26,Washington,Incident Closed-Managed,21742,2023-10-26
-624,191696,['Fugitive Dust/Particulate Matter'],2023-10-26,2023-10-26,Washington,Incident Closed-Managed,21742,2023-10-26
-625,191693,['Air'],2023-11-01,2023-10-31,Frederick,Referred to Attorney General's Office,,2023-10-31
-626,191692,['Air'],2023-10-31,2023-10-31,Anne Arundel,Incident Closed - No further action,21144,2023-10-31
-627,191690,['Air'],2023-11-01,2023-10-30,Anne Arundel,Incident Not Applicable to MDE,,2023-10-30
-628,191689,['Air'],2023-11-01,2023-10-26,Anne Arundel,Under Investigation,,2023-10-26
-629,191686,"['Air', 'Odor']",2023-10-31,2023-10-27,Baltimore,Incident Closed-Managed,21224,2023-10-27
-630,191684,['Other'],2023-10-24,2023-10-24,Baltimore City,Incident Closed-Managed,,2023-10-24
-631,191683,['Odor'],2023-10-24,2023-10-24,Baltimore City,Incident Closed-Managed,,2023-10-24
-632,191682,['Odor'],2023-10-19,2023-10-19,Baltimore City,Incident Closed-Managed,,2023-10-19
-633,191681,['Air Pollutant Release'],2023-10-16,2023-10-16,Baltimore City,Incident Closed - No further action,,2023-10-16
-634,191680,['Air'],2023-10-11,2023-05-06,Baltimore City,Incident Closed-Managed,21226,2023-05-06
-635,191677,"['Air', 'Fumes', 'Odor']",2023-10-26,2023-10-26,Carroll,Incident Closed-Managed,21048,2023-10-26
-636,191675,['Air'],2023-10-30,2023-10-30,Frederick,Incident Closed - No further action,,2023-10-30
-637,191674,['Air'],2023-10-30,2023-10-28,Anne Arundel,Incident Closed - No further action,21037,2023-10-28
-638,191671,['Other'],2023-10-24,2023-10-24,Prince George's,Incident Closed-Managed,,2023-10-24
-639,191667,['Air'],2023-10-26,2023-10-26,Frederick,Clean-up Initiated,,2023-10-26
-640,191665,['Odor'],2023-10-12,2023-10-12,Baltimore City,Incident Closed-Managed,,2023-10-12
-641,191664,['Odor'],2023-10-05,2023-10-05,Baltimore City,Incident Closed-Managed,,2023-10-05
-642,191663,['Odor'],2023-09-26,2023-09-26,Baltimore City,Incident Closed-Managed,,2023-09-26
-643,191662,['Odor'],2023-09-27,2023-09-27,Baltimore City,Incident Closed-Managed,,2023-09-27
-644,191661,['Odor'],2023-09-20,2023-09-20,Baltimore City,Incident Closed-Managed,,2023-09-20
-645,191660,['Odor'],2023-09-12,2023-09-12,Baltimore City,Incident Closed-Managed,,2023-09-12
-646,191659,['Fugitive Dust/Particulate Matter'],2023-09-11,2023-09-11,Baltimore City,Incident Closed-Managed,,2023-09-11
-647,191658,['Odor'],2023-09-11,2023-09-11,Baltimore City,Incident Closed-Managed,,2023-09-11
-648,191657,['Odor'],2023-09-09,2023-09-09,Baltimore City,Incident Closed-Managed,,2023-09-09
-649,191656,['Fugitive Dust/Particulate Matter'],2023-09-08,2023-09-08,Baltimore City,Incident Closed-Managed,,2023-09-08
-650,191655,['Odor'],2023-09-07,2023-09-07,Baltimore City,Incident Closed-Managed,,2023-09-07
-651,191650,['Air'],2023-10-25,2023-10-25,Frederick,Clean-up Initiated,,2023-10-25
-652,191648,['Noise Complaint'],2023-10-23,,Baltimore,Incident Not Applicable to MDE,,
-653,191646,['Air'],2023-10-24,2023-10-24,Frederick,Clean-up Initiated,,2023-10-24
-654,191644,['Air'],2023-10-24,2023-10-24,Frederick,Clean-up Initiated,,2023-10-24
-655,191643,['Air'],2023-10-24,2023-10-23,Charles,Under Investigation,,2023-10-23
-656,191638,['Other'],2023-10-19,2023-10-19,Prince George's,Incident Closed-Managed,20743,2023-10-19
-657,191637,"['Fugitive Dust/Particulate Matter', 'Smoke']",2023-10-18,2023-10-05,Allegany,Incident Closed - No further action,21540-109,2023-10-05
-658,191635,['Other'],2023-10-19,2023-10-19,Prince George's,Incident Closed-Managed,,2023-10-19
-659,191634,['Fugitive Dust/Particulate Matter'],2023-10-18,2023-10-18,Washington,Incident Closed-No Violation Observed,21742,2023-10-18
-660,181632,['Air'],2023-10-19,2023-10-19,St. Mary's,Incident Not Applicable to MDE,,2023-10-19
-661,181626,['Air'],2023-10-18,2023-10-16,Anne Arundel,Incident Closed-No Violation Observed,21037,2023-10-16
-662,181625,['Air'],2023-10-16,2023-10-16,Frederick,Incident Closed - No further action,,2023-10-16
-663,181624,['Air'],2023-10-17,2023-10-17,Anne Arundel,Incident Closed - No further action,,2023-10-17
-664,181622,['Other'],2023-10-16,,Baltimore,Incident Closed-Managed,,
-665,181621,['Odor'],2023-10-15,,Baltimore,Incident Closed-No Violation Observed,,
-666,181617,"['Air', 'Odor', 'Open Burning', 'Smoke']",2023-10-10,2023-10-10,Cecil,Incident Closed-Managed,21919,2023-10-10
-667,181616,"['Air', 'Fugitive Dust/Particulate Matter', 'Other', 'Suspected Operation without Permit']",2023-10-11,2023-10-11,Cecil,Incident Closed-Managed,21901,2023-10-11
-668,181615,"['Air', 'Fumes', 'Odor']",2023-10-13,2023-10-13,Montgomery,Incident Closed-Managed,20852,2023-10-13
-669,181613,['Other'],2023-10-11,2023-10-11,Allegany,Incident Closed - No further action,,2023-10-11
-670,181612,['Other'],2023-10-10,2023-10-10,Allegany,Incident Closed - No further action,,2023-10-10
-671,181611,['Smoke'],2023-09-27,2023-09-27,Allegany,Incident Closed - No further action,21562,2023-09-27
-672,181609,['Air'],2023-10-13,2023-10-13,Anne Arundel,Incident Not Applicable to MDE,,2023-10-13
-673,181607,['Other'],2023-10-05,2023-10-05,Prince George's,Incident Closed-Managed,,2023-10-05
-674,181606,['Other'],2023-10-05,2023-10-05,Prince George's,Incident Closed-Managed,,2023-10-05
-675,181605,['Other'],2023-10-03,2023-10-03,Prince George's,Incident Closed-Managed,,2023-10-03
-676,181598,['Air'],2023-10-11,2023-10-11,Frederick,Incident Closed-Clean-up Completed,21701,2023-10-11
-677,181596,['Fugitive Dust/Particulate Matter'],2023-10-03,2023-10-03,Kent,Incident Closed-No Violation Observed,,2023-10-03
-678,181595,['Odor'],2023-10-09,,Baltimore,Incident Closed-No Violation Observed,21093,
-679,181594,['Smoke'],2023-10-10,,Baltimore,Incident Not Applicable to MDE,,
-680,181593,['Air'],2023-10-10,2023-10-09,Frederick,Clean-up Initiated,21757,2023-10-09
-681,181588,['Air'],2023-10-05,2023-10-05,Frederick,Incident Closed - No further action,21771,2023-10-05
-682,181587,['Air'],2023-10-03,2023-10-03,Frederick,Incident Closed - No further action,,2023-10-03
-683,181586,['Air'],2023-10-04,2023-10-04,Frederick,Clean-up Initiated,21757,2023-10-04
-684,181585,"['Air', 'Odor']",2023-10-05,2023-10-04,Baltimore,Incident Closed-Managed,21224,2023-10-04
-685,181584,['Odor'],2023-10-04,,Harford,Incident Not Applicable to MDE,,
-686,181582,['Odor'],2023-10-04,2023-10-04,Cecil,Referred to Outside Agency,21911,2023-10-04
-687,181579,['Air'],2023-10-04,2023-10-04,Frederick,Clean-up Initiated,,2023-10-04
-688,181578,['Other'],2023-10-02,2023-10-02,Prince George's,Incident Closed-Managed,,2023-10-02
-689,181577,['Other'],2023-08-29,2023-09-29,Prince George's,Incident Closed-Managed,,2023-09-29
-690,181574,['Odor'],2023-10-03,,Baltimore,Incident Closed-Managed,,
-691,181573,['Air'],2023-10-03,2023-10-03,Frederick,Incident Closed-No Violation Observed,21701,2023-10-03
-692,181572,['Air'],2023-10-03,2023-09-29,Anne Arundel,Incident Closed-Managed,21060,2023-09-29
-693,181571,['Air'],2023-10-03,2023-09-29,Anne Arundel,Under Investigation,21054,2023-09-29
-694,181567,['Odor'],2023-10-01,,Baltimore,Incident Closed-Managed,,
-695,181566,"['Air', 'Asbestos Complaint']",2023-10-02,2023-10-02,Montgomery,Referred to Outside Agency,,2023-10-02
-696,181554,['Air'],2023-09-27,2023-09-27,Frederick,Clean-up Initiated,,2023-09-27
-697,181551,['Air'],2023-09-26,2023-09-25,Frederick,Clean-up In Progress,,2023-09-25
-698,181546,['Other'],2023-09-25,2023-09-18,Howard,Incident Closed-Managed,,2023-09-18
-699,181544,['Other'],2023-09-15,2023-09-15,Allegany,Incident Closed - No further action,,2023-09-15
-701,181532,"['Air', 'Fumes', 'Odor']",2023-09-21,2023-03-22,Montgomery,Incident Closed-Managed,20837,2023-03-22
-702,181531,['Air'],2023-09-21,2023-09-21,Charles,Incident Not Applicable to MDE,,2023-09-21
-703,181530,['Air'],2023-09-21,2023-09-19,Frederick,Incident Closed-No Violation Observed,,2023-09-19
-704,181529,['Air'],2023-09-21,2023-09-19,Anne Arundel,Incident Closed - No further action,21054,2023-09-19
-705,181528,['Air'],2023-09-21,2023-09-18,Frederick,Clean-up Initiated,,2023-09-18
-706,181526,['Fugitive Dust/Particulate Matter'],2023-09-18,,Baltimore,Incident Closed - No further action,21162,
-707,181525,['Smoke'],2023-09-18,,Harford,Incident Closed-Managed,,
-708,181517,['Air'],2023-09-18,2023-09-12,Frederick,Clean-up In Progress,,2023-09-12
-709,181516,['Air'],2023-09-18,2023-09-06,Anne Arundel,Incident Closed - No further action,,2023-09-06
-710,181515,['Air'],2023-09-18,2023-09-05,Anne Arundel,Under Investigation,,2023-09-05
-711,181514,['Odor'],2023-09-14,2023-09-14,Carroll,Referred to Outside Agency,,2023-09-14
-712,181512,['Non-Tidal Wetlands/Waterway'],2023-09-12,2023-09-12,Washington,Referred to WMA,,2023-09-12
-714,181491,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
-715,181490,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
-716,181489,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
-717,181488,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
-718,181487,['Odor'],2023-08-29,2023-08-29,Dorchester,Incident Closed - No further action,21835,2023-08-29
-719,181483,['Other'],2023-09-11,2023-09-11,Washington,Incident Closed-Managed,,2023-09-11
-720,181482,['Other'],2023-09-11,2023-09-10,Prince George's,Incident Closed-Managed,,2023-09-10
-721,181480,['Smoke'],2023-09-11,,Baltimore,Incident Closed - No further action,21228,
-722,181479,['Odor'],2023-09-08,,Baltimore,Incident Closed-Managed,,
-723,181478,['Fugitive Dust/Particulate Matter'],2023-09-08,,Baltimore,Incident Closed-No Violation Observed,,
-724,181462,['Fumes'],2023-09-05,,Harford,Incident Closed-Managed,,
-725,181459,['Odor'],2023-09-01,2023-09-01,Baltimore City,Incident Closed-Managed,,2023-09-01
-726,181458,['Odor'],2023-08-28,2023-08-28,Baltimore City,Incident Closed-Managed,,2023-08-28
-727,181457,['Odor'],2023-08-23,2023-08-23,Baltimore City,Incident Closed-Managed,,2023-08-23
-728,181456,['Odor'],2023-08-23,2023-08-23,Baltimore City,Incident Closed-Managed,,2023-08-23
-729,181455,['Odor'],2023-08-17,2023-08-17,Baltimore City,Incident Closed-Managed,,2023-08-17
-730,181454,['Odor'],2023-08-14,2023-08-14,Baltimore City,Incident Closed-Managed,,2023-08-14
-731,181453,['Odor'],2023-07-24,2023-07-24,Baltimore City,Incident Closed-Managed,,2023-07-24
-732,181452,['ARA AQCP non-regulated entity'],2023-07-21,2023-07-21,Baltimore City,Incident Closed - No further action,,2023-07-21
-733,181451,['Odor'],2023-07-20,2023-07-20,Baltimore City,Incident Closed-Managed,,2023-07-20
-734,181442,['Other'],2023-08-30,2023-08-30,Prince George's,Incident Closed-Managed,,2023-08-30
-735,181440,['Other'],2023-08-30,2023-08-30,Prince George's,Incident Closed-Managed,,2023-08-30
-736,181427,['Other'],2023-08-28,2023-08-28,Prince George's,Incident Closed-Managed,20782,2023-08-28
-737,181426,['Other'],2023-08-25,2023-08-25,Prince George's,Incident Closed-Managed,,2023-08-25
-738,181425,['Other'],2023-08-18,2023-08-18,Prince George's,Incident Closed-Managed,,2023-08-18
-739,181424,['Other'],2023-08-17,2023-08-17,Prince George's,Incident Closed-Managed,,2023-08-17
-740,181422,['Air'],2023-08-29,2023-08-29,Frederick,Incident Closed-Managed,,2023-08-29
-741,181421,['Air'],2023-08-29,2023-08-28,Frederick,Incident Closed-Managed,,2023-08-28
-742,181420,['Air'],2023-08-29,2023-08-28,Anne Arundel,Incident Closed - No further action,,2023-08-28
-743,181419,['Air'],2023-08-29,2023-08-28,Charles,Under Investigation,,2023-08-28
-744,181418,['Other'],2023-08-28,2023-08-28,Frederick,Referred to WMA,21788,2023-08-28
-745,181416,['Odor'],2023-08-22,2023-08-22,Dorchester,Incident Closed - No further action,21835,2023-08-22
-746,181412,['Other'],2023-08-17,2023-08-17,Howard,Incident Closed-Managed,20794,2023-08-17
-747,181403,['Open Burning'],2023-08-21,,Harford,Incident Closed-Managed,,
-748,181391,['Noise Complaint'],2023-08-17,2023-08-16,Anne Arundel,Incident Not Applicable to MDE,,2023-08-16
-749,181379,['Other'],2023-08-10,2023-08-10,Prince George's,Incident Closed-Managed,,2023-08-10
-750,181376,['Odor'],2023-08-14,2023-08-14,Dorchester,Referred to WMA,21643,2023-08-14
-751,181375,"['Fugitive Dust/Particulate Matter', 'Smoke']",2023-08-11,2023-08-11,Washington,Incident Closed-No Violation Observed,21740,2023-08-11
-752,181372,['Odor'],2023-08-10,2023-08-10,Anne Arundel,Incident Closed - No further action,,2023-08-10
-753,181371,['Odor'],2023-08-11,2023-08-09,Baltimore City,Incident Closed - No further action,,2023-08-09
-754,181365,['Odor'],2023-08-07,2023-08-05,Dorchester,Incident Closed-No Violation Observed,21643,2023-08-05
-756,181348,['Other'],2023-08-02,2023-08-02,Garrett,Incident Closed - No further action,21550,2023-08-02
-758,181327,['Odor'],2023-07-31,2023-07-31,Dorchester,Incident Closed - No further action,21643,2023-07-31
-759,181314,['Air'],2023-07-27,2023-07-27,Charles,Under Investigation,,2023-07-27
-760,181313,['Odor'],2023-07-26,,Baltimore,Incident Closed - No further action,,
-761,181311,['Fugitive Dust/Particulate Matter'],2023-07-24,2023-07-24,Washington,Incident Closed-No Violation Observed,21740,2023-07-24
-762,181307,['Odor'],2023-07-26,,Baltimore,Incident Closed - No further action,,
-763,181304,['Odor'],2023-07-15,2023-07-15,Baltimore City,Incident Closed-Managed,,2023-07-15
-764,181303,['Fugitive Dust/Particulate Matter'],2023-07-13,2023-07-13,Baltimore City,Incident Closed-Managed,,2023-07-13
-765,181302,['Odor'],2023-07-09,2023-07-09,Baltimore City,Incident Closed-Managed,,2023-07-09
-766,181301,['Odor'],2023-07-07,2023-07-07,Baltimore City,Incident Closed-Managed,,2023-07-07
-767,181300,['Odor'],2023-07-06,2023-07-06,Baltimore City,Incident Closed-Managed,,2023-07-06
-768,181297,['Odor'],2023-06-26,2023-06-26,Baltimore City,Incident Closed-Managed,,2023-06-26
-769,181296,['Air'],2023-06-24,2023-06-24,Baltimore City,Incident Closed - No further action,,2023-06-24
-770,181295,['Odor'],2023-06-22,2023-06-22,Baltimore City,Incident Closed-Managed,,2023-06-22
-771,181294,['Odor'],2023-06-16,2023-06-16,Baltimore City,Incident Closed-Managed,,2023-06-16
-772,181293,['Odor'],2023-07-12,2023-06-12,Baltimore City,Incident Closed-Managed,,2023-06-12
-773,181292,['Fugitive Dust/Particulate Matter'],2023-06-06,2023-06-06,Baltimore City,Incident Closed - No further action,,2023-06-06
-774,181291,['Odor'],2023-06-05,2023-06-05,Baltimore City,Incident Closed-Managed,,2023-06-05
-775,181290,['Odor'],2023-06-02,2023-06-02,Baltimore City,Incident Closed-Managed,,2023-06-02
-776,181289,['Smoke'],2023-07-24,,Harford,Incident Closed-Managed,,
-777,181284,['Air'],2023-07-17,2022-11-30,Montgomery,Incident Closed-Managed,20879,2022-11-30
-778,181283,"['Air', 'Fugitive Dust/Particulate Matter', 'Odor']",2023-07-14,2023-07-14,Montgomery,Referred to Outside Agency,,2023-07-14
-779,181278,"['Odor', 'Open Burning', 'Smoke']",2023-07-11,2023-07-10,Allegany,Incident Closed-Managed,21501,2023-07-10
-780,171278,['Air'],2023-07-20,2023-07-20,Frederick,Under Investigation,,2023-07-20
-781,171263,"['Odor', 'Open Burning', 'Smoke']",2023-07-06,2023-06-28,Garrett,Incident Closed - No further action,21550,2023-06-28
-782,171261,"['Odor', 'Open Burning', 'Smoke']",2023-07-06,2023-06-16,Garrett,Incident Closed - No further action,21531,2023-06-16
-783,171257,['Air'],2023-07-17,2023-07-17,Frederick,Under Investigation,21757,2023-07-17
-784,171251,['Air'],2023-07-13,2023-07-13,Prince George's,Incident Closed-No Violation Observed,,2023-07-13
-785,171247,['Open Burning'],2023-07-03,2023-07-03,Wicomico,Incident Closed-No Violation Observed,21804,2023-07-03
-786,171235,['Other'],2023-07-06,2023-07-06,Howard,Incident Closed-Managed,,2023-07-06
-787,171234,['Air'],2023-07-10,2023-07-06,Anne Arundel,Incident Closed-Managed,21054,2023-07-06
-788,171233,['Air'],2023-07-10,2023-07-05,Anne Arundel,Incident Closed-Managed,21122,2023-07-05
-789,171232,['Air'],2023-07-10,2023-07-03,Anne Arundel,Incident Closed-Clean-up Completed,21401,2023-07-03
-790,171231,['Air'],2023-07-10,2023-07-06,Frederick,Incident Closed-No Violation Observed,21770,2023-07-06
-791,171223,['Other'],2023-07-05,2023-07-05,Prince George's,Incident Closed-Managed,,2023-07-05
-792,171218,['Other'],2023-06-29,2023-06-29,Howard,Incident Closed-Managed,,2023-06-29
-793,171217,['Other'],2023-06-28,2023-06-28,Prince George's,Incident Closed-Managed,,2023-06-28
-794,171212,['Air'],2023-06-30,2023-06-29,Anne Arundel,Incident Closed - No further action,,2023-06-29
-795,171211,['Smoke'],2023-06-29,,Harford,Incident Closed - No further action,,
-796,171210,"['Air', 'Odor']",2023-06-29,2023-06-29,Carroll,Referred to Outside Agency,21158,2023-06-29
-797,171206,['Odor'],2023-06-27,,Baltimore,Incident Not Applicable to MDE,,
-799,171195,['Air'],2023-06-28,2023-06-28,Baltimore,Incident Closed - No further action,,2023-06-28
-800,171188,['Fumes'],2023-06-26,,Harford,Incident Closed-Managed,,
-801,171187,['Air'],2023-06-27,2023-06-27,Charles,Under Investigation,,2023-06-27
-803,171155,['Air'],2023-06-23,2023-06-23,Frederick,Under Investigation,,2023-06-23
-804,161146,['Fugitive Dust/Particulate Matter'],2023-06-21,,Baltimore,Incident Closed - No further action,,
-805,161144,['Air'],2023-06-21,2023-06-20,Frederick,Under Investigation,,2023-06-20
-806,161143,['Air'],2023-06-21,2023-06-19,Frederick,Under Investigation,,2023-06-19
-807,161141,['Odor'],2023-06-20,2023-06-15,Washington,Referred to WMA,21782,2023-06-15
-808,161135,"['Air', 'Fugitive Dust/Particulate Matter']",2023-06-06,2023-05-22,Cecil,Incident Closed-Managed,21904,2023-05-22
-809,161134,['Air'],2023-06-15,2023-06-13,Anne Arundel,Incident Closed-Managed,20794,2023-06-13
-810,161132,['Open Burning'],2023-06-12,2023-06-12,Cecil,Referred to Outside Agency,21921,2023-06-12
-811,161130,['Fugitive Dust/Particulate Matter'],2023-06-14,,Baltimore,Incident Closed-No Violation Observed,,
-812,161125,['Fugitive Dust/Particulate Matter'],2023-06-14,,Baltimore,Incident Closed-No Violation Observed,,
-813,161116,['Open Burning'],2023-06-05,2023-06-05,Carroll,Referred to Outside Agency,21771,2023-06-05
-814,161115,['Air'],2023-06-12,2023-06-12,Frederick,Under Investigation,,2023-06-12
-815,161112,['Other'],2023-06-07,2023-06-07,Howard,Incident Closed-Managed,,2023-06-07
-816,161111,['Other'],2023-06-06,2023-06-06,Howard,Incident Closed-Managed,,2023-06-06
-817,161106,['Fugitive Dust/Particulate Matter'],2023-06-02,2023-06-02,Allegany,Incident Closed - No further action,,2023-06-02
-818,161105,['Odor'],2023-06-09,,Harford,Referred to Outside Agency,,
-819,161104,['Air'],2023-06-08,,Harford,Incident Closed-Managed,,
-820,161102,['Open Burning'],2023-06-06,2023-06-06,Wicomico,Incident Closed-No Violation Observed,21801,2023-06-06
-821,161102,['Open Burning'],2023-06-06,2023-06-06,Wicomico,Incident Closed-No Violation Observed,21822,2023-06-06
-822,161101,['Fugitive Dust/Particulate Matter'],2023-06-07,2023-06-07,Dorchester,Incident Closed-Managed,21664,2023-06-07
-823,161093,['Air'],2023-06-08,2023-06-07,Frederick,Under Investigation,,2023-06-07
-824,161092,['Air'],2023-06-08,2023-06-05,Frederick,Incident Closed - No further action,,2023-06-05
-825,161089,['Fugitive Dust/Particulate Matter'],2023-05-19,2023-05-10,Washington,Incident Closed-No Violation Observed,21740,2023-05-10
-826,161086,['Non-Tidal Wetlands/Waterway'],2023-05-17,2023-05-17,Allegany,Incident Closed - No further action,21539,2023-05-17
-827,161081,['Odor'],2023-06-01,2023-06-01,Baltimore City,Incident Closed-Managed,,2023-06-01
-828,161080,['Odor'],2023-05-31,2023-05-31,Baltimore City,Incident Closed-Managed,,2023-05-31
-829,161079,['Odor'],2023-05-29,2023-05-29,Baltimore City,Incident Closed-Managed,,2023-05-29
-830,161078,['Odor'],2023-05-28,2023-05-28,Baltimore City,Incident Closed-Managed,,2023-05-28
-831,161077,['Odor'],2023-05-27,2023-05-27,Baltimore City,Incident Closed-Managed,,2023-05-27
-832,161076,['Odor'],2023-05-24,2023-05-24,Baltimore City,Incident Closed-Managed,,2023-05-24
-833,161075,['Odor'],2023-05-19,2023-05-19,Baltimore City,Incident Closed-Managed,,2023-05-19
-834,161074,['Odor'],2023-05-18,2023-05-18,Baltimore City,Incident Closed-Managed,,2023-05-18
-835,161073,['Fugitive Dust/Particulate Matter'],2023-05-17,2023-05-17,Baltimore City,Incident Closed-Managed,,2023-05-17
-836,161072,['Fugitive Dust/Particulate Matter'],2023-05-16,2023-05-16,Baltimore City,Incident Closed-Managed,,2023-05-16
-837,161071,['Odor'],2023-05-10,2023-05-10,Baltimore City,Incident Closed-Managed,,2023-05-10
-838,161070,['Odor'],2023-05-09,2023-05-09,Baltimore City,Incident Closed-Managed,,2023-05-09
-840,161065,['Odor'],2023-05-08,2023-05-08,Baltimore City,Incident Closed-Managed,,2023-05-08
-841,161064,['Other'],2023-06-05,2023-06-05,Howard,Incident Closed-Managed,,2023-06-05
-842,161063,['Other'],2023-06-01,2023-06-01,Prince George's,Incident Closed-Managed,,2023-06-01
-843,161062,['Odor'],2023-05-07,2023-05-07,Baltimore City,Incident Closed-Managed,,2023-05-07
-844,161061,['Other'],2023-06-01,2023-06-01,Howard,Incident Closed-Managed,21075,2023-06-01
-845,161060,['Odor'],2023-05-06,2023-05-06,Baltimore City,Incident Closed-Managed,,2023-05-06
-846,161059,['Other'],2023-05-31,2023-05-31,Howard,Incident Closed-Managed,21075,2023-05-31
-847,161058,['Other'],2023-05-23,2023-05-23,Howard,Incident Closed-Managed,21075,2023-05-23
-848,161057,['Odor'],2023-05-05,2023-05-05,Baltimore City,Incident Closed-Managed,,2023-05-05
-849,161055,['Air'],2023-06-06,2023-06-03,Anne Arundel,Under Investigation,,2023-06-03
-850,161054,['Air'],2023-06-06,2023-06-02,Anne Arundel,Incident Closed-No Violation Observed,,2023-06-02
-851,161042,['Air'],2023-06-02,2023-06-02,Frederick,Under Investigation,,2023-06-02
-852,161041,['Air'],2023-06-02,2023-05-31,Frederick,Under Investigation,,2023-05-31
-853,161040,['Air'],2023-06-02,2023-05-26,Frederick,Under Investigation,,2023-05-26
-854,161035,['Air'],2023-06-02,2023-06-01,Anne Arundel,Under Investigation,,2023-06-01
-855,161034,['Air'],2023-06-02,2023-05-31,Anne Arundel,Incident Closed - No further action,,2023-05-31
-856,161033,['Air'],2023-06-02,2023-05-31,Anne Arundel,Incident Closed-No Violation Observed,21113,2023-05-31
-857,161032,['Air'],2023-06-02,2023-05-30,Anne Arundel,Incident Closed - No further action,,2023-05-30
-858,161031,['Air'],2023-06-02,2023-05-26,Anne Arundel,Incident Closed-No Violation Observed,21113,2023-05-26
-859,161030,['Other'],2023-06-01,,St. Mary's,Incident Closed - No further action,,
-860,161027,"['Air', 'Fugitive Dust/Particulate Matter']",2023-05-31,2023-05-31,Montgomery,Referred to Outside Agency,20912,2023-05-31
-861,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,Incident Closed-Managed,20853,2023-05-25
-862,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,Incident Closed-Managed,20837,2023-05-25
-863,161008,['Other'],2023-05-25,,Baltimore,Incident Closed - No further action,,
-864,161002,['Air'],2023-05-24,2023-05-24,Frederick,Under Investigation,,2023-05-24
-865,161000,"['Fumes', 'Odor', 'Smoke']",2023-05-23,2023-05-23,Wicomico,Incident Closed-Managed,21801,2023-05-23
-866,160992,['Odor'],2023-05-22,2023-05-13,Baltimore,Incident Closed - No further action,21222,2023-05-13
-867,160990,"['Air', 'Fumes', 'Odor']",2023-05-19,2023-05-19,Montgomery,Incident Closed-Managed,20837,2023-05-19
-868,160989,"['Air', 'Fumes', 'Odor']",2023-05-19,2023-05-19,Montgomery,Incident Closed-Managed,20853,2023-05-19
-869,160989,"['Air', 'Fumes', 'Odor']",2023-05-19,2023-05-19,Montgomery,Incident Closed-Managed,20837,2023-05-19
-870,160986,['Fumes'],2023-05-18,,Baltimore,Referred to Outside Agency,,
-871,160982,['Air'],2023-05-19,2023-05-18,Frederick,Incident Closed - No further action,,2023-05-18
-872,160982,['Air'],2023-05-19,2023-05-18,Frederick,Incident Closed - No further action,,2023-05-18
-873,160981,['Air'],2023-05-19,2023-05-17,Anne Arundel,Incident Closed - No further action,,2023-05-17
-874,150983,"['Air', 'Fumes', 'Odor']",2023-05-16,2023-05-16,Montgomery,Incident Closed-Managed,20853,2023-05-16
-875,150983,"['Air', 'Fumes', 'Odor']",2023-05-16,2023-05-16,Montgomery,Incident Closed-Managed,20837,2023-05-16
-876,150982,"['Air', 'Fumes', 'Odor']",2023-05-16,2023-05-16,Montgomery,Incident Closed-Managed,20853,2023-05-16
-877,150981,['Air'],2023-05-09,2023-05-09,Montgomery,Incident Closed-Managed,20879,2023-05-09
-878,150978,['Odor'],2023-05-04,2023-05-04,Dorchester,Incident Closed - No further action,21835,2023-05-04
-879,150977,['Fumes'],2023-05-16,,Baltimore,Incident Closed-Managed,,
-880,150965,"['Air', 'Fumes', 'Odor']",2023-05-15,2023-05-15,Montgomery,Incident Closed-Managed,20837,2023-05-15
-881,150964,['Fumes'],2023-05-15,,Baltimore,Incident Closed-Managed,,
-882,150963,['Odor'],2023-05-15,,Baltimore,Referred to Outside Agency,,
-883,150958,['Air'],2023-05-15,2023-05-12,Frederick,Incident Closed - No further action,,2023-05-12
-884,150957,['Air'],2023-05-15,2023-05-09,Frederick,Under Investigation,,2023-05-09
-885,150956,['Air'],2023-05-15,2023-05-08,Anne Arundel,Incident Closed-No Violation Observed,,2023-05-08
-886,150951,['Smoke'],2023-05-12,2023-03-09,Harford,Incident Closed - No further action,,2023-03-09
-887,150950,['Smoke'],2023-05-12,2023-03-09,Harford,Incident Closed - No further action,,2023-03-09
-888,150949,['Smoke'],2023-05-12,2023-03-09,Harford,Incident Closed - No further action,,2023-03-09
-889,150947,"['Air', 'Fumes', 'Odor']",2023-05-11,2023-05-11,Montgomery,Incident Closed-Managed,20837,2023-05-11
-890,150946,['Air'],2023-05-12,2023-05-11,Charles,Incident Closed-No Violation Observed,20601,2023-05-11
-891,150945,"['Air', 'Fumes', 'Odor']",2023-05-07,2023-05-07,Montgomery,Incident Closed-Managed,20837,2023-05-07
-892,150941,['Odor'],2023-04-07,2023-04-07,Howard,Incident Closed - No further action,20723,2023-04-07
-893,150938,"['Air', 'Other']",2023-04-20,2023-04-20,Carroll,Referred to Outside Agency,21776-811,2023-04-20
-894,150932,['Other'],2023-05-08,2023-05-08,Prince George's,Incident Closed-Managed,,2023-05-08
-895,150931,['Other'],2023-05-03,2023-05-03,Prince George's,Incident Closed-Managed,,2023-05-03
-896,150930,['Fugitive Dust/Particulate Matter'],2023-04-20,2023-04-20,Baltimore City,Incident Closed-Managed,,2023-04-20
-897,150929,['Odor'],2023-04-26,2023-04-26,Baltimore City,Incident Closed-Managed,,2023-04-26
-898,150928,['Odor'],2023-04-23,2023-04-23,Baltimore City,Incident Closed-Managed,,2023-04-23
-899,150927,['Odor'],2023-04-22,2023-04-22,Baltimore City,Incident Closed-Managed,,2023-04-22
-900,150926,['Odor'],2023-04-21,2023-04-21,Baltimore City,Incident Closed-Managed,,2023-04-21
-901,150925,['Air'],2023-05-09,2023-05-09,Frederick,Under Investigation,,2023-05-09
-902,150916,['Air'],2023-05-08,2023-05-04,Anne Arundel,Incident Closed-No Violation Observed,,2023-05-04
-903,150915,['Air'],2023-05-08,2023-05-04,Anne Arundel,Incident Closed - No further action,,2023-05-04
-904,150914,['Air'],2023-05-08,2023-05-03,Anne Arundel,Incident Closed - No further action,,2023-05-03
-905,150902,['Open Burning'],2023-05-03,2023-05-03,Somerset,Incident Closed-No Violation Observed,21853,2023-05-03
-906,150896,['Odor'],2023-05-02,,Baltimore,Incident Closed-No Violation Observed,21093,
-907,150894,"['Air', 'Other']",2023-05-01,2023-05-01,Cecil,Incident Closed - No further action,,2023-05-01
-908,150891,['Other'],2023-04-28,2023-04-28,Cecil,Referred to Outside Agency,21901,2023-04-28
-909,150887,['Air'],2023-05-01,2023-04-28,Anne Arundel,Incident Closed - No further action,,2023-04-28
-910,150886,['Air'],2023-05-01,2023-04-26,Anne Arundel,Under Investigation,,2023-04-26
-911,150867,['Other'],2023-04-27,,Baltimore,Incident Closed-Managed,,
-912,150864,"['Air', 'Fugitive Dust/Particulate Matter']",2023-04-20,2023-04-20,Montgomery,Incident Closed-Managed,20852,2023-04-20
-913,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
-914,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
-915,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
+1,313424,['Air'],2024-12-04,2024-12-04,Anne Arundel,Under Investigation,21114,2024-12-04
+2,313423,"['Air', 'Fugitive Dust/Particulate Matter']",2024-12-02,2024-12-02,Cecil,Incident Closed-Managed,21901,2024-12-02
+3,313422,"['Air', 'Fugitive Dust/Particulate Matter']",2024-12-02,2024-12-02,Cecil,Incident Closed-Managed,21901,2024-12-02
+4,313416,['Open Burning'],2024-11-27,2024-11-26,Wicomico,Under Investigation,21801,2024-11-26
+5,313413,['Other'],2024-11-14,2024-11-14,Allegany,Incident Closed - No further action,21502,2024-11-14
+6,313411,['Odor'],2024-11-08,2024-11-08,Allegany,Referred to Outside Agency,21501,2024-11-08
+7,303409,['Air'],2024-11-21,2024-11-21,Baltimore,Incident Closed-No Violation Observed,,2024-11-21
+8,303408,['Air'],2024-11-19,2024-11-19,Anne Arundel,Incident Closed-Managed,21113,2024-11-19
+9,303399,['Air'],2024-11-19,2024-11-19,Anne Arundel,Under Investigation,21226,2024-11-19
+10,303398,['Air'],2024-11-18,2024-11-18,Anne Arundel,Under Investigation,21226,2024-11-18
+11,303395,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-13,2024-11-13,Montgomery,Incident Closed-Managed,20837,2024-11-13
+12,303394,"['Air', 'Fugitive Dust/Particulate Matter', 'Odor']",2024-11-14,2024-11-04,Montgomery,Referred to Outside Agency,20850,2024-11-04
+13,303394,"['Air', 'Fugitive Dust/Particulate Matter', 'Odor']",2024-11-14,2024-11-04,Montgomery,Referred to Outside Agency,20850,2024-11-04
+14,303393,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-14,2024-11-06,Montgomery,Referred to Outside Agency,20850,2024-11-06
+15,303393,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-14,2024-11-06,Montgomery,Referred to Outside Agency,20850,2024-11-06
+16,303390,['Odor'],2024-11-19,2024-11-15,Cecil,Incident Closed - No further action,21921,2024-11-15
+17,303389,['Smoke'],2024-11-15,2024-11-15,Cecil,Incident Closed-Managed,21921,2024-11-15
+18,303384,['Other'],2024-11-13,2024-11-13,Prince George's,Incident Closed-Managed,,2024-11-13
+19,303373,['Air'],2024-11-04,2024-11-04,Anne Arundel,Incident Closed - No further action,21146,2024-11-04
+20,303372,['Air'],2024-11-04,2024-11-04,Anne Arundel,Incident Closed-Managed,21226,2024-11-04
+21,303371,['Air'],2024-11-07,2024-11-07,Anne Arundel,Incident Closed-Managed,21226,2024-11-07
+22,303370,['Air'],2024-11-08,2024-11-08,Anne Arundel,Incident Closed-Managed,21226,2024-11-08
+23,303369,['Odor'],2024-11-11,2024-11-12,Baltimore City,Incident Closed-Managed,21226,2024-11-12
+24,303366,"['Air', 'Other']",2024-10-29,2024-10-29,Montgomery,Incident Closed-Managed,20877,2024-10-29
+25,303365,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-06,2024-11-06,Montgomery,Referred to Outside Agency,20874,2024-11-06
+26,303364,"['Air', 'Fugitive Dust/Particulate Matter']",2024-11-08,2024-11-03,Montgomery,Referred to Outside Agency,20896,2024-11-03
+27,303363,"['Air', 'Open Burning']",2024-11-01,2024-10-31,Carroll,Referred to Outside Agency,21784,2024-10-31
+29,303361,"['Air', 'Other']",2024-10-30,2024-10-30,Anne Arundel,Referred to Outside Agency,21061,2024-10-30
+30,303353,['Other'],2024-10-21,2024-10-21,Washington,Incident Closed-No Violation Observed,21742,2024-10-21
+31,303337,['Air'],2024-10-31,2024-10-31,Anne Arundel,Incident Closed - No further action,,2024-10-31
+32,303320,['Air'],2024-10-27,2024-10-27,Frederick,Incident Closed-Managed,21769,2024-10-27
+33,303318,['Air'],2024-10-29,2024-10-29,Frederick,Under Investigation,21783,2024-10-29
+34,303314,['Air'],2024-10-28,2024-10-28,Anne Arundel,Under Investigation,21037,2024-10-28
+35,303302,['Other'],2024-10-22,2024-10-22,Prince George's,Incident Closed-Managed,,2024-10-22
+36,303298,['Air'],2024-10-23,2024-10-23,Frederick,Incident Closed-Managed,21769,2024-10-23
+37,303297,['Air'],2024-10-22,2024-10-22,Frederick,Incident Closed - No further action,21701,2024-10-22
+38,303295,['Air'],2024-10-21,2024-10-21,Anne Arundel,Incident Closed-No Violation Observed,,2024-10-21
+39,303293,['Air'],2024-10-21,2024-10-21,Frederick,Incident Closed-Managed,21769,2024-10-21
+40,303292,['Air'],2024-10-21,2024-10-21,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-10-21
+41,303289,['Other'],2024-10-18,2024-10-18,Prince George's,Incident Closed-Managed,,2024-10-18
+42,303288,['Fugitive Dust/Particulate Matter'],2024-10-17,2024-10-17,Talbot,Incident Closed-No Violation Observed,21601,2024-10-17
+43,293289,['Air'],2024-10-16,2024-10-16,Frederick,Incident Closed-Managed,21769,2024-10-16
+44,293288,['Other'],2024-10-16,2024-08-21,Worcester,Incident Closed-Managed,21811,2024-08-21
+45,293283,['Air'],2024-10-15,2024-10-15,Baltimore,Incident Closed-Managed,21220,2024-10-15
+46,293282,['Air'],2024-10-15,2024-10-15,Anne Arundel,Incident Closed-Managed,21144,2024-10-15
+47,293276,['Air'],2024-10-11,2024-10-11,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-10-11
+48,293274,['Odor'],2024-10-15,2024-10-08,Howard,Incident Closed - No further action,,2024-10-08
+49,293265,['Other'],2024-10-09,2024-10-09,Allegany,Incident Closed - No further action,21502,2024-10-09
+50,293262,['Fugitive Dust/Particulate Matter'],2024-10-11,2024-10-10,Talbot,Incident Closed-Managed,21601,2024-10-10
+51,293260,['Other'],2024-10-07,2024-10-07,Prince George's,Incident Closed-Managed,,2024-10-07
+52,293252,['Air'],2024-10-07,2024-10-07,Anne Arundel,Incident Closed - No further action,21076,2024-10-07
+53,293250,['Other'],2024-10-05,2024-10-05,Prince George's,Incident Closed-Managed,,2024-10-05
+54,293249,['Other'],2024-10-03,2024-10-03,Prince George's,Incident Closed-Managed,,2024-10-03
+55,293247,['Odor'],2024-09-26,2024-09-26,Dorchester,Incident Closed - No further action,21835,2024-09-26
+56,293246,['Odor'],2024-09-13,2024-09-13,Dorchester,Incident Closed - No further action,21835,2024-09-13
+57,293245,['Odor'],2024-08-22,2024-08-22,Dorchester,Incident Closed - No further action,21835,2024-08-22
+58,293239,['Air'],2024-10-03,2024-10-03,Anne Arundel,Incident Closed-No Violation Observed,21701,2024-10-03
+59,293238,['Air'],2024-10-03,2024-10-03,Anne Arundel,Incident Closed-Managed,21060,2024-10-03
+60,293237,['Air'],2024-09-12,2024-09-12,Harford,Incident Closed-Managed,,2024-09-12
+61,293231,['Odor'],2024-09-30,2024-09-30,Baltimore City,Incident Closed-Managed,,2024-09-30
+62,293230,['ARA AQCP non-regulated entity'],2024-09-26,2024-09-26,Baltimore,Incident Closed-Managed,,2024-09-26
+63,293229,['Fugitive Dust/Particulate Matter'],2024-09-24,2024-09-24,Baltimore City,Incident Closed-Managed,,2024-09-24
+64,293228,['Fugitive Dust/Particulate Matter'],2024-09-23,2024-09-23,Baltimore,Incident Closed-Managed,,2024-09-23
+65,293227,['Odor'],2024-09-23,2024-09-23,Baltimore City,Incident Closed-Managed,,2024-09-23
+66,293226,['Odor'],2024-09-20,2024-09-20,Baltimore City,Incident Closed-Managed,,2024-09-20
+67,293225,['Fugitive Dust/Particulate Matter'],2024-09-17,2024-09-17,Baltimore,Incident Closed-Managed,,2024-09-17
+68,293224,['Fugitive Dust/Particulate Matter'],2024-09-16,2024-09-16,Baltimore,Incident Closed-Managed,,2024-09-16
+69,293220,['Odor'],2024-09-15,2024-09-15,Baltimore City,Incident Closed-Managed,,2024-09-15
+70,293219,['Odor'],2024-09-14,2024-09-14,Baltimore City,Incident Closed-Managed,,2024-09-14
+71,293218,['Fugitive Dust/Particulate Matter'],2024-09-12,2024-09-12,Baltimore,Incident Closed-Managed,,2024-09-12
+72,293217,['Other'],2024-09-12,2024-09-12,Baltimore,Incident Closed - No further action,,2024-09-12
+73,293216,['Odor'],2024-09-10,2024-09-10,Baltimore City,Incident Closed-Managed,,2024-09-10
+74,293215,['Other'],2024-09-09,2024-09-09,Baltimore,Incident Closed - No further action,,2024-09-09
+75,293214,['ARA AQCP non-regulated entity'],2024-09-09,2024-09-09,Baltimore,Incident Closed - No further action,,2024-09-09
+76,293213,['Odor'],2024-08-30,2024-08-30,Baltimore City,Incident Closed-Managed,,2024-08-30
+77,293212,['Odor'],2024-08-29,2024-08-29,Baltimore City,Incident Closed-Managed,,2024-08-29
+78,293210,['Odor'],2024-08-15,2024-08-15,Anne Arundel,Incident Closed-Managed,,2024-08-15
+79,293209,['Odor'],2024-08-15,2024-08-15,Anne Arundel,Incident Closed-Managed,,2024-08-15
+80,293208,['Odor'],2024-08-15,2024-08-15,Anne Arundel,Incident Closed-Managed,,2024-08-15
+81,293207,['Odor'],2024-08-06,2024-08-06,Baltimore City,Incident Closed - No further action,,2024-08-06
+82,293205,['Odor'],2024-07-26,2024-07-26,Baltimore City,Incident Closed-Managed,,2024-07-26
+83,293204,['Odor'],2024-07-23,2024-07-23,Baltimore City,Incident Closed-Managed,,2024-07-23
+84,293203,['Odor'],2024-07-22,2024-07-22,Baltimore City,Incident Closed-Managed,,2024-07-22
+85,293182,['Air'],2024-09-19,2024-09-19,Anne Arundel,Incident Closed-No Violation Observed,,2024-09-19
+86,293179,['Odor'],2024-09-20,2024-09-20,Caroline,Incident Not Applicable to MDE,21636,2024-09-20
+87,293176,['Other'],2024-09-18,2024-09-18,Prince George's,Incident Closed-Managed,,2024-09-18
+88,293175,['Fugitive Dust/Particulate Matter'],2024-09-12,2024-09-12,Baltimore,Incident Closed-Managed,,2024-09-12
+89,293174,['Open Burning'],2024-09-13,2024-09-12,Allegany,Referred to Outside Agency,21545,2024-09-12
+90,283166,['Other'],2024-09-13,2024-09-13,Prince George's,Incident Closed-Managed,,2024-09-13
+91,283164,['Air'],2024-09-16,2024-09-16,Anne Arundel,Incident Closed-No Violation Observed,21037,2024-09-16
+92,283162,['Fugitive Dust/Particulate Matter'],2024-09-06,2024-09-06,Washington,Incident Closed-Managed,21740,2024-09-06
+93,283161,['Fugitive Dust/Particulate Matter'],2024-09-05,2024-08-29,Washington,Incident Closed-Managed,21740,2024-08-29
+94,283159,['Fugitive Dust/Particulate Matter'],2024-09-05,2024-09-05,Washington,Incident Closed-Managed,21740,2024-09-05
+96,283157,['Air'],2024-09-16,2024-09-16,Prince George's,Incident Closed-Managed,20740,2024-09-16
+97,283156,['Fugitive Dust/Particulate Matter'],2024-09-17,2024-09-16,Caroline,Incident Closed-No Violation Observed,21632,2024-09-16
+98,283151,['Air'],2024-09-12,,Harford,Incident Closed-Managed,,
+99,283150,['Odor'],2024-09-12,2024-09-12,Baltimore City,Incident Closed-Managed,,2024-09-12
+100,283149,"['Air', 'Asbestos Complaint', 'Fugitive Dust/Particulate Matter']",2024-09-03,2024-07-30,Montgomery,Incident Closed-Managed,20837,2024-07-30
+101,283148,"['Air', 'Odor']",2024-09-05,2024-08-22,Montgomery,Referred to Outside Agency,20910,2024-08-22
+102,283147,"['Air', 'Odor', 'Other']",2024-09-04,2024-09-04,Montgomery,Referred to Outside Agency,20906,2024-09-04
+103,283141,['Air'],2024-09-16,2024-09-16,Baltimore City,Incident Closed-Managed,21226,2024-09-16
+104,283136,['Other'],2024-09-11,2024-09-11,Howard,Incident Closed-Managed,,2024-09-11
+105,283135,['Other'],2024-09-11,2024-09-11,Howard,Incident Closed-Managed,,2024-09-11
+106,283134,['Other'],2024-09-11,2024-09-11,Howard,Incident Closed-Managed,,2024-09-11
+107,283133,['Other'],2024-09-10,2024-09-10,Howard,Incident Closed-Managed,,2024-09-10
+108,283132,['Other'],2024-09-06,2024-09-06,Prince George's,Incident Closed-Managed,20722,2024-09-06
+109,283131,['Other'],2024-09-05,2024-09-05,Howard,Incident Closed-Managed,21075,2024-09-05
+110,283130,['Odor'],2024-09-13,2024-09-11,Howard,Incident Closed - No further action,21044,2024-09-11
+111,283129,['Odor'],2024-09-13,2024-09-11,Howard,Incident Closed - No further action,21044,2024-09-11
+112,283127,['Air'],2024-09-11,2024-09-11,Anne Arundel,Incident Closed-No Violation Observed,21401,2024-09-11
+113,283107,['Air'],2024-09-09,2024-09-09,Anne Arundel,Incident Closed - No further action,21037,2024-09-09
+114,283094,['Odor'],2024-09-05,2024-09-02,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-09-02
+115,283092,['Air'],2024-09-05,2024-09-05,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-09-05
+116,283080,['Air'],2024-09-03,2024-09-03,Anne Arundel,Incident Closed-No Violation Observed,,2024-09-03
+117,283079,['Air'],2024-09-03,2024-08-29,Frederick,Incident Closed - No further action,,2024-08-29
+118,283078,['Air'],2024-09-03,2024-08-30,Anne Arundel,Incident Closed-No Violation Observed,,2024-08-30
+119,283073,['Other'],2024-08-29,2024-08-29,Prince George's,Incident Closed-Managed,20781,2024-08-29
+120,283072,['Other'],2024-08-15,2024-08-15,Prince George's,Incident Closed-Managed,20737,2024-08-15
+122,283061,['Air'],2024-08-28,2024-08-28,Anne Arundel,Incident Closed-No Violation Observed,,2024-08-28
+123,283060,['Air'],2024-08-28,2024-08-28,Anne Arundel,Incident Closed - No further action,21061,2024-08-28
+124,283059,['Air'],2024-08-27,2024-08-27,Frederick,Incident Closed-No Violation Observed,,2024-08-27
+125,283056,['Smoke'],2024-08-27,2024-08-27,Allegany,Referred to Outside Agency,26753,2024-08-27
+126,283055,['Air'],2024-08-27,2024-08-27,Frederick,Incident Closed-Managed,21757,2024-08-27
+127,283053,['Oil Release/Spill (Surface)'],2024-08-26,2024-08-26,Allegany,Referred to LMA,21502,2024-08-26
+128,283052,['Odor'],2024-08-22,2024-08-22,Dorchester,Referred to ARA,21835,2024-08-22
+129,283051,['Air'],2024-08-23,2024-08-23,Anne Arundel,Incident Closed - No further action,21144,2024-08-23
+130,283050,['Air'],2024-08-23,2024-08-23,Anne Arundel,Incident Closed - No further action,,2024-08-23
+131,283041,['Air'],2024-08-12,2024-08-12,Harford,Referred to Outside Agency,,2024-08-12
+132,273030,['Air'],2024-08-21,2024-08-21,Frederick,Incident Closed-No Violation Observed,,2024-08-21
+133,273007,['Air'],2024-08-12,2024-08-12,Montgomery,Referred to Outside Agency,20910-484,2024-08-12
+134,272998,['Other'],2024-08-07,2024-08-07,Howard,Incident Closed-Managed,,2024-08-07
+135,272992,"['Air', 'Open Burning', 'Smoke']",2024-08-06,2024-08-06,Cecil,Referred to LMA,21921,2024-08-06
+136,272991,['Odor'],2024-08-02,2024-08-02,Baltimore,Incident Closed-Managed,,2024-08-02
+137,272989,['Smoke'],2024-07-30,2024-07-31,Baltimore,Incident Closed-Managed,21228,2024-07-31
+138,272987,['Air'],2024-08-08,2024-08-08,Frederick,Incident Closed-No Violation Observed,,2024-08-08
+139,272986,['Odor'],2024-08-07,2024-08-05,Baltimore City,Incident Closed - No further action,21226,2024-08-05
+140,272976,['Air'],2024-07-29,2024-07-29,Charles,Incident Closed-Managed,20695,2024-07-29
+141,272972,['Odor'],2024-07-27,2024-07-27,Dorchester,Incident Closed - No further action,21835,2024-07-27
+142,272971,['Odor'],2024-07-20,2024-07-20,Dorchester,Incident Closed - No further action,21835,2024-07-20
+143,272970,['Odor'],2024-07-20,2024-07-20,Dorchester,Incident Closed - No further action,21835,2024-07-20
+144,272969,['Other'],2024-08-02,2024-08-02,Howard,Incident Closed-Managed,,2024-08-02
+145,272966,['Other'],2024-07-30,2024-07-30,Allegany,Incident Closed-Managed,21542,2024-07-30
+146,272963,['Odor'],2024-08-01,2024-08-01,Allegany,Incident Closed-No Violation Observed,21502,2024-08-01
+147,272962,['Oil Release/Spill'],2024-07-24,2024-07-24,Garrett,Incident Closed - No further action,,2024-07-24
+148,272958,"['Air', 'Odor', 'Open Burning', 'Smoke']",2024-08-01,2024-08-01,Cecil,Referred to Outside Agency,21921,2024-08-01
+149,272954,['Other'],2024-08-02,2024-08-02,Prince George's,Incident Closed-Managed,20748,2024-08-02
+150,272943,"['Air', 'Odor']",2024-07-30,2024-07-30,Montgomery,Referred to Outside Agency,20910,2024-07-30
+151,272937,"['Air', 'Other']",2024-07-26,2024-07-15,Carroll,Referred to WMA,21158,2024-07-15
+152,272935,['Air'],2024-07-26,2024-07-11,Montgomery,Referred to Outside Agency,20850,2024-07-11
+153,272935,['Air'],2024-07-26,2024-07-11,Montgomery,Referred to Outside Agency,20850,2024-07-11
+154,272933,['Other'],2024-07-26,2024-07-24,Prince George's,Incident Closed-Managed,,2024-07-24
+155,272916,['Open Burning'],2024-07-12,2024-07-12,Allegany,Referred to Outside Agency,21545,2024-07-12
+156,272915,['Asbestos Complaint'],2024-07-11,2024-07-11,Allegany,Referred to ARA,21540-109,2024-07-11
+157,272913,['Odor'],2024-07-11,2024-07-11,St. Mary's,Incident Closed-Managed,,2024-07-11
+158,272901,"['Air', 'Fugitive Dust/Particulate Matter']",2024-07-10,2024-07-10,Cecil,Incident Closed-Managed,21918,2024-07-10
+159,272897,['Air'],2024-07-16,2024-07-16,Anne Arundel,Incident Closed - No further action,21037,2024-07-16
+160,272880,['Air'],2024-07-15,2024-06-19,Washington,Incident Closed - No further action,,2024-06-19
+161,262877,['Air'],2024-07-11,2024-07-11,St. Mary's,Incident Closed-Managed,,2024-07-11
+162,252880,"['Air', 'Other']",2024-07-09,2024-07-09,Montgomery,Referred to Outside Agency,20910-484,2024-07-09
+163,252879,"['Air', 'Odor']",2024-07-09,2024-07-09,Carroll,Referred to Outside Agency,21158,2024-07-09
+164,252877,['Air'],2024-07-09,2024-07-09,Anne Arundel,Incident Closed-No Violation Observed,20764,2024-07-09
+165,252874,['Odor'],2024-07-09,2024-07-09,Baltimore City,Incident Closed-Managed,,2024-07-09
+166,252873,['Odor'],2024-07-02,2024-07-02,Baltimore City,Incident Closed-Managed,,2024-07-02
+167,252872,['Odor'],2024-06-28,2024-06-28,Baltimore City,Incident Closed-Managed,,2024-06-28
+168,252871,['Air'],2024-06-25,2024-06-25,Baltimore,Incident Closed-Managed,,2024-06-25
+169,252870,['Odor'],2024-06-18,2024-06-18,Baltimore,Incident Closed-Managed,,2024-06-18
+170,252869,['Odor'],2024-06-16,2024-06-16,Baltimore City,Incident Closed-Managed,,2024-06-16
+171,252868,['ARA AQCP non-regulated entity'],2024-06-14,2024-06-14,Baltimore,Incident Closed - No further action,,2024-06-14
+172,252867,['Fugitive Dust/Particulate Matter'],2024-06-13,2024-06-13,Baltimore City,Incident Closed-Managed,,2024-06-13
+173,252866,['Odor'],2024-06-05,2024-06-05,Baltimore City,Incident Closed-Managed,,2024-06-05
+174,252864,['Fugitive Dust/Particulate Matter'],2024-07-08,2024-07-08,Allegany,Incident Closed-Managed,21540-109,2024-07-08
+175,252862,['Abandoned Drums/Tanks'],2024-07-08,2024-07-08,Allegany,Referred to LMA,21501,2024-07-08
+176,252861,['Air'],2024-07-02,2024-07-02,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-07-02
+177,252847,['Other'],2024-07-03,2024-07-03,Prince George's,Incident Closed-Managed,,2024-07-03
+178,252846,['Other'],2024-07-02,2024-07-02,Prince George's,Incident Closed-Managed,20785,2024-07-02
+179,252844,['Fugitive Dust/Particulate Matter'],2024-07-01,2024-06-29,Allegany,Incident Closed-Managed,21540-109,2024-06-29
+180,252842,"['Noise Complaint', 'Other']",2024-06-27,2024-06-27,Washington,Referred to Outside Agency,21783,2024-06-27
+181,252839,['Odor'],2024-06-04,2024-06-04,Baltimore City,Incident Closed-Managed,,2024-06-04
+182,252838,['Odor'],2024-06-01,2024-06-01,Baltimore City,Incident Closed-Managed,,2024-06-01
+183,252837,['Odor'],2024-05-26,2024-05-26,Baltimore City,Incident Closed-Managed,,2024-05-26
+184,252836,['Fugitive Dust/Particulate Matter'],2024-05-23,2024-05-23,Baltimore,Incident Closed-Managed,,2024-05-23
+185,252835,['Odor'],2024-05-22,2024-05-22,Baltimore,Incident Closed-Managed,,2024-05-22
+186,252834,['Odor'],2024-05-17,2024-05-17,Baltimore City,Incident Closed-Managed,,2024-05-17
+187,252833,['Odor'],2024-05-16,2024-05-16,Baltimore City,Incident Closed-Managed,,2024-05-16
+188,252823,['Air'],2024-06-28,2024-06-28,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-28
+189,252815,['Air'],2024-06-26,2024-06-25,Frederick,Referred to Outside Agency,21788,2024-06-25
+190,252814,['Air'],2024-06-19,2024-06-19,Anne Arundel,Incident Closed-No Violation Observed,,2024-06-19
+191,252810,['Fugitive Dust/Particulate Matter'],2024-06-25,2024-06-24,Talbot,Incident Closed-Managed,,2024-06-24
+192,252806,"['Groundwater Contamination', 'Oil Release/Spill (Surface)', 'Open Burning', 'Other']",2024-06-14,2024-06-14,Allegany,Referred to Outside Agency,21502,2024-06-14
+193,252804,['Air'],2024-06-20,2024-06-20,Carroll,Incident Closed - No further action,21771,2024-06-20
+194,252802,['Other'],2024-06-20,2024-06-20,Prince George's,Incident Closed-Managed,20737,2024-06-20
+195,252801,['Other'],2024-06-18,2024-06-18,Prince George's,Incident Closed-Managed,20781,2024-06-18
+196,252800,['Other'],2024-06-14,2024-06-14,Prince George's,Incident Closed-Managed,,2024-06-14
+197,252799,['Air'],2024-06-20,,Harford,Incident Closed-No Violation Observed,,
+198,252793,['Fugitive Dust/Particulate Matter'],2024-06-18,,Harford,Incident Closed-Managed,,
+199,252786,['Odor'],2024-06-17,2024-06-12,Prince George's,Incident Closed-Managed,,2024-06-12
+200,252772,['Noise Complaint'],2024-05-16,2024-05-16,Washington,Referred to Outside Agency,21783,2024-05-16
+201,252770,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
+202,252769,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
+203,252768,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
+204,252767,['Air'],2024-06-10,2024-06-10,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-06-10
+205,252761,['Other'],2024-06-12,2024-06-12,Prince George's,Incident Closed-Managed,,2024-06-12
+206,252760,['Other'],2024-06-11,2024-06-11,Howard,Incident Closed-Managed,,2024-06-11
+207,252759,['Air'],2024-06-11,2024-06-11,Frederick,Referred to Attorney General's Office,21757,2024-06-11
+208,252758,"['Odor', 'Smoke']",2024-06-12,2024-05-26,Worcester,Referred to Outside Agency,21863,2024-05-26
+209,252757,"['Odor', 'Open Burning', 'Smoke']",2024-06-12,2024-05-29,Worcester,Referred to Outside Agency,21863,2024-05-29
+210,252756,"['Odor', 'Smoke']",2024-06-12,2024-05-28,Worcester,Referred to Outside Agency,21863,2024-05-28
+211,252752,['Air'],2024-06-11,2024-06-10,Frederick,Referred to Attorney General's Office,21757,2024-06-10
+212,252720,['Fugitive Dust/Particulate Matter'],2024-06-04,2024-06-04,Kent,Incident Closed-No Violation Observed,21620,2024-06-04
+213,252718,"['Odor', 'Smoke']",2024-06-03,2024-05-20,Worcester,Incident Closed-Managed,21863,2024-05-20
+214,252717,"['Fugitive Dust/Particulate Matter', 'Odor']",2024-06-03,2024-05-16,Worcester,Incident Closed - No further action,21863,2024-05-16
+215,252716,['Fumes'],2024-06-03,2024-05-21,Worcester,Incident Closed-Managed,21863,2024-05-21
+216,252712,['Air'],2024-05-31,2024-05-31,Frederick,Incident Closed-No Violation Observed,21788,2024-05-31
+217,252711,['Air'],2024-05-23,2024-05-23,Frederick,Referred to Attorney General's Office,21757,2024-05-23
+218,252711,['Air'],2024-05-23,2024-05-23,Frederick,Referred to Attorney General's Office,21757,2024-05-23
+219,252710,['Air'],2024-05-22,2024-05-22,Frederick,Referred to Attorney General's Office,21757,2024-05-22
+220,252710,['Air'],2024-05-22,2024-05-22,Frederick,Referred to Attorney General's Office,21757,2024-05-22
+221,252697,['Other'],2024-05-28,2024-05-29,Prince George's,Incident Closed-Managed,,2024-05-29
+222,252696,['Odor'],2024-05-28,2024-05-26,Worcester,Referred to Outside Agency,21863,2024-05-26
+223,252695,['Odor'],2024-05-20,2024-05-20,Dorchester,Incident Closed - No further action,21835,2024-05-20
+224,252691,"['Air', 'Odor']",2024-05-21,2024-05-21,Carroll,Referred to Outside Agency,21784,2024-05-21
+225,242688,['Odor'],2024-05-20,2024-05-17,Worcester,Incident Closed-No Violation Observed,21811,2024-05-17
+226,242682,['Other'],2024-05-20,2024-05-20,Prince George's,Incident Closed-Managed,,2024-05-20
+227,242681,['Other'],2024-05-15,2024-05-15,Prince George's,Incident Closed-Managed,,2024-05-15
+228,242675,['Odor'],2024-04-23,2024-04-22,Prince George's,Incident Closed-Managed,20743,2024-04-22
+229,242674,['Smoke'],2024-05-21,2024-04-19,Prince George's,Incident Closed-Managed,20743,2024-04-19
+230,242664,['Other'],2024-05-14,2024-05-14,Prince George's,Incident Closed-Managed,,2024-05-14
+231,242663,['Odor'],2024-05-16,2024-05-16,Worcester,Referred to Outside Agency,21863,2024-05-16
+232,242661,['Air'],2024-05-15,2024-05-15,Anne Arundel,Incident Closed - No further action,20724,2024-05-15
+233,242656,['Odor'],2024-05-10,2024-05-10,Baltimore City,Incident Closed-Managed,,2024-05-10
+234,242655,['Odor'],2024-05-06,2024-05-06,Baltimore City,Incident Closed-Managed,,2024-05-06
+235,242654,['Fugitive Dust/Particulate Matter'],2024-05-01,2024-05-01,Baltimore City,Incident Closed-Managed,,2024-05-01
+236,242653,['Fugitive Dust/Particulate Matter'],2024-04-30,2024-04-30,Baltimore City,Incident Closed-Managed,,2024-04-30
+237,242652,['Odor'],2024-04-26,2024-04-26,Baltimore City,Incident Closed-Managed,,2024-04-26
+238,242651,['Odor'],2024-04-24,2024-04-24,Baltimore City,Incident Closed-Managed,,2024-04-24
+239,242650,['Fugitive Dust/Particulate Matter'],2024-04-22,2024-04-22,Baltimore City,Incident Closed-Managed,,2024-04-22
+240,242648,['Odor'],2024-04-09,2024-04-09,Baltimore City,Incident Closed-Managed,,2024-04-09
+241,242647,['Odor'],2024-04-14,2024-04-14,Baltimore City,Incident Closed-Managed,,2024-04-14
+242,242640,"['Air', 'Odor']",2024-05-07,2024-05-07,Talbot,Incident Closed-Managed,21673,2024-05-07
+243,242639,['Asbestos Complaint'],2024-05-10,2024-05-10,Allegany,Referred to ARA,21502,2024-05-10
+244,242638,['Water Pollutant Release'],2024-05-08,2024-05-08,Washington,Referred to WMA,,2024-05-08
+245,242635,['Fugitive Dust/Particulate Matter'],2024-04-11,2024-04-11,Baltimore City,Incident Closed-Managed,,2024-04-11
+246,242634,['Odor'],2024-04-11,2024-04-11,Baltimore City,Incident Closed-Managed,,2024-04-11
+247,242633,['Fugitive Dust/Particulate Matter'],2024-05-07,2024-05-07,Talbot,Incident Closed-No Violation Observed,,2024-05-07
+248,242633,['Fugitive Dust/Particulate Matter'],2024-05-07,2024-05-07,Talbot,Incident Closed-No Violation Observed,21673,2024-05-07
+249,242629,['Air'],2024-05-07,2024-05-07,Anne Arundel,Incident Closed-No Violation Observed,,2024-05-07
+250,242626,['Odor'],2024-05-07,2024-05-07,Montgomery,Referred to WMA,20874,2024-05-07
+251,242622,['Odor'],2024-04-10,2024-04-10,Baltimore City,Incident Closed-Managed,,2024-04-10
+252,242621,['Odor'],2024-04-08,2024-04-08,Baltimore City,Incident Closed-Managed,,2024-04-08
+253,242620,['Smoke'],2024-04-04,2024-04-04,Baltimore City,Incident Closed-Managed,,2024-04-04
+254,242602,"['Air', 'Odor', 'Open Burning']",2024-05-01,2024-05-01,Cecil,Referred to Outside Agency,21901,2024-05-01
+255,242600,"['Air', 'Odor']",2024-05-03,2024-05-03,Cecil,Referred to LMA,21911,2024-05-03
+256,242595,['Possible Permit Violation'],2024-04-23,2024-04-23,Washington,Incident Closed - No further action,21783,2024-04-23
+257,242585,['Smoke'],2024-04-23,2024-04-23,Allegany,Incident Closed-No Violation Observed,21540-109,2024-04-23
+258,242580,['Other'],2024-05-01,2024-05-01,Prince George's,Incident Closed-Managed,,2024-05-01
+259,242579,['Other'],2024-04-29,,Prince George's,Incident Closed-Managed,,
+260,242578,['Other'],2024-04-25,2024-05-25,Howard,Incident Closed-Managed,,2024-05-25
+261,242556,['Air'],2024-04-26,2024-04-26,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-04-26
+262,242555,['Air'],2024-04-29,2024-04-29,Charles,Incident Closed - No further action,20695,2024-04-29
+263,242550,['Air'],2024-04-26,2024-04-26,Anne Arundel,Incident Closed-No Violation Observed,21037,2024-04-26
+264,242549,['Air'],2024-04-24,2024-04-24,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-04-24
+265,242546,['Air'],2024-04-24,2024-04-24,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-24
+266,242545,['Odor'],2024-04-24,2024-04-23,Worcester,Incident Closed-No Violation Observed,21811,2024-04-23
+267,242544,['Air'],2024-04-23,2024-04-23,Frederick,Incident Closed-No Violation Observed,21788,2024-04-23
+268,242543,['Air'],2024-04-19,2024-04-19,Frederick,Incident Closed-No Violation Observed,21788,2024-04-19
+269,242542,['Odor'],2024-04-23,2024-04-23,Dorchester,Incident Closed - No further action,21835,2024-04-23
+270,242533,['Air'],2024-04-19,2024-04-19,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-19
+271,242532,['Other'],2024-04-16,2024-04-16,Prince George's,Incident Closed-Managed,,2024-04-16
+272,242530,['Other'],2024-04-16,2024-04-16,Prince George's,Incident Closed-Managed,,2024-04-16
+273,242524,"['Air', 'Open Burning', 'Smoke']",2024-04-15,2024-04-15,Cecil,Referred to LMA,21921,2024-04-15
+274,242508,['Air'],2024-04-13,2024-04-13,Anne Arundel,Incident Closed-Managed,21403,2024-04-13
+275,242507,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
+276,242507,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
+277,242506,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
+278,242506,['Air'],2024-04-15,2024-04-15,Frederick,Referred to Attorney General's Office,21757,2024-04-15
+279,242504,['Other'],2024-04-12,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
+280,242503,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
+281,242502,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
+282,242500,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
+283,242499,['Other'],2024-04-11,2024-04-11,Prince George's,Incident Closed-Managed,,2024-04-11
+284,242498,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,,2024-04-08
+285,242497,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+286,242496,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+287,242495,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+288,242494,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+289,242493,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+290,242492,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+291,242491,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+292,242490,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+293,242489,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+294,242488,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+295,242487,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+296,242486,['Other'],2024-04-08,2024-04-08,Prince George's,Incident Closed-Managed,20743,2024-04-08
+297,242484,['Fugitive Dust/Particulate Matter'],2024-04-11,2024-04-11,Worcester,Incident Closed-Managed,21851,2024-04-11
+298,242483,['Air'],2024-04-11,2024-04-11,Frederick,Referred to Attorney General's Office,21757,2024-04-11
+299,242482,['Air'],2024-04-10,2024-04-10,Charles,Referred to Outside Agency,20622,2024-04-10
+300,242479,['Air'],2024-03-28,2024-03-28,Baltimore,Incident Closed-Managed,21227,2024-03-28
+301,242478,['Air'],2024-04-10,2024-04-10,Baltimore,Incident Closed-Managed,21227,2024-04-10
+302,242477,['Air'],2024-04-03,2024-04-03,Baltimore,Incident Closed-Managed,21227,2024-04-03
+303,242476,['Odor'],2024-04-08,2024-04-09,Harford,Incident Closed-Managed,21040,2024-04-09
+304,242463,['Air'],2024-03-30,2024-03-30,Anne Arundel,Incident Closed - No further action,21146,2024-03-30
+305,242461,['Air'],2024-04-03,2024-04-03,Anne Arundel,Incident Closed-Managed,20711,2024-04-03
+306,242460,['Air'],2024-04-01,2024-04-01,Anne Arundel,Incident Closed-No Violation Observed,,2024-04-01
+307,242459,['Air'],2024-04-08,2024-04-01,Frederick,Referred to Attorney General's Office,21757,2024-04-01
+308,242458,['Air'],2024-04-04,2024-04-04,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-04
+309,242456,['Suspected Operation without Permit'],2024-03-28,2024-03-28,Washington,Referred to Outside Agency,21783,2024-03-28
+310,242455,['Open Burning'],2024-03-26,2024-03-26,Allegany,Referred to Outside Agency,21502,2024-03-26
+311,242454,['Open Burning'],2024-03-25,2024-03-25,Garrett,Referred to Outside Agency,,2024-03-25
+312,242436,['Odor'],2024-04-01,2024-04-01,Baltimore,Incident Closed-Managed,,2024-04-01
+313,242435,['Odor'],2024-03-30,2024-03-30,Baltimore,Incident Closed-Managed,,2024-03-30
+314,242434,['Fugitive Dust/Particulate Matter'],2024-03-28,2024-03-28,Baltimore,Incident Closed-Managed,,2024-03-28
+315,242433,['Odor'],2024-03-27,2024-03-27,Baltimore City,Incident Closed-Managed,,2024-03-27
+316,242432,['Odor'],2024-03-25,2024-03-25,Baltimore City,Incident Closed-Managed,,2024-03-25
+317,242428,['Other'],2024-03-30,2024-03-30,Prince George's,Incident Closed-Managed,,2024-03-30
+318,242424,"['Air', 'Fugitive Dust/Particulate Matter']",2024-03-29,2024-03-29,Montgomery,Referred to Outside Agency,20817,2024-03-29
+319,242405,['Other'],2024-03-25,2024-03-25,Prince George's,Incident Closed-Managed,,2024-03-25
+320,242404,['Other'],2024-03-25,2024-03-25,Prince George's,Incident Closed-Managed,,2024-03-25
+321,242392,['Air'],2024-03-21,2024-03-21,Frederick,Under Investigation,21703,2024-03-21
+322,242390,['Smoke'],2024-03-18,2024-03-18,Baltimore City,Incident Closed-Managed,,2024-03-18
+323,242389,['Fugitive Dust/Particulate Matter'],2024-02-23,2024-02-23,Baltimore,Incident Closed-Managed,,2024-02-23
+324,242388,['Odor'],2024-02-23,2024-02-23,Baltimore City,Incident Closed-Managed,,2024-02-23
+325,242386,['Odor'],2024-03-14,2024-03-14,Baltimore City,Incident Closed-Managed,,2024-03-14
+326,242385,['Odor'],2024-03-04,2024-03-04,Baltimore City,Incident Closed-Managed,,2024-03-04
+327,242384,['Odor'],2024-03-09,2024-03-09,Baltimore City,Incident Closed-Managed,,2024-03-09
+328,242383,['Odor'],2024-03-08,2024-03-08,Baltimore City,Incident Closed-Managed,,2024-03-08
+329,242382,['Odor'],2024-03-05,2024-03-05,Baltimore City,Incident Closed-Managed,,2024-03-05
+330,242381,['Odor'],2024-03-04,2024-03-04,Baltimore City,Incident Closed-Managed,,2024-03-04
+331,242380,['Odor'],2024-03-01,2024-03-01,Baltimore City,Incident Closed-Managed,,2024-03-01
+332,242379,['Odor'],2024-02-29,2024-02-29,Baltimore City,Incident Closed-Managed,,2024-02-29
+333,242378,['Fugitive Dust/Particulate Matter'],2024-02-28,2024-02-28,Baltimore City,Incident Closed-Managed,,2024-02-28
+334,232384,['Odor'],2024-02-28,2024-02-28,Baltimore City,Incident Closed-Managed,,2024-02-28
+335,232383,['Fugitive Dust/Particulate Matter'],2024-02-28,2024-02-28,Baltimore City,Incident Closed-Managed,,2024-02-28
+336,232382,['Odor'],2024-02-22,2024-02-22,Baltimore City,Incident Closed-Managed,,2024-02-22
+337,232374,['Air'],2024-03-21,2024-03-21,Charles,Under Investigation,20637,2024-03-21
+338,232372,['Odor'],2024-02-16,2024-02-16,Baltimore City,Incident Closed-Managed,,2024-02-16
+339,232371,['Odor'],2024-02-12,2024-02-12,Baltimore City,Incident Closed-Managed,,2024-02-12
+340,232369,['Air'],2024-03-19,2024-03-19,Anne Arundel,Incident Closed-No Violation Observed,21401,2024-03-19
+341,232365,"['Air', 'Open Burning', 'Smoke']",2024-03-19,2024-03-19,Carroll,Referred to Outside Agency,21776,2024-03-19
+342,232364,"['Air', 'Fumes', 'Odor', 'Smoke']",2024-03-14,2024-03-14,Cecil,Referred to Outside Agency,,2024-03-14
+343,232363,"['Air', 'Smoke', 'Vapor Release']",2024-03-19,2024-03-14,Montgomery,Incident Closed-Managed,20850,2024-03-14
+344,232361,['Air'],2024-03-17,2024-03-17,Anne Arundel,Incident Closed-Managed,,2024-03-17
+345,232360,['Air'],2024-03-17,2024-03-17,Anne Arundel,Under Investigation,,2024-03-17
+346,232359,"['Air', 'Fumes', 'Smoke']",2024-03-14,2024-03-14,Montgomery,Incident Closed-Managed,20850,2024-03-14
+347,232358,"['Air', 'Fumes', 'Smoke']",2024-03-14,2024-03-14,Montgomery,Incident Closed-Managed,20850,2024-03-14
+348,232354,['Other'],2024-03-16,2024-03-16,Prince George's,Incident Closed-Managed,,2024-03-16
+349,232353,['Other'],2024-03-16,2024-03-16,Prince George's,Incident Closed-Managed,,2024-03-16
+350,232351,['Other'],2024-03-13,2024-03-13,Prince George's,Incident Closed-Managed,,2024-03-13
+351,232342,['Air'],2024-03-14,2024-03-14,Frederick,Referred to Attorney General's Office,21757,2024-03-14
+352,232341,"['Air', 'Fumes', 'Odor']",2024-03-13,2024-03-13,Cecil,Referred to Outside Agency,21911,2024-03-13
+353,232340,"['Air', 'Open Burning', 'Smoke']",2024-03-13,2024-03-13,Cecil,Referred to Outside Agency,21921,2024-03-13
+354,232338,['Air'],2024-03-13,2024-03-13,Frederick,Referred to Attorney General's Office,21757,2024-03-13
+355,232338,['Air'],2024-03-13,2024-03-13,Frederick,Referred to Attorney General's Office,21757,2024-03-13
+356,232331,"['Air', 'Other']",2024-03-12,2024-03-12,Montgomery,Incident Closed-Managed,20879,2024-03-12
+357,232330,"['Air', 'Air Pollutant Release']",2024-03-13,2024-03-13,Carroll,Incident Closed-Managed,,2024-03-13
+358,232326,['Smoke'],2024-03-06,2023-12-10,Allegany,Incident Closed-No Violation Observed,21502,2023-12-10
+359,232325,['Air'],2024-03-12,2024-03-12,Frederick,Referred to Attorney General's Office,21757,2024-03-12
+360,232325,['Air'],2024-03-12,2024-03-12,Frederick,Referred to Attorney General's Office,21757,2024-03-12
+361,232324,['Air'],2024-03-11,2024-03-11,Frederick,Referred to Attorney General's Office,21757,2024-03-11
+362,232324,['Air'],2024-03-11,2024-03-11,Frederick,Referred to Attorney General's Office,21757,2024-03-11
+363,232323,['Air'],2024-03-11,2024-03-11,Anne Arundel,Incident Closed-Managed,21060,2024-03-11
+364,232322,['Air'],2024-03-11,2024-03-11,Anne Arundel,Incident Closed-Managed,21060,2024-03-11
+365,232321,['Air'],2024-03-11,2024-03-11,Anne Arundel,Incident Closed-Managed,21060,2024-03-11
+366,232320,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-Managed,21060,2024-03-08
+367,232319,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-Managed,21226,2024-03-08
+368,232316,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-Managed,21060,2024-03-08
+369,232315,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-No Violation Observed,21226,2024-03-08
+370,232314,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+371,232313,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+372,232312,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+373,232311,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+374,232309,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+375,232308,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+376,232307,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+377,232306,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+378,232305,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+379,232304,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+380,232303,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+381,232302,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+382,232301,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+383,232300,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
+384,232299,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+385,232298,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+386,232296,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+387,232295,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+388,232291,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
+389,232290,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
+390,232289,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
+391,232288,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+392,232287,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21060,2024-03-07
+393,232286,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-Managed,,2024-03-06
+394,232285,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-Managed,,2024-03-06
+395,232284,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-Managed,,2024-03-06
+396,232281,['Air'],2024-03-08,2024-03-08,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-03-08
+397,232280,['Air'],2024-03-08,2024-03-08,Frederick,Incident Closed-No Violation Observed,21701,2024-03-08
+398,232279,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-03-07
+399,232278,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-No Violation Observed,,2024-03-07
+400,232273,['Open Burning'],2024-03-11,2024-03-08,Caroline,Incident Closed-No Violation Observed,21629,2024-03-08
+401,232264,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+402,232263,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+403,232262,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+404,232261,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+405,232260,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+406,232259,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+407,232258,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+408,232257,['Other'],2024-03-06,2024-03-06,Prince George's,Incident Closed-Managed,,2024-03-06
+409,232253,['Air'],2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21226,2024-03-07
+410,232252,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed - No further action,21061,2024-03-06
+411,232250,['Air'],2024-03-06,2024-03-06,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-03-06
+412,232240,['Open Burning'],2024-03-04,2024-03-03,Wicomico,Incident Closed-No Violation Observed,21804,2024-03-03
+413,232216,['Odor'],2024-03-01,2024-03-01,Dorchester,Incident Closed - No further action,21835,2024-03-01
+414,232215,['Odor'],2024-03-01,2024-03-01,Dorchester,Incident Closed - No further action,21835,2024-03-01
+415,232214,['Odor'],2024-02-26,2024-02-26,Dorchester,Incident Closed - No further action,21835,2024-02-26
+416,232205,"['Air', 'Smoke']",2024-02-29,2024-02-29,Carroll,Referred to Outside Agency,,2024-02-29
+417,232204,['Other'],2024-02-28,2024-02-28,Prince George's,Incident Closed-Managed,,2024-02-28
+418,232203,['Air'],2024-03-01,2024-03-01,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-03-01
+419,232193,['Other'],2024-02-27,2024-02-27,Prince George's,Incident Closed-Managed,20735,2024-02-27
+420,232191,['Air'],2024-02-28,2024-02-28,Frederick,Referred to Attorney General's Office,21757,2024-02-28
+421,232191,['Air'],2024-02-28,2024-02-28,Frederick,Referred to Attorney General's Office,21757,2024-02-28
+422,232190,['Air'],2024-02-28,2024-02-28,Charles,Clean-up In Progress,,2024-02-28
+423,232188,['Smoke'],2024-02-27,2024-02-26,,Referred to Attorney General's Office,21226,2024-02-26
+424,232187,['Air'],2024-02-27,2024-02-27,Anne Arundel,Incident Closed-No Violation Observed,21403,2024-02-27
+425,232186,['Odor'],2024-02-26,2024-02-26,Anne Arundel,Incident Closed - No further action,21226,2024-02-26
+426,232176,['Air'],2024-02-26,2024-02-26,Anne Arundel,Incident Closed-Managed,21060,2024-02-26
+427,232175,['Air'],2024-02-23,2024-02-23,Anne Arundel,Incident Closed-No Violation Observed,,2024-02-23
+428,232169,['Air'],2024-02-22,2024-02-22,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-02-22
+429,222175,"['Air', 'Other']",2024-02-20,2024-02-20,Montgomery,Referred to Outside Agency,20788,2024-02-20
+430,222174,['Smoke'],2024-02-22,2024-02-21,,Referred to Attorney General's Office,21226,2024-02-21
+431,222158,['Fugitive Dust/Particulate Matter'],2024-02-20,2024-02-20,Worcester,Referred to Outside Agency,21842,2024-02-20
+432,222156,['Air'],2024-02-15,2024-02-15,Baltimore,Incident Closed-No Violation Observed,21223,2024-02-15
+433,222155,['Air'],2024-02-14,2024-02-14,Frederick,Referred to Attorney General's Office,21757,2024-02-14
+434,222150,"['Air', 'Open Burning']",2024-02-16,2024-02-09,Cecil,Referred to LMA,21921,2024-02-09
+435,222149,['Fugitive Dust/Particulate Matter'],2024-02-15,2024-02-15,Allegany,Incident Closed-Managed,21532,2024-02-15
+436,222148,['Odor'],2024-02-09,2024-02-09,Baltimore City,Incident Closed-Managed,,2024-02-09
+437,222147,['Odor'],2024-02-09,2024-02-09,Baltimore City,Incident Closed-Managed,,2024-02-09
+438,222146,['Odor'],2024-02-08,2024-02-08,Baltimore City,Incident Closed-Managed,,2024-02-08
+439,222145,['Odor'],2024-02-07,2024-02-07,Baltimore City,Incident Closed-Managed,,2024-02-07
+440,222144,['Odor'],2024-02-06,2024-02-06,Baltimore City,Incident Closed-Managed,,2024-02-06
+441,222143,['Smoke'],2024-02-02,2024-02-02,Baltimore City,Incident Closed-Managed,,2024-02-02
+442,222142,['Odor'],2024-02-05,2024-02-05,Baltimore,Incident Closed-Managed,,2024-02-05
+443,222141,['Odor'],2024-02-05,2024-02-05,Baltimore City,Incident Closed-Managed,,2024-02-05
+444,222140,['Odor'],2024-02-02,2024-02-02,Baltimore,Incident Closed-Managed,,2024-02-02
+445,222139,['Fugitive Dust/Particulate Matter'],2024-02-05,2024-02-03,Worcester,Incident Closed-Restored,21851,2024-02-03
+446,222138,"['Air', 'Open Burning']",2024-02-07,2024-02-07,Cecil,Referred to LMA,21921,2024-02-07
+447,222122,['Air'],2024-02-14,2024-02-14,Charles,Incident Closed-Managed,20601,2024-02-14
+448,222121,['Smoke'],2024-02-06,2024-02-06,,Referred to Attorney General's Office,21226,2024-02-06
+449,222116,['Odor'],2024-02-13,2024-02-08,Baltimore City,Incident Closed-Managed,21226,2024-02-08
+450,222114,['Fugitive Dust/Particulate Matter'],2024-02-12,2024-02-12,Allegany,Incident Closed - No further action,21532,2024-02-12
+451,222112,"['Air', 'Fumes']",2024-02-09,2023-12-22,Cecil,Referred to Outside Agency,21901,2023-12-22
+452,222111,['Other'],2024-02-03,2024-02-03,Prince George's,Incident Closed-Managed,20785,2024-02-03
+453,222110,['Other'],2024-02-10,2024-02-10,Prince George's,Incident Closed-Managed,,2024-02-10
+454,222109,['Other'],2024-02-09,2024-02-09,Prince George's,Incident Closed-Managed,,2024-02-09
+455,222108,['Air'],2024-02-09,2024-02-09,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-02-09
+456,222107,['Air'],2024-02-09,2024-02-09,Anne Arundel,Incident Closed-No Violation Observed,21090,2024-02-09
+457,222106,['Odor'],2024-02-09,2023-12-26,Talbot,Referred to WMA,21652,2023-12-26
+458,222096,['Air'],2024-02-06,2024-02-06,Anne Arundel,Incident Closed-No Violation Observed,21113,2024-02-06
+459,222094,['Odor'],2024-01-27,2024-01-27,Baltimore City,Incident Closed-Managed,,2024-01-27
+460,222093,['Odor'],2024-02-26,2024-01-26,Baltimore City,Incident Closed-Managed,,2024-01-26
+461,222092,['Odor'],2024-01-26,2024-01-26,Baltimore City,Incident Closed-Managed,,2024-01-26
+462,222091,['Smoke'],2024-01-26,2024-01-26,Baltimore City,Incident Closed-Managed,,2024-01-26
+463,222090,['Odor'],2024-01-25,2024-01-25,Baltimore City,Incident Closed-Managed,,2024-01-25
+464,222089,['Odor'],2024-01-23,2024-01-23,Baltimore City,Incident Closed-Managed,,2024-01-23
+465,222088,['Odor'],2024-01-19,2024-01-19,Baltimore City,Incident Closed-Managed,,2024-01-19
+466,222087,['Odor'],2024-01-16,2024-01-16,Baltimore City,Incident Closed-Managed,,2024-01-16
+467,222086,['Odor'],2024-01-11,2024-01-11,Baltimore City,Incident Closed-Managed,,2024-01-11
+468,222085,['Smoke'],2024-02-06,2024-02-06,,Referred to Attorney General's Office,21226,2024-02-06
+469,222084,['Smoke'],2024-01-26,2024-01-26,,Referred to Attorney General's Office,21226,2024-01-26
+470,222071,"['Air', 'Odor', 'Smoke']",2024-02-01,2024-02-01,Cecil,Referred to Outside Agency,21903,2024-02-01
+471,222070,"['Air', 'Odor', 'Smoke']",2024-01-30,2024-01-30,Montgomery,Incident Closed-Managed,20852,2024-01-30
+473,222067,['Other'],2024-02-01,2024-02-01,Prince George's,Incident Closed-Managed,,2024-02-01
+474,222055,['Air'],2024-02-01,2024-02-01,Frederick,Referred to Attorney General's Office,21757,2024-02-01
+475,222054,['Air'],2024-02-01,2024-02-01,Frederick,Incident Closed - No further action,21701,2024-02-01
+476,222053,['Other'],2024-01-31,2024-01-31,Prince George's,Incident Closed-Managed,,2024-01-31
+477,222052,['Other'],2024-01-31,2024-01-31,Howard,Incident Closed-Managed,,2024-01-31
+478,222051,['Air'],2024-02-01,2024-02-01,Anne Arundel,Incident Closed-Managed,21122,2024-02-01
+479,222044,['Odor'],2024-01-25,2024-01-25,Anne Arundel,Incident Closed - No further action,21226,2024-01-25
+480,222043,['Odor'],2024-01-25,2024-01-25,Anne Arundel,Incident Closed - No further action,21226,2024-01-25
+481,222036,['Other'],2024-01-30,2024-01-30,Prince George's,Incident Closed-Managed,,2024-01-30
+482,222032,['Other'],2024-01-25,2024-01-25,Prince George's,Incident Closed-Managed,,2024-01-25
+483,222027,['Fugitive Dust/Particulate Matter'],2024-01-26,,Baltimore,Incident Closed-Managed,21227,
+484,222026,['Air'],2024-01-29,2024-01-29,Anne Arundel,Incident Closed-Managed,21054,2024-01-29
+485,222022,['Air'],2024-01-26,2024-01-26,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-01-26
+486,222019,['Air'],2024-01-25,2024-01-25,Anne Arundel,Incident Closed-Managed,21060,2024-01-25
+487,222016,['Fugitive Dust/Particulate Matter'],2024-01-24,,Baltimore,Incident Closed-Managed,21227,
+488,222015,['Fugitive Dust/Particulate Matter'],2024-01-24,,Baltimore,Incident Closed-Managed,21227,
+489,222014,['Air'],2024-01-25,2024-01-25,Anne Arundel,Under Investigation,,2024-01-25
+490,222012,['Air'],2024-01-24,2024-01-24,Anne Arundel,Incident Closed-Managed,,2024-01-24
+491,222010,['Smoke'],2024-01-03,2024-01-03,,Incident Closed-Managed,21230,2024-01-03
+492,222009,['Smoke'],2024-01-24,2024-01-24,,Referred to Attorney General's Office,21226,2024-01-24
+493,222008,"['Odor', 'Smoke']",2024-01-16,2024-01-13,,Referred to Attorney General's Office,21226,2024-01-13
+494,222007,['Smoke'],2024-01-05,2024-01-05,,Referred to Attorney General's Office,21226,2024-01-05
+495,222005,['Fugitive Dust/Particulate Matter'],2024-01-17,,Baltimore,Incident Closed-Managed,21227,
+496,222004,['Fumes'],2024-01-18,,Baltimore,Incident Closed-Managed,21228,
+497,222002,['Air'],2024-01-23,2024-01-23,Frederick,Incident Closed-No Violation Observed,21703,2024-01-23
+498,221998,['Air'],2024-01-12,2024-01-12,Montgomery,Incident Closed - No further action,20904,2024-01-12
+499,221996,['Other'],2024-01-18,2024-01-18,Prince George's,Incident Closed-Managed,20747,2024-01-18
+500,211996,"['Air', 'Odor']",2024-01-17,2024-01-17,Cecil,Referred to LMA,21911,2024-01-17
+501,211992,['Other'],2024-01-17,2024-01-17,Prince George's,Incident Closed-Managed,,2024-01-17
+502,211985,['Other'],2024-01-11,2024-01-11,Caroline,Referred to Outside Agency,21660,2024-01-11
+503,211984,['Other'],2024-01-10,2024-01-10,Caroline,Referred to WMA,21660,2024-01-10
+504,211983,['Odor'],2024-01-08,2024-01-08,Baltimore City,Incident Closed - No further action,,2024-01-08
+505,211973,['Other'],2024-01-11,2024-01-11,Prince George's,Incident Closed-Managed,,2024-01-11
+506,211968,['Other'],2024-01-04,2024-01-04,Washington,Incident Closed - No further action,,2024-01-04
+507,211967,['Smoke'],2023-12-27,2023-12-27,Allegany,Incident Closed - No further action,21502,2023-12-27
+508,211964,"['Air', 'Odor']",2024-01-02,2024-01-02,Cecil,Incident Closed - No further action,,2024-01-02
+509,211963,['Open Burning'],2024-01-03,2024-01-03,Wicomico,Incident Closed-No Violation Observed,21804,2024-01-03
+510,211961,['Odor'],2024-01-06,,Baltimore,Incident Closed-Managed,,
+511,211960,['Air'],2024-01-09,2024-01-08,Frederick,Referred to Attorney General's Office,21757,2024-01-08
+512,211959,['Air'],2024-01-05,2024-01-05,Anne Arundel,Incident Closed-No Violation Observed,,2024-01-05
+513,211956,['Other'],2024-01-05,2024-01-05,Prince George's,Incident Closed-Managed,,2024-01-05
+514,211955,['Other'],2024-01-03,2024-01-03,Prince George's,Incident Closed-Managed,,2024-01-03
+515,211949,['Odor'],2024-01-03,,Baltimore,Incident Not Applicable to MDE,,
+516,211948,['Odor'],2024-01-03,,Baltimore,Incident Closed-Managed,,
+517,211947,['Fumes'],2024-01-03,,Baltimore,Incident Closed - No further action,21222,
+518,211938,['Other'],2023-12-22,2023-12-22,Howard,Incident Closed-Managed,,2023-12-22
+519,211934,['Air'],2024-01-02,2024-01-02,Anne Arundel,Incident Closed-No Violation Observed,21061,2024-01-02
+520,211932,['Air'],2023-12-27,2023-12-27,Anne Arundel,Incident Closed-Managed,,2023-12-27
+521,211930,['Odor'],2023-12-27,,Baltimore,Incident Closed-Managed,,
+522,211926,['Air'],2023-12-22,2023-12-22,Frederick,Incident Closed-No Violation Observed,21788,2023-12-22
+523,211907,['Air'],2023-12-21,2023-12-21,Anne Arundel,Incident Closed-No Violation Observed,21403,2023-12-21
+524,201907,['Air'],2023-12-20,2023-12-20,Queen Anne's,Incident Closed-Managed,21638,2023-12-20
+525,201905,['Fugitive Dust/Particulate Matter'],2023-12-20,2023-12-20,Allegany,Incident Closed-Managed,21536,2023-12-20
+526,201904,['Air'],2023-12-15,2023-12-15,Anne Arundel,Incident Closed-No Violation Observed,21054,2023-12-15
+527,201899,['Other'],2023-12-18,2023-12-18,Prince George's,Incident Closed-Managed,,2023-12-18
+528,201898,['Other'],2023-12-19,,Baltimore,Incident Closed - No further action,,
+529,201894,['Odor'],2023-12-18,,Harford,Incident Closed-Managed,21001,
+530,201889,['Fumes'],2023-12-13,,Baltimore,Referred to Outside Agency,,
+531,201885,['Other'],2023-12-15,2023-12-15,Prince George's,Incident Closed-Managed,,2023-12-15
+532,201883,['Other'],2023-12-14,2023-12-14,Howard,Incident Closed-Managed,,2023-12-14
+533,201873,['Odor'],2023-12-10,2023-12-10,Baltimore City,Incident Closed-Managed,,2023-12-10
+534,201872,['Odor'],2023-12-08,2023-12-08,Baltimore City,Incident Closed-Managed,,2023-12-08
+535,201871,['Smoke'],2023-12-07,2023-12-07,Baltimore City,Incident Closed-Managed,,2023-12-07
+536,201869,['Air'],2023-12-08,2023-12-08,Anne Arundel,Referred to WMA,21403,2023-12-08
+537,201868,"['Air', 'Odor']",2023-12-13,2023-12-13,Cecil,Referred to LMA,21911,2023-12-13
+538,201867,"['Air', 'Odor']",2023-12-12,2023-12-12,Cecil,Referred to LMA,21911,2023-12-12
+539,201866,['Air'],2023-12-11,2023-12-11,Frederick,Referred to Attorney General's Office,21757,2023-12-11
+540,201866,['Air'],2023-12-11,2023-12-11,Frederick,Referred to Attorney General's Office,21757,2023-12-11
+541,201865,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+542,201864,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+543,201863,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+544,201862,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+545,201861,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+546,201860,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+547,201859,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+548,201858,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+549,201857,['Other'],2023-12-11,2023-12-11,Prince George's,Incident Closed-Managed,,2023-12-11
+550,201856,['Other'],2023-12-08,2023-12-08,Prince George's,Incident Closed-Managed,,2023-12-08
+551,201855,['Smoke'],2023-12-06,2023-12-06,Garrett,Incident Closed - No further action,21520,2023-12-06
+552,201852,['Open Burning'],2023-12-05,2023-12-05,Washington,Incident Closed - No further action,21756,2023-12-05
+553,201845,"['Air', 'Odor', 'Open Burning']",2023-12-11,2023-12-03,Montgomery,Referred to Outside Agency,20902,2023-12-03
+554,201843,['Air'],2023-12-08,2023-12-08,Charles,Incident Closed - No further action,20601,2023-12-08
+555,201842,['Air'],2023-12-05,2023-12-05,Anne Arundel,Referred to WMA,21403,2023-12-05
+556,201841,['Air'],2023-12-07,2023-12-07,Charles,Incident Closed - No further action,20646,2023-12-07
+557,201831,['Air'],2023-12-07,2023-12-07,Anne Arundel,Incident Closed - No further action,,2023-12-07
+558,201830,['Air'],2023-12-04,2023-12-04,Frederick,Incident Closed-Managed,21788,2023-12-04
+559,201829,['Air'],2023-12-07,2023-12-06,Charles,Incident Closed - No further action,20601,2023-12-06
+560,201828,['Air'],2023-12-04,2023-12-04,Frederick,Incident Closed-No Violation Observed,21701,2023-12-04
+561,201827,['Air'],2023-12-04,2023-12-04,Frederick,Referred to Attorney General's Office,21757,2023-12-04
+562,201825,['Open Burning'],2023-12-01,2023-12-01,Wicomico,Incident Closed-Managed,21801,2023-12-01
+563,201823,['Smoke'],2023-12-04,,Baltimore,Incident Closed - No further action,,
+564,201822,['Odor'],2023-11-30,2023-11-30,Baltimore City,Incident Closed-Managed,,2023-11-30
+565,201821,['Odor'],2023-11-25,2023-11-25,Baltimore City,Incident Closed-Managed,,2023-11-25
+566,201820,['Odor'],2023-11-17,2023-11-17,Baltimore City,Incident Closed-Managed,,2023-11-17
+567,201819,['Odor'],2023-11-15,2023-11-15,Baltimore City,Incident Closed-Managed,,2023-11-15
+568,201818,['Odor'],2023-11-04,2023-11-04,Baltimore City,Incident Closed-Managed,,2023-11-04
+569,201814,['Other'],2023-12-04,2023-11-29,Prince George's,Incident Closed-Managed,20781,2023-11-29
+570,201810,"['Air', 'Fugitive Dust/Particulate Matter', 'Smoke']",2023-12-01,2023-12-01,Montgomery,Referred to Outside Agency,20902,2023-12-01
+571,201809,['Air'],2023-12-01,2023-11-28,Anne Arundel,Incident Closed-Managed,21403,2023-11-28
+572,191816,"['Air', 'Odor']",2023-11-30,2023-11-30,Cecil,Referred to LMA,21911,2023-11-30
+573,191809,['Fumes'],2023-11-28,,Baltimore,Incident Not Applicable to MDE,,
+574,191804,['Air Pollutant Release'],2023-11-28,2023-10-02,Montgomery,Incident Closed - No further action,20877,2023-10-02
+575,191802,['Air'],2023-11-28,2023-11-27,Anne Arundel,Incident Closed - No further action,21114,2023-11-27
+576,191794,['Air'],2023-11-27,2023-11-27,Frederick,Referred to Attorney General's Office,,2023-11-27
+577,191793,"['Air', 'Odor']",2023-11-22,2023-11-22,Cecil,Referred to LMA,21911,2023-11-22
+578,191783,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+579,191782,['Other'],2023-11-22,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+580,191781,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+581,191780,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+582,191779,['Other'],2023-11-20,2023-11-20,Prince George's,Incident Closed-Managed,,2023-11-20
+583,191778,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+584,191777,['Other'],2023-11-20,2023-11-20,Prince George's,Incident Closed-Managed,,2023-11-20
+585,191776,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+586,191775,['Other'],2023-11-21,2023-11-21,Prince George's,Incident Closed-Managed,,2023-11-21
+587,191774,"['Air', 'Fugitive Dust/Particulate Matter']",2023-10-19,2023-10-19,Cecil,Incident Closed-Managed,21919,2023-10-19
+588,191773,"['Air', 'Odor']",2023-11-16,2023-11-16,Cecil,Referred to Outside Agency,21911,2023-11-16
+589,191772,['Odor'],2023-11-21,,St. Mary's,Referred to Outside Agency,,
+590,191769,['Fugitive Dust/Particulate Matter'],2023-11-21,2023-11-21,Washington,Incident Closed-Managed,21742,2023-11-21
+591,191766,['Air'],2023-11-21,2023-11-21,Anne Arundel,Referred to Attorney General's Office,,2023-11-21
+592,191760,['Odor'],2023-11-17,,Baltimore,Incident Closed-Managed,,
+593,191759,['Other'],2023-11-17,2023-11-17,Prince George's,Incident Closed-Managed,,2023-11-17
+594,191758,['Other'],2023-11-18,2023-11-18,Prince George's,Incident Closed-Managed,,2023-11-18
+595,191757,['Other'],2023-11-19,2023-11-19,Prince George's,Incident Closed-Managed,,2023-11-19
+596,191756,['Other'],2023-11-19,2023-11-19,Prince George's,Incident Closed-Managed,,2023-11-19
+597,191754,['Other'],2023-11-19,2023-11-19,Prince George's,Incident Closed-Managed,,2023-11-19
+598,191748,"['Air', 'Smoke']",2023-11-16,2023-11-16,Carroll,Incident Closed-Managed,,2023-11-16
+599,191747,"['Air', 'Odor']",2023-11-15,2023-11-13,Cecil,Referred to Outside Agency,21911,2023-11-13
+600,191746,['Air'],2023-11-16,2023-11-16,Anne Arundel,Referred to WMA,21403,2023-11-16
+601,191741,['Fumes'],2023-11-13,,Harford,Incident Closed-No Violation Observed,21017,
+602,191739,['Air'],2023-11-13,2023-11-13,Anne Arundel,Incident Not Applicable to MDE,21225,2023-11-13
+603,191738,['Air'],2023-11-14,2023-11-12,Anne Arundel,Under Investigation,,2023-11-12
+604,191737,['Air'],2023-11-11,2023-11-11,Frederick,Incident Closed-Managed,21701,2023-11-11
+605,191736,"['Fugitive Dust/Particulate Matter', 'Smoke']",2023-11-07,2023-11-07,Washington,Incident Closed-Managed,21740,2023-11-07
+606,191735,['Air'],2023-11-08,2023-11-08,Anne Arundel,Incident Closed - No further action,21122,2023-11-08
+607,191731,['Air'],2023-11-13,2023-11-10,Anne Arundel,Under Investigation,,2023-11-10
+608,191730,['Air'],2023-11-13,2023-11-10,Anne Arundel,Under Investigation,,2023-11-10
+609,191729,['Air'],2023-11-10,2023-11-10,Anne Arundel,Under Investigation,21060,2023-11-10
+610,191726,['Air'],2023-11-10,2023-11-10,Frederick,Referred to Attorney General's Office,,2023-11-10
+611,191720,['Other'],2023-11-07,2023-11-07,Prince George's,Incident Closed-Managed,20784,2023-11-07
+612,191718,['Other'],2023-11-03,2023-11-03,Prince George's,Incident Closed-Managed,20746,2023-11-03
+613,191715,"['Air', 'Open Burning']",2023-11-06,2023-11-06,Carroll,Referred to Outside Agency,21158,2023-11-06
+614,191713,['Odor'],2023-11-03,,Baltimore,Incident Not Applicable to MDE,,
+615,191712,['Odor'],2023-11-02,,Baltimore,Referred to Outside Agency,,
+616,191711,['Other'],2023-11-03,2023-11-03,Prince George's,Incident Closed-Managed,,2023-11-03
+617,191710,['Other'],2023-10-30,2023-10-30,Prince George's,Incident Closed-Managed,,2023-10-30
+618,191707,['Air'],2023-11-02,2023-11-02,Frederick,Incident Closed - No further action,21769,2023-11-02
+619,191706,['Air'],2023-11-03,2023-11-02,Anne Arundel,Under Investigation,,2023-11-02
+620,191705,['Air'],2023-11-03,2023-10-31,Charles,Incident Closed - No further action,,2023-10-31
+621,191704,['Odor'],2023-10-30,2023-10-30,Baltimore City,Incident Closed-Managed,,2023-10-30
+622,191703,['Odor'],2023-10-29,2023-10-29,Baltimore City,Incident Closed-Managed,,2023-10-29
+623,191702,['Odor'],2023-11-28,2023-10-28,Baltimore City,Incident Closed-Managed,,2023-10-28
+624,191700,['Odor'],2023-10-27,2023-10-27,Baltimore City,Incident Closed-Managed,,2023-10-27
+625,191699,['Odor'],2023-11-01,2023-11-01,Washington,Incident Closed - No further action,21740,2023-11-01
+626,191697,['Fugitive Dust/Particulate Matter'],2023-10-26,2023-10-26,Washington,Incident Closed-Managed,21742,2023-10-26
+627,191696,['Fugitive Dust/Particulate Matter'],2023-10-26,2023-10-26,Washington,Incident Closed-Managed,21742,2023-10-26
+628,191693,['Air'],2023-11-01,2023-10-31,Frederick,Referred to Attorney General's Office,,2023-10-31
+629,191692,['Air'],2023-10-31,2023-10-31,Anne Arundel,Incident Closed - No further action,21144,2023-10-31
+630,191690,['Air'],2023-11-01,2023-10-30,Anne Arundel,Incident Not Applicable to MDE,,2023-10-30
+631,191689,['Air'],2023-11-01,2023-10-26,Anne Arundel,Under Investigation,,2023-10-26
+632,191686,"['Air', 'Odor']",2023-10-31,2023-10-27,Baltimore,Incident Closed-Managed,21224,2023-10-27
+633,191684,['Other'],2023-10-24,2023-10-24,Baltimore City,Incident Closed-Managed,,2023-10-24
+634,191683,['Odor'],2023-10-24,2023-10-24,Baltimore City,Incident Closed-Managed,,2023-10-24
+635,191682,['Odor'],2023-10-19,2023-10-19,Baltimore City,Incident Closed-Managed,,2023-10-19
+636,191681,['Air Pollutant Release'],2023-10-16,2023-10-16,Baltimore City,Incident Closed - No further action,,2023-10-16
+637,191680,['Air'],2023-10-11,2023-05-06,Baltimore City,Incident Closed-Managed,21226,2023-05-06
+638,191677,"['Air', 'Fumes', 'Odor']",2023-10-26,2023-10-26,Carroll,Incident Closed-Managed,21048,2023-10-26
+639,191675,['Air'],2023-10-30,2023-10-30,Frederick,Incident Closed - No further action,,2023-10-30
+640,191674,['Air'],2023-10-30,2023-10-28,Anne Arundel,Incident Closed - No further action,21037,2023-10-28
+641,191671,['Other'],2023-10-24,2023-10-24,Prince George's,Incident Closed-Managed,,2023-10-24
+642,191667,['Air'],2023-10-26,2023-10-26,Frederick,Clean-up Initiated,,2023-10-26
+643,191665,['Odor'],2023-10-12,2023-10-12,Baltimore City,Incident Closed-Managed,,2023-10-12
+644,191664,['Odor'],2023-10-05,2023-10-05,Baltimore City,Incident Closed-Managed,,2023-10-05
+645,191663,['Odor'],2023-09-26,2023-09-26,Baltimore City,Incident Closed-Managed,,2023-09-26
+646,191662,['Odor'],2023-09-27,2023-09-27,Baltimore City,Incident Closed-Managed,,2023-09-27
+647,191661,['Odor'],2023-09-20,2023-09-20,Baltimore City,Incident Closed-Managed,,2023-09-20
+648,191660,['Odor'],2023-09-12,2023-09-12,Baltimore City,Incident Closed-Managed,,2023-09-12
+649,191659,['Fugitive Dust/Particulate Matter'],2023-09-11,2023-09-11,Baltimore City,Incident Closed-Managed,,2023-09-11
+650,191658,['Odor'],2023-09-11,2023-09-11,Baltimore City,Incident Closed-Managed,,2023-09-11
+651,191657,['Odor'],2023-09-09,2023-09-09,Baltimore City,Incident Closed-Managed,,2023-09-09
+652,191656,['Fugitive Dust/Particulate Matter'],2023-09-08,2023-09-08,Baltimore City,Incident Closed-Managed,,2023-09-08
+653,191655,['Odor'],2023-09-07,2023-09-07,Baltimore City,Incident Closed-Managed,,2023-09-07
+654,191650,['Air'],2023-10-25,2023-10-25,Frederick,Clean-up Initiated,,2023-10-25
+655,191648,['Noise Complaint'],2023-10-23,,Baltimore,Incident Not Applicable to MDE,,
+656,191646,['Air'],2023-10-24,2023-10-24,Frederick,Clean-up Initiated,,2023-10-24
+657,191644,['Air'],2023-10-24,2023-10-24,Frederick,Clean-up Initiated,,2023-10-24
+658,191643,['Air'],2023-10-24,2023-10-23,Charles,Under Investigation,,2023-10-23
+659,191638,['Other'],2023-10-19,2023-10-19,Prince George's,Incident Closed-Managed,20743,2023-10-19
+660,191637,"['Fugitive Dust/Particulate Matter', 'Smoke']",2023-10-18,2023-10-05,Allegany,Incident Closed - No further action,21540-109,2023-10-05
+661,191635,['Other'],2023-10-19,2023-10-19,Prince George's,Incident Closed-Managed,,2023-10-19
+662,191634,['Fugitive Dust/Particulate Matter'],2023-10-18,2023-10-18,Washington,Incident Closed-No Violation Observed,21742,2023-10-18
+663,181632,['Air'],2023-10-19,2023-10-19,St. Mary's,Incident Not Applicable to MDE,,2023-10-19
+664,181626,['Air'],2023-10-18,2023-10-16,Anne Arundel,Incident Closed-No Violation Observed,21037,2023-10-16
+665,181625,['Air'],2023-10-16,2023-10-16,Frederick,Incident Closed - No further action,,2023-10-16
+666,181624,['Air'],2023-10-17,2023-10-17,Anne Arundel,Incident Closed - No further action,,2023-10-17
+667,181622,['Other'],2023-10-16,,Baltimore,Incident Closed-Managed,,
+668,181621,['Odor'],2023-10-15,,Baltimore,Incident Closed-No Violation Observed,,
+669,181617,"['Air', 'Odor', 'Open Burning', 'Smoke']",2023-10-10,2023-10-10,Cecil,Incident Closed-Managed,21919,2023-10-10
+670,181616,"['Air', 'Fugitive Dust/Particulate Matter', 'Other', 'Suspected Operation without Permit']",2023-10-11,2023-10-11,Cecil,Incident Closed-Managed,21901,2023-10-11
+671,181615,"['Air', 'Fumes', 'Odor']",2023-10-13,2023-10-13,Montgomery,Incident Closed-Managed,20852,2023-10-13
+672,181613,['Other'],2023-10-11,2023-10-11,Allegany,Incident Closed - No further action,,2023-10-11
+673,181612,['Other'],2023-10-10,2023-10-10,Allegany,Incident Closed - No further action,,2023-10-10
+674,181611,['Smoke'],2023-09-27,2023-09-27,Allegany,Incident Closed - No further action,21562,2023-09-27
+675,181609,['Air'],2023-10-13,2023-10-13,Anne Arundel,Incident Not Applicable to MDE,,2023-10-13
+676,181607,['Other'],2023-10-05,2023-10-05,Prince George's,Incident Closed-Managed,,2023-10-05
+677,181606,['Other'],2023-10-05,2023-10-05,Prince George's,Incident Closed-Managed,,2023-10-05
+678,181605,['Other'],2023-10-03,2023-10-03,Prince George's,Incident Closed-Managed,,2023-10-03
+679,181598,['Air'],2023-10-11,2023-10-11,Frederick,Incident Closed-Clean-up Completed,21701,2023-10-11
+680,181596,['Fugitive Dust/Particulate Matter'],2023-10-03,2023-10-03,Kent,Incident Closed-No Violation Observed,,2023-10-03
+681,181595,['Odor'],2023-10-09,,Baltimore,Incident Closed-No Violation Observed,21093,
+682,181594,['Smoke'],2023-10-10,,Baltimore,Incident Not Applicable to MDE,,
+683,181593,['Air'],2023-10-10,2023-10-09,Frederick,Clean-up Initiated,21757,2023-10-09
+684,181588,['Air'],2023-10-05,2023-10-05,Frederick,Incident Closed - No further action,21771,2023-10-05
+685,181587,['Air'],2023-10-03,2023-10-03,Frederick,Incident Closed - No further action,,2023-10-03
+686,181586,['Air'],2023-10-04,2023-10-04,Frederick,Clean-up Initiated,21757,2023-10-04
+687,181585,"['Air', 'Odor']",2023-10-05,2023-10-04,Baltimore,Incident Closed-Managed,21224,2023-10-04
+688,181584,['Odor'],2023-10-04,,Harford,Incident Not Applicable to MDE,,
+689,181582,['Odor'],2023-10-04,2023-10-04,Cecil,Referred to Outside Agency,21911,2023-10-04
+690,181579,['Air'],2023-10-04,2023-10-04,Frederick,Clean-up Initiated,,2023-10-04
+691,181578,['Other'],2023-10-02,2023-10-02,Prince George's,Incident Closed-Managed,,2023-10-02
+692,181577,['Other'],2023-08-29,2023-09-29,Prince George's,Incident Closed-Managed,,2023-09-29
+693,181574,['Odor'],2023-10-03,,Baltimore,Incident Closed-Managed,,
+694,181573,['Air'],2023-10-03,2023-10-03,Frederick,Incident Closed-No Violation Observed,21701,2023-10-03
+695,181572,['Air'],2023-10-03,2023-09-29,Anne Arundel,Incident Closed-Managed,21060,2023-09-29
+696,181571,['Air'],2023-10-03,2023-09-29,Anne Arundel,Under Investigation,21054,2023-09-29
+697,181567,['Odor'],2023-10-01,,Baltimore,Incident Closed-Managed,,
+698,181566,"['Air', 'Asbestos Complaint']",2023-10-02,2023-10-02,Montgomery,Referred to Outside Agency,,2023-10-02
+699,181554,['Air'],2023-09-27,2023-09-27,Frederick,Clean-up Initiated,,2023-09-27
+700,181551,['Air'],2023-09-26,2023-09-25,Frederick,Clean-up In Progress,,2023-09-25
+701,181546,['Other'],2023-09-25,2023-09-18,Howard,Incident Closed-Managed,,2023-09-18
+702,181544,['Other'],2023-09-15,2023-09-15,Allegany,Incident Closed - No further action,,2023-09-15
+704,181532,"['Air', 'Fumes', 'Odor']",2023-09-21,2023-03-22,Montgomery,Incident Closed-Managed,20837,2023-03-22
+705,181531,['Air'],2023-09-21,2023-09-21,Charles,Incident Not Applicable to MDE,,2023-09-21
+706,181530,['Air'],2023-09-21,2023-09-19,Frederick,Incident Closed-No Violation Observed,,2023-09-19
+707,181529,['Air'],2023-09-21,2023-09-19,Anne Arundel,Incident Closed - No further action,21054,2023-09-19
+708,181528,['Air'],2023-09-21,2023-09-18,Frederick,Clean-up Initiated,,2023-09-18
+709,181526,['Fugitive Dust/Particulate Matter'],2023-09-18,,Baltimore,Incident Closed - No further action,21162,
+710,181525,['Smoke'],2023-09-18,,Harford,Incident Closed-Managed,,
+711,181517,['Air'],2023-09-18,2023-09-12,Frederick,Clean-up In Progress,,2023-09-12
+712,181516,['Air'],2023-09-18,2023-09-06,Anne Arundel,Incident Closed - No further action,,2023-09-06
+713,181515,['Air'],2023-09-18,2023-09-05,Anne Arundel,Under Investigation,,2023-09-05
+714,181514,['Odor'],2023-09-14,2023-09-14,Carroll,Referred to Outside Agency,,2023-09-14
+715,181512,['Non-Tidal Wetlands/Waterway'],2023-09-12,2023-09-12,Washington,Referred to WMA,,2023-09-12
+717,181491,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
+718,181490,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
+719,181489,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
+720,181488,['Odor'],2023-09-08,2023-09-08,Dorchester,Incident Closed - No further action,21835,2023-09-08
+721,181487,['Odor'],2023-08-29,2023-08-29,Dorchester,Incident Closed - No further action,21835,2023-08-29
+722,181483,['Other'],2023-09-11,2023-09-11,Washington,Incident Closed-Managed,,2023-09-11
+723,181482,['Other'],2023-09-11,2023-09-10,Prince George's,Incident Closed-Managed,,2023-09-10
+724,181480,['Smoke'],2023-09-11,,Baltimore,Incident Closed - No further action,21228,
+725,181479,['Odor'],2023-09-08,,Baltimore,Incident Closed-Managed,,
+726,181478,['Fugitive Dust/Particulate Matter'],2023-09-08,,Baltimore,Incident Closed-No Violation Observed,,
+727,181462,['Fumes'],2023-09-05,,Harford,Incident Closed-Managed,,
+728,181459,['Odor'],2023-09-01,2023-09-01,Baltimore City,Incident Closed-Managed,,2023-09-01
+729,181458,['Odor'],2023-08-28,2023-08-28,Baltimore City,Incident Closed-Managed,,2023-08-28
+730,181457,['Odor'],2023-08-23,2023-08-23,Baltimore City,Incident Closed-Managed,,2023-08-23
+731,181456,['Odor'],2023-08-23,2023-08-23,Baltimore City,Incident Closed-Managed,,2023-08-23
+732,181455,['Odor'],2023-08-17,2023-08-17,Baltimore City,Incident Closed-Managed,,2023-08-17
+733,181454,['Odor'],2023-08-14,2023-08-14,Baltimore City,Incident Closed-Managed,,2023-08-14
+734,181453,['Odor'],2023-07-24,2023-07-24,Baltimore City,Incident Closed-Managed,,2023-07-24
+735,181452,['ARA AQCP non-regulated entity'],2023-07-21,2023-07-21,Baltimore City,Incident Closed - No further action,,2023-07-21
+736,181451,['Odor'],2023-07-20,2023-07-20,Baltimore City,Incident Closed-Managed,,2023-07-20
+737,181442,['Other'],2023-08-30,2023-08-30,Prince George's,Incident Closed-Managed,,2023-08-30
+738,181440,['Other'],2023-08-30,2023-08-30,Prince George's,Incident Closed-Managed,,2023-08-30
+739,181427,['Other'],2023-08-28,2023-08-28,Prince George's,Incident Closed-Managed,20782,2023-08-28
+740,181426,['Other'],2023-08-25,2023-08-25,Prince George's,Incident Closed-Managed,,2023-08-25
+741,181425,['Other'],2023-08-18,2023-08-18,Prince George's,Incident Closed-Managed,,2023-08-18
+742,181424,['Other'],2023-08-17,2023-08-17,Prince George's,Incident Closed-Managed,,2023-08-17
+743,181422,['Air'],2023-08-29,2023-08-29,Frederick,Incident Closed-Managed,,2023-08-29
+744,181421,['Air'],2023-08-29,2023-08-28,Frederick,Incident Closed-Managed,,2023-08-28
+745,181420,['Air'],2023-08-29,2023-08-28,Anne Arundel,Incident Closed - No further action,,2023-08-28
+746,181419,['Air'],2023-08-29,2023-08-28,Charles,Under Investigation,,2023-08-28
+747,181418,['Other'],2023-08-28,2023-08-28,Frederick,Referred to WMA,21788,2023-08-28
+748,181416,['Odor'],2023-08-22,2023-08-22,Dorchester,Incident Closed - No further action,21835,2023-08-22
+749,181412,['Other'],2023-08-17,2023-08-17,Howard,Incident Closed-Managed,20794,2023-08-17
+750,181403,['Open Burning'],2023-08-21,,Harford,Incident Closed-Managed,,
+751,181391,['Noise Complaint'],2023-08-17,2023-08-16,Anne Arundel,Incident Not Applicable to MDE,,2023-08-16
+752,181379,['Other'],2023-08-10,2023-08-10,Prince George's,Incident Closed-Managed,,2023-08-10
+753,181376,['Odor'],2023-08-14,2023-08-14,Dorchester,Referred to WMA,21643,2023-08-14
+754,181375,"['Fugitive Dust/Particulate Matter', 'Smoke']",2023-08-11,2023-08-11,Washington,Incident Closed-No Violation Observed,21740,2023-08-11
+755,181372,['Odor'],2023-08-10,2023-08-10,Anne Arundel,Incident Closed - No further action,,2023-08-10
+756,181371,['Odor'],2023-08-11,2023-08-09,Baltimore City,Incident Closed - No further action,,2023-08-09
+757,181365,['Odor'],2023-08-07,2023-08-05,Dorchester,Incident Closed-No Violation Observed,21643,2023-08-05
+759,181348,['Other'],2023-08-02,2023-08-02,Garrett,Incident Closed - No further action,21550,2023-08-02
+761,181327,['Odor'],2023-07-31,2023-07-31,Dorchester,Incident Closed - No further action,21643,2023-07-31
+762,181314,['Air'],2023-07-27,2023-07-27,Charles,Under Investigation,,2023-07-27
+763,181313,['Odor'],2023-07-26,,Baltimore,Incident Closed - No further action,,
+764,181311,['Fugitive Dust/Particulate Matter'],2023-07-24,2023-07-24,Washington,Incident Closed-No Violation Observed,21740,2023-07-24
+765,181307,['Odor'],2023-07-26,,Baltimore,Incident Closed - No further action,,
+766,181304,['Odor'],2023-07-15,2023-07-15,Baltimore City,Incident Closed-Managed,,2023-07-15
+767,181303,['Fugitive Dust/Particulate Matter'],2023-07-13,2023-07-13,Baltimore City,Incident Closed-Managed,,2023-07-13
+768,181302,['Odor'],2023-07-09,2023-07-09,Baltimore City,Incident Closed-Managed,,2023-07-09
+769,181301,['Odor'],2023-07-07,2023-07-07,Baltimore City,Incident Closed-Managed,,2023-07-07
+770,181300,['Odor'],2023-07-06,2023-07-06,Baltimore City,Incident Closed-Managed,,2023-07-06
+771,181297,['Odor'],2023-06-26,2023-06-26,Baltimore City,Incident Closed-Managed,,2023-06-26
+772,181296,['Air'],2023-06-24,2023-06-24,Baltimore City,Incident Closed - No further action,,2023-06-24
+773,181295,['Odor'],2023-06-22,2023-06-22,Baltimore City,Incident Closed-Managed,,2023-06-22
+774,181294,['Odor'],2023-06-16,2023-06-16,Baltimore City,Incident Closed-Managed,,2023-06-16
+775,181293,['Odor'],2023-07-12,2023-06-12,Baltimore City,Incident Closed-Managed,,2023-06-12
+776,181292,['Fugitive Dust/Particulate Matter'],2023-06-06,2023-06-06,Baltimore City,Incident Closed - No further action,,2023-06-06
+777,181291,['Odor'],2023-06-05,2023-06-05,Baltimore City,Incident Closed-Managed,,2023-06-05
+778,181290,['Odor'],2023-06-02,2023-06-02,Baltimore City,Incident Closed-Managed,,2023-06-02
+779,181289,['Smoke'],2023-07-24,,Harford,Incident Closed-Managed,,
+780,181284,['Air'],2023-07-17,2022-11-30,Montgomery,Incident Closed-Managed,20879,2022-11-30
+781,181283,"['Air', 'Fugitive Dust/Particulate Matter', 'Odor']",2023-07-14,2023-07-14,Montgomery,Referred to Outside Agency,,2023-07-14
+782,181278,"['Odor', 'Open Burning', 'Smoke']",2023-07-11,2023-07-10,Allegany,Incident Closed-Managed,21501,2023-07-10
+783,171278,['Air'],2023-07-20,2023-07-20,Frederick,Under Investigation,,2023-07-20
+784,171263,"['Odor', 'Open Burning', 'Smoke']",2023-07-06,2023-06-28,Garrett,Incident Closed - No further action,21550,2023-06-28
+785,171261,"['Odor', 'Open Burning', 'Smoke']",2023-07-06,2023-06-16,Garrett,Incident Closed - No further action,21531,2023-06-16
+786,171257,['Air'],2023-07-17,2023-07-17,Frederick,Under Investigation,21757,2023-07-17
+787,171251,['Air'],2023-07-13,2023-07-13,Prince George's,Incident Closed-No Violation Observed,,2023-07-13
+788,171247,['Open Burning'],2023-07-03,2023-07-03,Wicomico,Incident Closed-No Violation Observed,21804,2023-07-03
+789,171235,['Other'],2023-07-06,2023-07-06,Howard,Incident Closed-Managed,,2023-07-06
+790,171234,['Air'],2023-07-10,2023-07-06,Anne Arundel,Incident Closed-Managed,21054,2023-07-06
+791,171233,['Air'],2023-07-10,2023-07-05,Anne Arundel,Incident Closed-Managed,21122,2023-07-05
+792,171232,['Air'],2023-07-10,2023-07-03,Anne Arundel,Incident Closed-Clean-up Completed,21401,2023-07-03
+793,171231,['Air'],2023-07-10,2023-07-06,Frederick,Incident Closed-No Violation Observed,21770,2023-07-06
+794,171223,['Other'],2023-07-05,2023-07-05,Prince George's,Incident Closed-Managed,,2023-07-05
+795,171218,['Other'],2023-06-29,2023-06-29,Howard,Incident Closed-Managed,,2023-06-29
+796,171217,['Other'],2023-06-28,2023-06-28,Prince George's,Incident Closed-Managed,,2023-06-28
+797,171212,['Air'],2023-06-30,2023-06-29,Anne Arundel,Incident Closed - No further action,,2023-06-29
+798,171211,['Smoke'],2023-06-29,,Harford,Incident Closed - No further action,,
+799,171210,"['Air', 'Odor']",2023-06-29,2023-06-29,Carroll,Referred to Outside Agency,21158,2023-06-29
+800,171206,['Odor'],2023-06-27,,Baltimore,Incident Not Applicable to MDE,,
+802,171195,['Air'],2023-06-28,2023-06-28,Baltimore,Incident Closed - No further action,,2023-06-28
+803,171188,['Fumes'],2023-06-26,,Harford,Incident Closed-Managed,,
+804,171187,['Air'],2023-06-27,2023-06-27,Charles,Under Investigation,,2023-06-27
+806,171155,['Air'],2023-06-23,2023-06-23,Frederick,Under Investigation,,2023-06-23
+807,161146,['Fugitive Dust/Particulate Matter'],2023-06-21,,Baltimore,Incident Closed - No further action,,
+808,161144,['Air'],2023-06-21,2023-06-20,Frederick,Under Investigation,,2023-06-20
+809,161143,['Air'],2023-06-21,2023-06-19,Frederick,Under Investigation,,2023-06-19
+810,161141,['Odor'],2023-06-20,2023-06-15,Washington,Referred to WMA,21782,2023-06-15
+811,161135,"['Air', 'Fugitive Dust/Particulate Matter']",2023-06-06,2023-05-22,Cecil,Incident Closed-Managed,21904,2023-05-22
+812,161134,['Air'],2023-06-15,2023-06-13,Anne Arundel,Incident Closed-Managed,20794,2023-06-13
+813,161132,['Open Burning'],2023-06-12,2023-06-12,Cecil,Referred to Outside Agency,21921,2023-06-12
+814,161130,['Fugitive Dust/Particulate Matter'],2023-06-14,,Baltimore,Incident Closed-No Violation Observed,,
+815,161125,['Fugitive Dust/Particulate Matter'],2023-06-14,,Baltimore,Incident Closed-No Violation Observed,,
+816,161116,['Open Burning'],2023-06-05,2023-06-05,Carroll,Referred to Outside Agency,21771,2023-06-05
+817,161115,['Air'],2023-06-12,2023-06-12,Frederick,Under Investigation,,2023-06-12
+818,161112,['Other'],2023-06-07,2023-06-07,Howard,Incident Closed-Managed,,2023-06-07
+819,161111,['Other'],2023-06-06,2023-06-06,Howard,Incident Closed-Managed,,2023-06-06
+820,161106,['Fugitive Dust/Particulate Matter'],2023-06-02,2023-06-02,Allegany,Incident Closed - No further action,,2023-06-02
+821,161105,['Odor'],2023-06-09,,Harford,Referred to Outside Agency,,
+822,161104,['Air'],2023-06-08,,Harford,Incident Closed-Managed,,
+823,161102,['Open Burning'],2023-06-06,2023-06-06,Wicomico,Incident Closed-No Violation Observed,21801,2023-06-06
+824,161102,['Open Burning'],2023-06-06,2023-06-06,Wicomico,Incident Closed-No Violation Observed,21822,2023-06-06
+825,161101,['Fugitive Dust/Particulate Matter'],2023-06-07,2023-06-07,Dorchester,Incident Closed-Managed,21664,2023-06-07
+826,161093,['Air'],2023-06-08,2023-06-07,Frederick,Under Investigation,,2023-06-07
+827,161092,['Air'],2023-06-08,2023-06-05,Frederick,Incident Closed - No further action,,2023-06-05
+828,161089,['Fugitive Dust/Particulate Matter'],2023-05-19,2023-05-10,Washington,Incident Closed-No Violation Observed,21740,2023-05-10
+829,161086,['Non-Tidal Wetlands/Waterway'],2023-05-17,2023-05-17,Allegany,Incident Closed - No further action,21539,2023-05-17
+830,161081,['Odor'],2023-06-01,2023-06-01,Baltimore City,Incident Closed-Managed,,2023-06-01
+831,161080,['Odor'],2023-05-31,2023-05-31,Baltimore City,Incident Closed-Managed,,2023-05-31
+832,161079,['Odor'],2023-05-29,2023-05-29,Baltimore City,Incident Closed-Managed,,2023-05-29
+833,161078,['Odor'],2023-05-28,2023-05-28,Baltimore City,Incident Closed-Managed,,2023-05-28
+834,161077,['Odor'],2023-05-27,2023-05-27,Baltimore City,Incident Closed-Managed,,2023-05-27
+835,161076,['Odor'],2023-05-24,2023-05-24,Baltimore City,Incident Closed-Managed,,2023-05-24
+836,161075,['Odor'],2023-05-19,2023-05-19,Baltimore City,Incident Closed-Managed,,2023-05-19
+837,161074,['Odor'],2023-05-18,2023-05-18,Baltimore City,Incident Closed-Managed,,2023-05-18
+838,161073,['Fugitive Dust/Particulate Matter'],2023-05-17,2023-05-17,Baltimore City,Incident Closed-Managed,,2023-05-17
+839,161072,['Fugitive Dust/Particulate Matter'],2023-05-16,2023-05-16,Baltimore City,Incident Closed-Managed,,2023-05-16
+840,161071,['Odor'],2023-05-10,2023-05-10,Baltimore City,Incident Closed-Managed,,2023-05-10
+841,161070,['Odor'],2023-05-09,2023-05-09,Baltimore City,Incident Closed-Managed,,2023-05-09
+843,161065,['Odor'],2023-05-08,2023-05-08,Baltimore City,Incident Closed-Managed,,2023-05-08
+844,161064,['Other'],2023-06-05,2023-06-05,Howard,Incident Closed-Managed,,2023-06-05
+845,161063,['Other'],2023-06-01,2023-06-01,Prince George's,Incident Closed-Managed,,2023-06-01
+846,161062,['Odor'],2023-05-07,2023-05-07,Baltimore City,Incident Closed-Managed,,2023-05-07
+847,161061,['Other'],2023-06-01,2023-06-01,Howard,Incident Closed-Managed,21075,2023-06-01
+848,161060,['Odor'],2023-05-06,2023-05-06,Baltimore City,Incident Closed-Managed,,2023-05-06
+849,161059,['Other'],2023-05-31,2023-05-31,Howard,Incident Closed-Managed,21075,2023-05-31
+850,161058,['Other'],2023-05-23,2023-05-23,Howard,Incident Closed-Managed,21075,2023-05-23
+851,161057,['Odor'],2023-05-05,2023-05-05,Baltimore City,Incident Closed-Managed,,2023-05-05
+852,161055,['Air'],2023-06-06,2023-06-03,Anne Arundel,Under Investigation,,2023-06-03
+853,161054,['Air'],2023-06-06,2023-06-02,Anne Arundel,Incident Closed-No Violation Observed,,2023-06-02
+854,161042,['Air'],2023-06-02,2023-06-02,Frederick,Under Investigation,,2023-06-02
+855,161041,['Air'],2023-06-02,2023-05-31,Frederick,Under Investigation,,2023-05-31
+856,161040,['Air'],2023-06-02,2023-05-26,Frederick,Under Investigation,,2023-05-26
+857,161035,['Air'],2023-06-02,2023-06-01,Anne Arundel,Under Investigation,,2023-06-01
+858,161034,['Air'],2023-06-02,2023-05-31,Anne Arundel,Incident Closed - No further action,,2023-05-31
+859,161033,['Air'],2023-06-02,2023-05-31,Anne Arundel,Incident Closed-No Violation Observed,21113,2023-05-31
+860,161032,['Air'],2023-06-02,2023-05-30,Anne Arundel,Incident Closed - No further action,,2023-05-30
+861,161031,['Air'],2023-06-02,2023-05-26,Anne Arundel,Incident Closed-No Violation Observed,21113,2023-05-26
+862,161030,['Other'],2023-06-01,,St. Mary's,Incident Closed - No further action,,
+863,161027,"['Air', 'Fugitive Dust/Particulate Matter']",2023-05-31,2023-05-31,Montgomery,Referred to Outside Agency,20912,2023-05-31
+864,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,Incident Closed-Managed,20853,2023-05-25
+865,161012,"['Air', 'Fumes', 'Odor']",2023-05-25,2023-05-25,Montgomery,Incident Closed-Managed,20837,2023-05-25
+866,161008,['Other'],2023-05-25,,Baltimore,Incident Closed - No further action,,
+867,161002,['Air'],2023-05-24,2023-05-24,Frederick,Under Investigation,,2023-05-24
+868,161000,"['Fumes', 'Odor', 'Smoke']",2023-05-23,2023-05-23,Wicomico,Incident Closed-Managed,21801,2023-05-23
+869,160992,['Odor'],2023-05-22,2023-05-13,Baltimore,Incident Closed - No further action,21222,2023-05-13
+870,160990,"['Air', 'Fumes', 'Odor']",2023-05-19,2023-05-19,Montgomery,Incident Closed-Managed,20837,2023-05-19
+871,160989,"['Air', 'Fumes', 'Odor']",2023-05-19,2023-05-19,Montgomery,Incident Closed-Managed,20853,2023-05-19
+872,160989,"['Air', 'Fumes', 'Odor']",2023-05-19,2023-05-19,Montgomery,Incident Closed-Managed,20837,2023-05-19
+873,160986,['Fumes'],2023-05-18,,Baltimore,Referred to Outside Agency,,
+874,160982,['Air'],2023-05-19,2023-05-18,Frederick,Incident Closed - No further action,,2023-05-18
+875,160982,['Air'],2023-05-19,2023-05-18,Frederick,Incident Closed - No further action,,2023-05-18
+876,160981,['Air'],2023-05-19,2023-05-17,Anne Arundel,Incident Closed - No further action,,2023-05-17
+877,150983,"['Air', 'Fumes', 'Odor']",2023-05-16,2023-05-16,Montgomery,Incident Closed-Managed,20853,2023-05-16
+878,150983,"['Air', 'Fumes', 'Odor']",2023-05-16,2023-05-16,Montgomery,Incident Closed-Managed,20837,2023-05-16
+879,150982,"['Air', 'Fumes', 'Odor']",2023-05-16,2023-05-16,Montgomery,Incident Closed-Managed,20853,2023-05-16
+880,150981,['Air'],2023-05-09,2023-05-09,Montgomery,Incident Closed-Managed,20879,2023-05-09
+881,150978,['Odor'],2023-05-04,2023-05-04,Dorchester,Incident Closed - No further action,21835,2023-05-04
+882,150977,['Fumes'],2023-05-16,,Baltimore,Incident Closed-Managed,,
+883,150965,"['Air', 'Fumes', 'Odor']",2023-05-15,2023-05-15,Montgomery,Incident Closed-Managed,20837,2023-05-15
+884,150964,['Fumes'],2023-05-15,,Baltimore,Incident Closed-Managed,,
+885,150963,['Odor'],2023-05-15,,Baltimore,Referred to Outside Agency,,
+886,150958,['Air'],2023-05-15,2023-05-12,Frederick,Incident Closed - No further action,,2023-05-12
+887,150957,['Air'],2023-05-15,2023-05-09,Frederick,Under Investigation,,2023-05-09
+888,150956,['Air'],2023-05-15,2023-05-08,Anne Arundel,Incident Closed-No Violation Observed,,2023-05-08
+889,150951,['Smoke'],2023-05-12,2023-03-09,Harford,Incident Closed - No further action,,2023-03-09
+890,150950,['Smoke'],2023-05-12,2023-03-09,Harford,Incident Closed - No further action,,2023-03-09
+891,150949,['Smoke'],2023-05-12,2023-03-09,Harford,Incident Closed - No further action,,2023-03-09
+892,150947,"['Air', 'Fumes', 'Odor']",2023-05-11,2023-05-11,Montgomery,Incident Closed-Managed,20837,2023-05-11
+893,150946,['Air'],2023-05-12,2023-05-11,Charles,Incident Closed-No Violation Observed,20601,2023-05-11
+894,150945,"['Air', 'Fumes', 'Odor']",2023-05-07,2023-05-07,Montgomery,Incident Closed-Managed,20837,2023-05-07
+895,150941,['Odor'],2023-04-07,2023-04-07,Howard,Incident Closed - No further action,20723,2023-04-07
+896,150938,"['Air', 'Other']",2023-04-20,2023-04-20,Carroll,Referred to Outside Agency,21776-811,2023-04-20
+897,150932,['Other'],2023-05-08,2023-05-08,Prince George's,Incident Closed-Managed,,2023-05-08
+898,150931,['Other'],2023-05-03,2023-05-03,Prince George's,Incident Closed-Managed,,2023-05-03
+899,150930,['Fugitive Dust/Particulate Matter'],2023-04-20,2023-04-20,Baltimore City,Incident Closed-Managed,,2023-04-20
+900,150929,['Odor'],2023-04-26,2023-04-26,Baltimore City,Incident Closed-Managed,,2023-04-26
+901,150928,['Odor'],2023-04-23,2023-04-23,Baltimore City,Incident Closed-Managed,,2023-04-23
+902,150927,['Odor'],2023-04-22,2023-04-22,Baltimore City,Incident Closed-Managed,,2023-04-22
+903,150926,['Odor'],2023-04-21,2023-04-21,Baltimore City,Incident Closed-Managed,,2023-04-21
+904,150925,['Air'],2023-05-09,2023-05-09,Frederick,Under Investigation,,2023-05-09
+905,150916,['Air'],2023-05-08,2023-05-04,Anne Arundel,Incident Closed-No Violation Observed,,2023-05-04
+906,150915,['Air'],2023-05-08,2023-05-04,Anne Arundel,Incident Closed - No further action,,2023-05-04
+907,150914,['Air'],2023-05-08,2023-05-03,Anne Arundel,Incident Closed - No further action,,2023-05-03
+908,150902,['Open Burning'],2023-05-03,2023-05-03,Somerset,Incident Closed-No Violation Observed,21853,2023-05-03
+909,150896,['Odor'],2023-05-02,,Baltimore,Incident Closed-No Violation Observed,21093,
+910,150894,"['Air', 'Other']",2023-05-01,2023-05-01,Cecil,Incident Closed - No further action,,2023-05-01
+911,150891,['Other'],2023-04-28,2023-04-28,Cecil,Referred to Outside Agency,21901,2023-04-28
+912,150887,['Air'],2023-05-01,2023-04-28,Anne Arundel,Incident Closed - No further action,,2023-04-28
+913,150886,['Air'],2023-05-01,2023-04-26,Anne Arundel,Under Investigation,,2023-04-26
+914,150867,['Other'],2023-04-27,,Baltimore,Incident Closed-Managed,,
+915,150864,"['Air', 'Fugitive Dust/Particulate Matter']",2023-04-20,2023-04-20,Montgomery,Incident Closed-Managed,20852,2023-04-20
 916,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
 917,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
-918,150848,['Open Burning'],2023-04-23,,Harford,Incident Closed-Managed,,
-919,150843,['Odor'],2023-04-16,2023-04-16,Baltimore City,Incident Closed-Managed,,2023-04-16
-920,150842,['Odor'],2023-04-03,2023-04-03,Baltimore City,Incident Closed-Managed,,2023-04-03
-921,150841,['Odor'],2023-03-29,2023-03-29,Baltimore City,Incident Closed-Managed,,2023-03-29
-922,150840,['Odor'],2023-03-27,2023-03-27,Baltimore City,Incident Closed-Managed,,2023-03-27
-923,150839,['Odor'],2023-03-26,2023-03-26,Baltimore City,Incident Closed-Managed,,2023-03-26
-924,150837,['Odor'],2023-03-25,2023-03-25,Baltimore City,Incident Closed-Managed,,2023-03-25
-925,140835,['Fugitive Dust/Particulate Matter'],2023-04-19,,Baltimore,Incident Closed - No further action,,
-926,140834,['Air'],2023-04-20,2023-04-20,Anne Arundel,Incident Closed-No Violation Observed,,2023-04-20
-929,140827,['Other'],2023-04-12,2023-04-12,Prince George's,Incident Closed-Managed,,2023-04-12
-930,140826,['Air'],2023-04-19,2023-04-19,Frederick,Under Investigation,,2023-04-19
-931,140816,['Air'],2023-04-17,2023-04-17,Frederick,Under Investigation,,2023-04-17
-932,140809,['Odor'],2023-04-14,,Baltimore,Incident Closed - No further action,,
-933,140797,['Other'],2023-04-09,2023-04-09,Prince George's,Incident Closed-Managed,,2023-04-09
-934,140796,['Other'],2023-04-09,2023-04-09,Prince George's,Incident Closed-Managed,,2023-04-09
-935,140795,['Other'],2023-04-10,2023-04-10,Prince George's,Incident Closed-Managed,,2023-04-10
-936,140792,['Other'],2023-04-12,2023-04-04,Prince George's,Incident Closed-Managed,,2023-04-04
-937,140791,['Other'],2023-04-04,2023-04-04,Prince George's,Incident Closed-Managed,,2023-04-04
-938,140782,"['Air', 'Fumes', 'Odor']",2023-04-10,2023-04-10,Montgomery,Referred to Outside Agency,20837,2023-04-10
-939,140781,"['Air', 'Fumes', 'Odor']",2023-03-30,2023-03-30,Montgomery,Referred to Outside Agency,20837,2023-03-30
-940,140780,"['Air', 'Fumes', 'Other']",2023-03-30,2023-03-30,Montgomery,Referred to Outside Agency,20847,2023-03-30
-941,140778,['Air'],2023-04-10,2023-04-10,Frederick,Incident Closed - No further action,21757,2023-04-10
-942,140777,"['Fumes', 'Open Burning', 'Smoke']",2023-03-31,2023-03-31,Cecil,Referred to Outside Agency,21919,2023-03-31
-943,140776,"['Open Burning', 'Smoke']",2023-03-31,2023-03-31,Cecil,Referred to Outside Agency,21921,2023-03-31
-944,140775,['Fugitive Dust/Particulate Matter'],2023-04-05,2023-04-05,Cecil,Incident Closed - No further action,,2023-04-05
-945,140774,"['Open Burning', 'Smoke']",2023-04-05,2023-04-05,Cecil,Referred to Outside Agency,21919,2023-04-05
-946,140773,['Smoke'],2023-04-05,,St. Mary's,Incident Closed-Managed,,
-947,140772,['Smoke'],2023-04-03,,St. Mary's,Incident Closed-Managed,,
-948,140771,"['Air', 'Odor', 'Smoke']",2023-04-06,2023-04-06,Montgomery,Referred to Outside Agency,,2023-04-06
-949,140769,['Smoke'],2023-04-05,2023-04-05,Wicomico,Incident Closed - No further action,21849,2023-04-05
-950,140768,"['Fumes', 'Smoke']",2023-04-05,2023-04-05,Garrett,Incident Closed-Managed,21536,2023-04-05
-951,140767,['Asbestos Complaint'],2023-03-21,2023-03-21,Allegany,Referred to ARA,21501,2023-03-21
-952,140766,['Other'],2023-03-17,2023-03-17,Allegany,Incident Closed - No further action,,2023-03-17
-953,140765,['Asbestos Complaint'],2023-03-10,2023-03-10,Allegany,Referred to ARA,,2023-03-10
-955,140761,['Odor'],2023-04-05,2023-03-30,Baltimore City,Incident Closed - No further action,21231,2023-03-30
-956,140760,['Air'],2023-04-05,2023-04-05,Anne Arundel,Incident Closed-No Violation Observed,,2023-04-05
-957,140757,['Odor'],2023-03-24,2023-03-24,Dorchester,Incident Closed - No further action,21835,2023-03-24
-958,140756,['Odor'],2023-04-03,2023-04-03,Baltimore City,Incident Closed - No further action,21224,2023-04-03
-959,140752,['Air'],2023-04-04,2023-04-03,Frederick,Incident Closed-Managed,,2023-04-03
-960,140751,['Air'],2023-04-04,2023-04-02,Anne Arundel,Incident Closed-No Violation Observed,,2023-04-02
-961,140750,"['Air', 'Fumes', 'Odor']",2023-03-31,2023-03-31,Cecil,Incident Closed-Managed,21920,2023-03-31
-962,140734,['Air'],2023-03-31,2023-03-29,Frederick,Incident Closed-Managed,21757,2023-03-29
-963,140732,['Other'],2023-03-29,2023-03-29,Prince George's,Incident Closed-Managed,,2023-03-29
-964,140729,['Other'],2023-03-29,,Baltimore,Incident Closed - No further action,,
-965,140728,['Smoke'],2023-03-28,,Baltimore,Referred to Outside Agency,,
-966,140726,"['Odor', 'Smoke']",2023-03-30,2023-03-26,Caroline,Referred to Outside Agency,21629,2023-03-26
-967,140716,"['Air', 'Fumes', 'Odor']",2023-03-27,2023-03-27,Montgomery,Referred to Outside Agency,20837,2023-03-27
-968,140715,['Other'],2023-03-27,2023-03-27,Prince George's,Incident Closed-Managed,,2023-03-27
-969,140714,['Odor'],2023-03-27,2023-03-27,Howard,Incident Closed-Managed,21075,2023-03-27
-970,140713,['Odor'],2023-03-24,2023-03-24,Dorchester,Incident Closed-Managed,21835,2023-03-24
-971,140712,"['Air', 'Fumes', 'Odor']",2023-03-27,2023-03-27,Montgomery,Incident Closed-Managed,20837,2023-03-27
-972,140710,"['Air', 'Fumes', 'Odor', 'Smoke']",2023-03-27,2023-03-27,Montgomery,Incident Closed-Managed,,2023-03-27
-973,140709,"['Air', 'Fumes', 'Smoke']",2023-03-27,2023-03-27,Montgomery,Incident Closed-Managed,,2023-03-27
-974,140708,"['Air', 'Fumes', 'Odor']",2023-03-22,2023-03-22,Montgomery,Referred to Outside Agency,20837,2023-03-22
-975,140707,['Air'],2023-03-28,2023-03-26,Anne Arundel,Incident Closed-Managed,21060,2023-03-26
-976,140706,['Air'],2023-03-28,2023-03-27,Anne Arundel,Incident Closed - No further action,,2023-03-27
-978,140704,"['Fumes', 'Odor', 'Open Burning']",2023-03-22,2023-03-22,Carroll,Referred to Outside Agency,21776,2023-03-22
-979,140700,['Fugitive Dust/Particulate Matter'],2023-03-26,,Harford,Incident Closed-No Violation Observed,21001,
-980,140696,['Odor'],2023-03-22,2023-03-22,Anne Arundel,Incident Closed - No further action,21226,2023-03-22
-981,140690,['Fugitive Dust/Particulate Matter'],2023-03-23,,Harford,Incident Closed-No Violation Observed,,
-982,140676,['Air'],2023-03-22,2023-03-22,Anne Arundel,Incident Closed - No further action,,2023-03-22
-983,140674,['Fugitive Dust/Particulate Matter'],2023-03-21,,Baltimore,Incident Closed-No Violation Observed,,
-984,140673,['Smoke'],2023-03-18,,Baltimore,Incident Closed-No Violation Observed,21228,
-985,140671,['Air'],2023-03-22,2023-03-22,Frederick,Under Investigation,21757,2023-03-22
-986,140670,['Air'],2023-03-22,2023-03-21,Frederick,Under Investigation,21757,2023-03-21
-987,140654,['Air'],2023-03-20,2023-03-20,Anne Arundel,Incident Closed - No further action,,2023-03-20
-988,140652,['Other'],2023-03-15,2023-03-13,Queen Anne's,Incident Closed-Managed,21638,2023-03-13
-989,140651,['Open Burning'],2023-03-14,2023-03-14,Somerset,Incident Closed-Managed,21853,2023-03-14
-990,140649,['Odor'],2023-03-17,2023-03-17,Baltimore City,Incident Closed-Managed,,2023-03-17
-991,140648,['Odor'],2023-03-12,2023-03-12,Baltimore City,Incident Closed-Managed,,2023-03-12
-992,140647,['Odor'],2023-03-10,2023-03-10,Baltimore City,Incident Closed-Managed,,2023-03-10
-993,140646,['Fumes'],2023-03-17,,Baltimore,Incident Closed - No further action,,
-994,140645,['Other'],2023-03-13,,St. Mary's,Incident Closed - No further action,,
-995,140644,['Other'],2023-03-13,,Baltimore,Incident Closed - No further action,,
-996,140640,['Odor'],2023-03-10,2023-03-10,Dorchester,Incident Closed - No further action,21835,2023-03-10
-1000,140634,['Air'],2023-03-15,2023-03-10,Anne Arundel,Incident Closed-Managed,21060,2023-03-10
-1004,140627,"['Air', 'Odor', 'Smoke']",2023-03-13,2023-03-13,Montgomery,Referred to Outside Agency,,2023-03-13
-1006,140624,['Air'],2023-03-13,2023-03-10,Anne Arundel,Incident Closed-No Violation Observed,,2023-03-10
-1007,140618,['Air'],2023-03-10,2023-03-09,Anne Arundel,Incident Closed - No further action,21060,2023-03-09
-1008,140616,['Odor'],2023-03-10,,Baltimore,Incident Closed - No further action,,
-1013,140607,['Air'],2023-03-10,2023-03-09,Anne Arundel,Under Investigation,21122,2023-03-09
+918,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
+919,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
+920,150854,"['Open Burning', 'Smoke']",2023-04-19,2023-04-19,Worcester,Incident Closed-No Violation Observed,21851,2023-04-19
+921,150848,['Open Burning'],2023-04-23,,Harford,Incident Closed-Managed,,
+922,150843,['Odor'],2023-04-16,2023-04-16,Baltimore City,Incident Closed-Managed,,2023-04-16
+923,150842,['Odor'],2023-04-03,2023-04-03,Baltimore City,Incident Closed-Managed,,2023-04-03
+924,150841,['Odor'],2023-03-29,2023-03-29,Baltimore City,Incident Closed-Managed,,2023-03-29
+925,150840,['Odor'],2023-03-27,2023-03-27,Baltimore City,Incident Closed-Managed,,2023-03-27
+926,150839,['Odor'],2023-03-26,2023-03-26,Baltimore City,Incident Closed-Managed,,2023-03-26
+927,150837,['Odor'],2023-03-25,2023-03-25,Baltimore City,Incident Closed-Managed,,2023-03-25
+928,140835,['Fugitive Dust/Particulate Matter'],2023-04-19,,Baltimore,Incident Closed - No further action,,
+929,140834,['Air'],2023-04-20,2023-04-20,Anne Arundel,Incident Closed-No Violation Observed,,2023-04-20
+932,140827,['Other'],2023-04-12,2023-04-12,Prince George's,Incident Closed-Managed,,2023-04-12
+933,140826,['Air'],2023-04-19,2023-04-19,Frederick,Under Investigation,,2023-04-19
+934,140816,['Air'],2023-04-17,2023-04-17,Frederick,Under Investigation,,2023-04-17
+935,140809,['Odor'],2023-04-14,,Baltimore,Incident Closed - No further action,,
+936,140797,['Other'],2023-04-09,2023-04-09,Prince George's,Incident Closed-Managed,,2023-04-09
+937,140796,['Other'],2023-04-09,2023-04-09,Prince George's,Incident Closed-Managed,,2023-04-09
+938,140795,['Other'],2023-04-10,2023-04-10,Prince George's,Incident Closed-Managed,,2023-04-10
+939,140792,['Other'],2023-04-12,2023-04-04,Prince George's,Incident Closed-Managed,,2023-04-04
+940,140791,['Other'],2023-04-04,2023-04-04,Prince George's,Incident Closed-Managed,,2023-04-04
+941,140782,"['Air', 'Fumes', 'Odor']",2023-04-10,2023-04-10,Montgomery,Referred to Outside Agency,20837,2023-04-10
+942,140781,"['Air', 'Fumes', 'Odor']",2023-03-30,2023-03-30,Montgomery,Referred to Outside Agency,20837,2023-03-30
+943,140780,"['Air', 'Fumes', 'Other']",2023-03-30,2023-03-30,Montgomery,Referred to Outside Agency,20847,2023-03-30
+944,140778,['Air'],2023-04-10,2023-04-10,Frederick,Incident Closed - No further action,21757,2023-04-10
+945,140777,"['Fumes', 'Open Burning', 'Smoke']",2023-03-31,2023-03-31,Cecil,Referred to Outside Agency,21919,2023-03-31
+946,140776,"['Open Burning', 'Smoke']",2023-03-31,2023-03-31,Cecil,Referred to Outside Agency,21921,2023-03-31
+947,140775,['Fugitive Dust/Particulate Matter'],2023-04-05,2023-04-05,Cecil,Incident Closed - No further action,,2023-04-05
+948,140774,"['Open Burning', 'Smoke']",2023-04-05,2023-04-05,Cecil,Referred to Outside Agency,21919,2023-04-05
+949,140773,['Smoke'],2023-04-05,,St. Mary's,Incident Closed-Managed,,
+950,140772,['Smoke'],2023-04-03,,St. Mary's,Incident Closed-Managed,,
+951,140771,"['Air', 'Odor', 'Smoke']",2023-04-06,2023-04-06,Montgomery,Referred to Outside Agency,,2023-04-06
+952,140769,['Smoke'],2023-04-05,2023-04-05,Wicomico,Incident Closed - No further action,21849,2023-04-05
+953,140768,"['Fumes', 'Smoke']",2023-04-05,2023-04-05,Garrett,Incident Closed-Managed,21536,2023-04-05
+954,140767,['Asbestos Complaint'],2023-03-21,2023-03-21,Allegany,Referred to ARA,21501,2023-03-21
+955,140766,['Other'],2023-03-17,2023-03-17,Allegany,Incident Closed - No further action,,2023-03-17
+956,140765,['Asbestos Complaint'],2023-03-10,2023-03-10,Allegany,Referred to ARA,,2023-03-10
+958,140761,['Odor'],2023-04-05,2023-03-30,Baltimore City,Incident Closed - No further action,21231,2023-03-30
+959,140760,['Air'],2023-04-05,2023-04-05,Anne Arundel,Incident Closed-No Violation Observed,,2023-04-05
+960,140757,['Odor'],2023-03-24,2023-03-24,Dorchester,Incident Closed - No further action,21835,2023-03-24
+961,140756,['Odor'],2023-04-03,2023-04-03,Baltimore City,Incident Closed - No further action,21224,2023-04-03
+962,140752,['Air'],2023-04-04,2023-04-03,Frederick,Incident Closed-Managed,,2023-04-03
+963,140751,['Air'],2023-04-04,2023-04-02,Anne Arundel,Incident Closed-No Violation Observed,,2023-04-02
+964,140750,"['Air', 'Fumes', 'Odor']",2023-03-31,2023-03-31,Cecil,Incident Closed-Managed,21920,2023-03-31
+965,140734,['Air'],2023-03-31,2023-03-29,Frederick,Incident Closed-Managed,21757,2023-03-29
+966,140732,['Other'],2023-03-29,2023-03-29,Prince George's,Incident Closed-Managed,,2023-03-29
+967,140729,['Other'],2023-03-29,,Baltimore,Incident Closed - No further action,,
+968,140728,['Smoke'],2023-03-28,,Baltimore,Referred to Outside Agency,,
+969,140726,"['Odor', 'Smoke']",2023-03-30,2023-03-26,Caroline,Referred to Outside Agency,21629,2023-03-26
+970,140716,"['Air', 'Fumes', 'Odor']",2023-03-27,2023-03-27,Montgomery,Referred to Outside Agency,20837,2023-03-27
+971,140715,['Other'],2023-03-27,2023-03-27,Prince George's,Incident Closed-Managed,,2023-03-27
+972,140714,['Odor'],2023-03-27,2023-03-27,Howard,Incident Closed-Managed,21075,2023-03-27
+973,140713,['Odor'],2023-03-24,2023-03-24,Dorchester,Incident Closed-Managed,21835,2023-03-24
+974,140712,"['Air', 'Fumes', 'Odor']",2023-03-27,2023-03-27,Montgomery,Incident Closed-Managed,20837,2023-03-27
+975,140710,"['Air', 'Fumes', 'Odor', 'Smoke']",2023-03-27,2023-03-27,Montgomery,Incident Closed-Managed,,2023-03-27
+976,140709,"['Air', 'Fumes', 'Smoke']",2023-03-27,2023-03-27,Montgomery,Incident Closed-Managed,,2023-03-27
+977,140708,"['Air', 'Fumes', 'Odor']",2023-03-22,2023-03-22,Montgomery,Referred to Outside Agency,20837,2023-03-22
+978,140707,['Air'],2023-03-28,2023-03-26,Anne Arundel,Incident Closed-Managed,21060,2023-03-26
+979,140706,['Air'],2023-03-28,2023-03-27,Anne Arundel,Incident Closed - No further action,,2023-03-27
+981,140704,"['Fumes', 'Odor', 'Open Burning']",2023-03-22,2023-03-22,Carroll,Referred to Outside Agency,21776,2023-03-22
+982,140700,['Fugitive Dust/Particulate Matter'],2023-03-26,,Harford,Incident Closed-No Violation Observed,21001,
+983,140696,['Odor'],2023-03-22,2023-03-22,Anne Arundel,Incident Closed - No further action,21226,2023-03-22
+984,140690,['Fugitive Dust/Particulate Matter'],2023-03-23,,Harford,Incident Closed-No Violation Observed,,
+985,140676,['Air'],2023-03-22,2023-03-22,Anne Arundel,Incident Closed - No further action,,2023-03-22
+986,140674,['Fugitive Dust/Particulate Matter'],2023-03-21,,Baltimore,Incident Closed-No Violation Observed,,
+987,140673,['Smoke'],2023-03-18,,Baltimore,Incident Closed-No Violation Observed,21228,
+988,140671,['Air'],2023-03-22,2023-03-22,Frederick,Under Investigation,21757,2023-03-22
+989,140670,['Air'],2023-03-22,2023-03-21,Frederick,Under Investigation,21757,2023-03-21
+990,140654,['Air'],2023-03-20,2023-03-20,Anne Arundel,Incident Closed - No further action,,2023-03-20
+991,140652,['Other'],2023-03-15,2023-03-13,Queen Anne's,Incident Closed-Managed,21638,2023-03-13
+992,140651,['Open Burning'],2023-03-14,2023-03-14,Somerset,Incident Closed-Managed,21853,2023-03-14
+993,140649,['Odor'],2023-03-17,2023-03-17,Baltimore City,Incident Closed-Managed,,2023-03-17
+994,140648,['Odor'],2023-03-12,2023-03-12,Baltimore City,Incident Closed-Managed,,2023-03-12
+995,140647,['Odor'],2023-03-10,2023-03-10,Baltimore City,Incident Closed-Managed,,2023-03-10
+996,140646,['Fumes'],2023-03-17,,Baltimore,Incident Closed - No further action,,
+997,140645,['Other'],2023-03-13,,St. Mary's,Incident Closed - No further action,,
+998,140644,['Other'],2023-03-13,,Baltimore,Incident Closed - No further action,,
+999,140640,['Odor'],2023-03-10,2023-03-10,Dorchester,Incident Closed - No further action,21835,2023-03-10
+1003,140634,['Air'],2023-03-15,2023-03-10,Anne Arundel,Incident Closed-Managed,21060,2023-03-10
+1007,140627,"['Air', 'Odor', 'Smoke']",2023-03-13,2023-03-13,Montgomery,Referred to Outside Agency,,2023-03-13
+1009,140624,['Air'],2023-03-13,2023-03-10,Anne Arundel,Incident Closed-No Violation Observed,,2023-03-10
+1010,140618,['Air'],2023-03-10,2023-03-09,Anne Arundel,Incident Closed - No further action,21060,2023-03-09
+1011,140616,['Odor'],2023-03-10,,Baltimore,Incident Closed - No further action,,
+1016,140607,['Air'],2023-03-10,2023-03-09,Anne Arundel,Under Investigation,21122,2023-03-09
