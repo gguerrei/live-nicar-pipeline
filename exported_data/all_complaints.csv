@@ -9,8 +9,8 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_
 8,426274,['Air'],2026-07-31,2026-07-31,Anne Arundel,2026-07-31,Incident Closed-Managed,21090
 9,426273,['Air'],2026-08-03,2026-08-03,Anne Arundel,2026-08-03,Under Investigation,21114
 10,426272,['Air'],2026-08-01,2026-08-01,Frederick,2026-08-01,Under Investigation,21701
-11,426271,['Air'],2026-07-28,2026-07-28,Anne Arundel,2026-07-28,Under Investigation,21225
-12,426270,['Air'],2026-07-27,2026-07-27,Anne Arundel,2026-07-27,Under Investigation,21076
+11,426271,['Air'],2026-07-28,2026-07-28,Anne Arundel,2026-07-28,Referred to LMA,21225
+12,426270,['Air'],2026-07-27,2026-07-27,Anne Arundel,2026-07-27,Incident Closed-No Violation Observed,21076
 13,426261,['Other'],2026-07-28,2026-07-28,Prince George's,2026-07-28,Incident Closed-Managed,
 14,426260,['Other'],2026-07-28,2026-07-27,Prince George's,2026-07-27,Incident Closed-Managed,
 15,426253,"['Air', 'Open Burning', 'Smoke']",2026-07-24,2026-07-24,St. Mary's,2026-07-24,Referred to Outside Agency,
